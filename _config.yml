@@ -1,19 +1,15 @@
-
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+title: Cylmat
+desctiption: Cylmat provide explanation and tutorials about php and development
+url: https://cylmat.github.io
 permalink: ':title/'
 
 markdown: kramdown
-#baseurl: "/karna"
-full-version: "http://webjeda.com/karna-full/"
+full-version: https://cylmat.github.io
 
 sass:
     style: compressed
-
   
 #optimization
-#compress.html
 compress_html:
   clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
   comments: ["<!-- ", " -->"]
@@ -26,12 +22,11 @@ compress_html:
 
 highlight: rouge
 
-
 # Tracker
-analytics: UA-83979019-1
+analytics: UA
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: cylmat-demo
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here

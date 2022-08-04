@@ -33,7 +33,6 @@ disqus-shortname: cylmat-demo
 api-token:   
 
 include: [_pages]
-version: 0.8
 
 plugins: 
     - jekyll-paginate

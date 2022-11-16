@@ -6,21 +6,21 @@ permalink: /
 
 # Useful 
 
-### Algo DSA
+## Algo DSA
 * [Programiz - DSA](https://www.programiz.com/dsa)
 * [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
 * [GfG - Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
-### Architecture
+## Architecture
 * [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 * DDD / Architecture hexagonale
 * Architecture micro-services
 
-### Dev
+## Dev
 * [Git](https://git-scm.com/doc)
 * Regex: https://regexone.com
 
-### Editor
+## Editor
 **VIM**
 * https://vimawesome.com
 * https://www.vim.org
@@ -30,27 +30,26 @@ permalink: /
 **VSCODE**
 * https://code.visualstudio.com/docs
 
-### Linux
+## Linux
 - find xargs, grep sed awk
 
-### Protocol
+## Protocol
 * JSON: https://www.json.org
 * Unicode: https://home.unicode.org
 * JsonApi / Swagger
 
-### Server
+## Server
 * https://developer.mozilla.org/en-US/docs/Web/HTTP
 * https://httpd.apache.org/docs/2.4/howto
 * Docker
 
-### Techno
+## Techno
 * SSR Server-side Rendering
 
-### General
+## General
 - https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)
 
----
-### Interest
+## Interest
 - https://www.dev-box.app: Developer Toolbox
 - https://devtoys.app: Swiss Army Knife for Devs
 - https://www.opensourcealternative.to

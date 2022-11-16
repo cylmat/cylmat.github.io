@@ -1,12 +1,16 @@
+<div>
 **Algo DSA**
 * [Programiz - DSA](https://www.programiz.com/dsa)
 * [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
 * [GfG - Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
+</div>
 
+<div>
 **Architecture**
 * [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 * DDD / Architecture hexagonale
 * Architecture micro-services
+</div>
 
 **Dev**
 * [Git](https://git-scm.com/doc)

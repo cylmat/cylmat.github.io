@@ -1,9 +1,3 @@
----
-title: Useful
-layout: page
-permalink: /
----
-
 # Useful 
 
 ## Algo DSA

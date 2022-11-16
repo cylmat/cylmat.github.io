@@ -26,7 +26,7 @@ layout: default
 </div>
 </div>
 
-{% capture my_include %}{% include USEFUL.md %}{% endcapture %}
+{% capture my_include %}{% include_relative USEFUL.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 <!--script>window.location.href = "/documentation"</script-->

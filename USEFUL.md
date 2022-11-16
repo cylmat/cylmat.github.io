@@ -1,7 +1,7 @@
 # Useful 
 
 ### Algo DSA
-* https://www.programiz.com/dsa
+* [Programiz - DSA](https://www.programiz.com/dsa)
 * https://www.geeksforgeeks.org/data-structures
 * https://www.geeksforgeeks.org/fundamentals-of-algorithms
 

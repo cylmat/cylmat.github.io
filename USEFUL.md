@@ -1,5 +1,3 @@
-# Useful 
-
 ## Algo DSA
 * [Programiz - DSA](https://www.programiz.com/dsa)
 * [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)

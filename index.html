@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="container">
-<div id="grid" data-columns class="cols">
+<div id="grid" data-columns class="cols">{{dump()}}
     {% for post in site.posts %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}

@@ -1,27 +1,23 @@
-<div>
 **Algo DSA**
-* [Programiz - DSA](https://www.programiz.com/dsa)
-* [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
-* [GfG - Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
-</div>
++ [Programiz - DSA](https://www.programiz.com/dsa)
++ [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
++ [GfG - Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
-<div>
 **Architecture**
-* [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
-* DDD / Architecture hexagonale
-* Architecture micro-services
-</div>
++ [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
++ DDD / Architecture hexagonale
++ Architecture micro-services
 
 **Dev**
-* [Git](https://git-scm.com/doc)
-* Regex: https://regexone.com
++ [Git](https://git-scm.com/doc)
++ Regex: https://regexone.com
 
 **Editor**
 _VIM_
-* https://vimawesome.com
-* https://www.vim.org
-* https://vimhelp.org
-* https://vim.rtorr.com: Vim Cheat Sheet
++ https://vimawesome.com
++ https://www.vim.org
++ https://vimhelp.org
++ https://vim.rtorr.com: Vim Cheat Sheet
 
 _VSCODE_
 * https://code.visualstudio.com/docs

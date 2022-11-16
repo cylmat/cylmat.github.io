@@ -8,16 +8,16 @@ permalink: /
 
 ### Algo DSA
 * [Programiz - DSA](https://www.programiz.com/dsa)
-* https://www.geeksforgeeks.org/data-structures
-* https://www.geeksforgeeks.org/fundamentals-of-algorithms
+* [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
+* [GfG - Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
 ### Architecture
-* https://en.wikipedia.org/wiki/Software_design_pattern
+* [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 * DDD / Architecture hexagonale
 * Architecture micro-services
 
 ### Dev
-* https://git-scm.com/doc
+* [Git](https://git-scm.com/doc)
 * Regex: https://regexone.com
 
 ### Editor

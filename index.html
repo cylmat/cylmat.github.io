@@ -3,6 +3,9 @@ layout: default
 ---
 <div id="container">
 <div id="grid" data-columns class="cols">
+
+{% capture my_include %}{% include_relative USEFUL.md %}{% endcapture %}
+{{ my_include | markdownify }}
     
     <!--
     {% for post in site.posts %}
@@ -25,9 +28,6 @@ layout: default
 
 </div>
 </div>
-
-{% capture my_include %}{% include_relative USEFUL.md %}{% endcapture %}
-{{ my_include | markdownify }}
 
 <!--script>window.location.href = "/documentation"</script-->
 

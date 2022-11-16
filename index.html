@@ -3,7 +3,9 @@ layout: default
 ---
 <div id="container">
 <div id="grid" data-columns class="cols">
-    {% for post in site.posts %}
+    
+    {#
+    % for post in site.posts %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}
           <a href="{{post.url | prepend: site.baseurl}}">
@@ -18,7 +20,8 @@ layout: default
              </div> 
         </div>   
     </div>
-   {% endfor %}
+   {% endfor %
+    #}
     
     {% include _pages/about.md %}
 

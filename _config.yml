@@ -32,7 +32,7 @@ disqus-shortname: cylmat-demo
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token:   
 
-include: [_pages]
+include: []
 
 plugins: 
     - jekyll-paginate

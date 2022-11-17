@@ -7,9 +7,9 @@ permalink: /useful/
 ## News
 
 ### Tech
-* [Humancoder.com](https://news.humancoders.com/t/php)
 * [Developpez.com](https://php.developpez.com)
-* [PhpArch.com](https://www.phparch.com)
+* [Humancoder.com](https://news.humancoders.com/t/php)
+* [Phparch.com](https://www.phparch.com)
 * [Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 * [Zend.com](https://www.zend.com/blog)
 

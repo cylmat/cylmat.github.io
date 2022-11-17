@@ -10,12 +10,12 @@ permalink: /useful/
 * [Developpez.com](https://php.developpez.com)
 * [Humancoder.com](https://news.humancoders.com/t/php)
 * [Phparch.com](https://www.phparch.com)
-* [Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 * [Zend.com](https://www.zend.com/blog)
 
 ### News
 + [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)
 + [Grafikart.fr](https://grafikart.fr/blog)
++ [Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 
 ### Spec
 + [Sensiolabs.com](https://blog.sensiolabs.com)

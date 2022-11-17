@@ -4,14 +4,10 @@ layout: post
 permalink: /useful/
 ---
 
-<table><tr><td>
-
 ### Algo DSA
 + [Programiz - DSA](https://www.programiz.com/dsa)
 + [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
 + [GfG - Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
-
-</td><td>
 
 ### Architecture
 * Architecture hexagonale
@@ -19,24 +15,21 @@ permalink: /useful/
 * [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [DDD](https://alexsoyes.com/ddd-domain-driven-design)
 
-</td></tr></table>
-
-## Dev
+## Development
 + [Git](https://git-scm.com/doc)
 + Regex: https://regexone.com
 
 ## Editor
-_VIM_
-* https://vimawesome.com
-* https://www.vim.org
-* https://vimhelp.org
-* https://vim.rtorr.com: Vim Cheat Sheet
+* [**VIM**](https://www.vim.org)
+* [Vimawesome](https://vimawesome.com)
+* [Vim _help_](https://vimhelp.org)
+* [https://vim.rtorr.com](Vim Cheat Sheet)
 
-_VSCODE_
-* https://code.visualstudio.com/docs
++ [**VSCODE**](https://code.visualstudio.com/docs)
 
 ## Linux
-- find xargs, grep sed awk
+- [Find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs)
+- [Grep Sed Awk](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ## Protocol
 * [HTTP on MDN](https://developer.mozilla.org/fr/docs/Web/HTTP)

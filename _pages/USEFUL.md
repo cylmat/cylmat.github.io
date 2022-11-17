@@ -4,10 +4,11 @@ layout: post
 permalink: /useful/
 ---
 
-### Algo DSA
-+ DSA: [https://www.programiz.com/dsa](https://www.programiz.com/dsa)
-+ Data structures: [https://www.geeksforgeeks.org/data-structures](https://www.geeksforgeeks.org/data-structures)
-+ Fundamentals: [https://www.geeksforgeeks.org/fundamentals-of-algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
+### Algorithms
++ DSA: [https://www.programiz.com/dsa]
++ Data structures: (https://www.geeksforgeeks.org/data-structures)
++ Fundamentals: [https://www.geeksforgeeks.org/fundamentals-of-algorithms]
++ 100 days of code: [https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/]
 
 ### Architecture
 + Architecture hexagonale

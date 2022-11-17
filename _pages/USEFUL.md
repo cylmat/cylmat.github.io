@@ -7,19 +7,20 @@ permalink: /useful/
 ## News
 
 ### Tech
-* [Developpez.com](https://php.developpez.com)
-* [Humancoder.com](https://news.humancoders.com/t/php)
-* [Phparch.com](https://www.phparch.com)
-* [Zend.com](https://www.zend.com/blog)
+[Developpez.com](https://php.developpez.com)
+[Humancoder.com](https://news.humancoders.com/t/php)
+[Phparch.com](https://www.phparch.com)
+[Zend.com](https://www.zend.com/blog)
 
 ### News
-+ [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)
-+ [Grafikart.fr](https://grafikart.fr/blog)
-+ [Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
+[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)
+[Grafikart.fr](https://grafikart.fr/blog)
+[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)
+[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 
 ### Spec
-+ [Sensiolabs.com](https://blog.sensiolabs.com)
-+ [Symfony.com](https://symfony.com/blog)
+[Sensiolabs.com](https://blog.sensiolabs.com)
+[Symfony.com](https://symfony.com/blog)
 
 ---
 ## Links

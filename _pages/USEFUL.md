@@ -56,5 +56,11 @@ _VSCODE_
 * opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 
 ---
-## News
+## News & tech
 * https://www.zend.com/blog
+* https://grafikart.fr/blog
+* https://php.developpez.com
+* https://news.humancoders.com/t/php
+
++ https://grafikart.fr/blog
++ https://symfony.com/blog

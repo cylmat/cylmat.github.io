@@ -10,6 +10,7 @@ permalink: /useful/
 [Developpez.com](https://php.developpez.com) -
 [Humancoder.com](https://news.humancoders.com/t/php) -
 [Phparch.com](https://www.phparch.com) -
+[Phpnews.io](https://phpnews.io) -
 [Zend.com](https://www.zend.com/blog)
 
 ### News

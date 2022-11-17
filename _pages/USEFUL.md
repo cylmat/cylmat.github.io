@@ -5,49 +5,51 @@ permalink: /useful/
 ---
 
 ### Algo DSA
-+ [Programiz - DSA](https://www.programiz.com/dsa)
-+ [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
-+ [GfG - Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
++ DSA: [https://www.programiz.com/dsa](https://www.programiz.com/dsa)
++ Data structures: [https://www.geeksforgeeks.org/data-structures](https://www.geeksforgeeks.org/data-structures)
++ Fundamentals: [https://www.geeksforgeeks.org/fundamentals-of-algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
 ### Architecture
-* Architecture hexagonale
-* Architecture micro-services
-* [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
-* [DDD](https://alexsoyes.com/ddd-domain-driven-design)
++ Architecture hexagonale
++ Architecture micro-services
++ [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
++ [DDD](https://alexsoyes.com/ddd-domain-driven-design)
 
 ## Development
 + [Git](https://git-scm.com/doc)
 + Regex: https://regexone.com
 
 ## Editor
-* [**VIM**](https://www.vim.org)
-* [Vimawesome](https://vimawesome.com)
-* [Vim _help_](https://vimhelp.org)
-* [https://vim.rtorr.com](Vim Cheat Sheet)
+**VIM**
++ [**VIM**](https://www.vim.org)
++ [Vimawesome](https://vimawesome.com)
++ [Vim _help_](https://vimhelp.org)
++ Vim Cheat Sheet: [https://vim.rtorr.com](https://vim.rtorr.com)
 
-+ [**VSCODE**](https://code.visualstudio.com/docs)
+**VSCode**
+- VSCode docs: [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs)
 
 ## Linux
-- [Find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs)
-- [Grep Sed Awk](http://www.corporesano.org/doc-site/grepawksed.html)
+- [Find xargs (everythingcli.org)](https://www.everythingcli.org/find-exec-vs-find-xargs)
+- [Grep Sed Awk (corporesano.org)](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ## Protocol
-* [HTTP on MDN](https://developer.mozilla.org/fr/docs/Web/HTTP)
-* [JSON](https://www.json.org)
-* [Unicode](https://home.unicode.org)
-* JsonApi / Swagger
++ [HTTP(MDN)](https://developer.mozilla.org/fr/docs/Web/HTTP)
++ [JSON](https://www.json.org)
++ [Unicode](https://home.unicode.org)
++ JsonApi / Swagger
 
 ## Server
-* https://developer.mozilla.org/en-US/docs/Web/HTTP
-* https://httpd.apache.org/docs/2.4/howto
-* Docker
++ https://developer.mozilla.org/en-US/docs/Web/HTTP
++ https://httpd.apache.org/docs/2.4/howto
++ Docker
 
 ## Techno
-* SSR Server-side Rendering
++ SSR Server-side Rendering
 
 ---
 ## General
-- https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)
++ https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)
 
 ### Interest
 - https://www.dev-box.app: Developer Toolbox

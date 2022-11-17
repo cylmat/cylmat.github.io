@@ -5,20 +5,20 @@ permalink: /useful/
 ---
 
 ### Algorithms
-+ DSA: [https://www.programiz.com/dsa]
-+ Data structures: (https://www.geeksforgeeks.org/data-structures)
-+ Fundamentals: [https://www.geeksforgeeks.org/fundamentals-of-algorithms]
-+ 100 days of code: [https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/]
++ DSA: [programiz.com](https://www.programiz.com/dsa)
++ Data structures: [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)
++ Fundamentals: [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
++ 100 days of code: [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)
 
 ### Architecture
-+ Architecture hexagonale
++ Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 + Architecture micro-services
-+ [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
-+ [DDD](https://alexsoyes.com/ddd-domain-driven-design)
++ Design Patterns: [refactoring.guru](https://refactoring.guru/fr/design-patterns)
++ DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
 
 ## Development
-+ [Git](https://git-scm.com/doc)
-+ Regex: https://regexone.com
++ Git: [git-scm.com](https://git-scm.com/doc)
++ Regex: [regexone.com](https://regexone.com)
 
 ## Editor
 **VIM**

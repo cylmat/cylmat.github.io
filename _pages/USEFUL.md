@@ -1,5 +1,5 @@
 ---
-title: Useful links
+title: Useful
 layout: post
 permalink: /useful/
 ---

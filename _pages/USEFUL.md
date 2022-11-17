@@ -54,3 +54,7 @@ _VSCODE_
 - https://it-tools.tech
 * https://blog.testproject.io/2020/07/15/the-ultimate-postman-tutorial-for-api-testing
 * opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
+
+---
+## News
+* https://www.zend.com/blog

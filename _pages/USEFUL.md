@@ -39,9 +39,12 @@ permalink: /useful/
 + Design Patterns: [refactoring.guru](https://refactoring.guru/fr/design-patterns)
 + DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
 
+### Coding
++ Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
++ Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
+
 ### Development
 + Git: [git-scm.com](https://git-scm.com/doc)
-+ Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 + Regex: [regexone.com](https://regexone.com)
 
 ### Editor

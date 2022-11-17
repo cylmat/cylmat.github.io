@@ -4,19 +4,26 @@ layout: post
 permalink: /useful/
 ---
 
-### News & tech
-* https://grafikart.fr/blog
-* https://news.humancoders.com/t/php
-* https://php.developpez.com
-* https://www.phparch.com
-* https://www.zdnet.fr/actualites/php-4000000130q.htm
-* https://www.zend.com/blog
+## News
 
-+ https://dzone.com/web-development-programming-tutorials-tools-news
-+ https://grafikart.fr/blog
-+ https://symfony.com/blog
+### Tech
+* [Humancoder.com](https://news.humancoders.com/t/php)
+* [Developpez.com](https://php.developpez.com)
+* [PhpArch.com](https://www.phparch.com)
+* [Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
+* [Zend.com](https://www.zend.com/blog)
+
+### News
++ [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)
++ [Grafikart.fr](https://grafikart.fr/blog)
+
+### Spec
++ [Sensiolabs.com](https://blog.sensiolabs.com)
++ [Symfony.com](https://symfony.com/blog)
 
 ---
+## Links
+
 ### Algorithms
 + DSA: [programiz.com](https://www.programiz.com/dsa)
 + Data structures: [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)

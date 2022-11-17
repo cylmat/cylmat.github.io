@@ -62,5 +62,6 @@ _VSCODE_
 * https://php.developpez.com
 * https://news.humancoders.com/t/php
 
++ https://dzone.com/web-development-programming-tutorials-tools-news
 + https://grafikart.fr/blog
 + https://symfony.com/blog

@@ -61,6 +61,7 @@ _VSCODE_
 * https://news.humancoders.com/t/php
 * https://php.developpez.com
 * https://www.phparch.com
+* https://www.zdnet.fr/actualites/php-4000000130q.htm
 * https://www.zend.com/blog
 
 + https://dzone.com/web-development-programming-tutorials-tools-news

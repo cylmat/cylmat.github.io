@@ -3,4 +3,5 @@ title: Documentation
 layout: post
 permalink: /documentation/
 ---
-zaerzaer
+
+{{ include_relative ../USEFUL.md }}

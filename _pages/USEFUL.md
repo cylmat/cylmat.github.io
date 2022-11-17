@@ -11,6 +11,7 @@ permalink: /useful/
 [Humancoder.com](https://news.humancoders.com/t/php) -
 [Phparch.com](https://www.phparch.com) -
 [Phpnews.io](https://phpnews.io) -
+[Strangebuzz.com](https://www.strangebuzz.com/fr) -
 [Zend.com](https://www.zend.com/blog)
 
 ### News

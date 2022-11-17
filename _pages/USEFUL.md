@@ -57,10 +57,11 @@ _VSCODE_
 
 ---
 ## News & tech
-* https://www.zend.com/blog
 * https://grafikart.fr/blog
-* https://php.developpez.com
 * https://news.humancoders.com/t/php
+* https://php.developpez.com
+* https://www.phparch.com
+* https://www.zend.com/blog
 
 + https://dzone.com/web-development-programming-tutorials-tools-news
 + https://grafikart.fr/blog

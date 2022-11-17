@@ -5,6 +5,7 @@ permalink: /useful/
 ---
 
 <table><tr><td>
+
 ### Algo DSA
 + [Programiz - DSA](https://www.programiz.com/dsa)
 + [GfG - Data structures](https://www.geeksforgeeks.org/data-structures)
@@ -17,6 +18,7 @@ permalink: /useful/
 * Architecture micro-services
 * [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [DDD](https://alexsoyes.com/ddd-domain-driven-design)
+
 </td></tr></table>
 
 ## Dev

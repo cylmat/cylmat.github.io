@@ -79,6 +79,13 @@ permalink: /useful/
 + Redis: [redis.io](https://redis.io)
 
 ---
+**Videos**  
+[@AfupPhp](https://www.youtube.com/@afupPHP) -
+[@BeautyinCode](https://www.youtube.com/@BeautyinCode) -
+[@CoopTilleuls](https://www.youtube.com/@coopTilleuls) -
+[@DevTernity](https://www.youtube.com/@DevTernity) - 
+[@DDD_eu](https://www.youtube.com/@ddd_eu) -
+
 **Tips**
 - https://www.dev-box.app: Developer Toolbox
 - https://devtoys.app: Swiss Army Knife for Devs

@@ -47,6 +47,7 @@ permalink: /useful/
 ### Development
 + Git: [git-scm.com](https://git-scm.com/doc)
 + Regex: [regexone.com](https://regexone.com)
++ Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 
 ### Editor
 **VIM**

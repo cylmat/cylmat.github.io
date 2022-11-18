@@ -44,12 +44,6 @@ permalink: /useful/
 + Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 + Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 
-### Development
-+ Git: [git-scm.com](https://git-scm.com/doc)
-+ Regex: [regexone.com](https://regexone.com)
-+ Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
-
-### Editor
 **VIM**
 + VIM: [vim.org](https://www.vim.org)
 + Vim awesome: [vimawesome.com](https://vimawesome.com)
@@ -58,6 +52,11 @@ permalink: /useful/
 
 **VSCode**
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
+
+### Development
++ Git: [git-scm.com](https://git-scm.com/doc)
++ Regex: [regexone.com](https://regexone.com)
++ Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 
 ### Linux
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
@@ -70,12 +69,10 @@ permalink: /useful/
 + Unicode: [unicode.org](https://home.unicode.org)
 + Swagger
 
-### Server
-+ Apache howto: [apache.org](https://httpd.apache.org/docs/2.4/howto)
-+ Docker: [docker.com](https://docs.docker.com)
-
 ### Tools
 + Api: [api-platform.com](https://api-platform.com)
++ Apache howto: [apache.org](https://httpd.apache.org/docs/2.4/howto)
++ Docker: [docker.com](https://docs.docker.com)
 
 ---
 **Tips**

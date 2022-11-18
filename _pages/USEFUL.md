@@ -54,7 +54,9 @@ permalink: /useful/
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
 ### Development
++ Composer: [getcomposer.org](https://getcomposer.org/doc)
 + Git: [git-scm.com](https://git-scm.com/doc)
++ Git book: [alexgirard.com](https://alexgirard.com/git-book)
 + Regex: [regexone.com](https://regexone.com)
 + Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 

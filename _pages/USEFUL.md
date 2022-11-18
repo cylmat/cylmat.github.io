@@ -85,7 +85,7 @@ permalink: /useful/
 [@Computerphile](https://www.youtube.com/@Computerphile) -
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) -
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
-[@DDD_eu](https://www.youtube.com/@ddd_eu) -
+[@DDD_eu](https://www.youtube.com/@ddd_eu)
 
 **Tips**
 - https://www.dev-box.app: Developer Toolbox

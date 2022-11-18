@@ -7,17 +7,11 @@ permalink: /useful/
 ## News
 
 ### Tech
-[Phpnews.io](https://phpnews.io) -
-[Strangebuzz.com](https://www.strangebuzz.com/fr) -
-[Zend.com](https://www.zend.com/blog)
-
+[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|[Zend.com](https://www.zend.com/blog)|
 |[Developpez.com](https://php.developpez.com)|[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
 
 ### News
-[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news) -
-[Grafikart.fr](https://grafikart.fr/blog) -
-[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web) -
-[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
+[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 
 ### Spec
 |[Phptherightway.com](https://phptherightway.com)|[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
@@ -26,10 +20,7 @@ permalink: /useful/
 ## Links
 
 ### Algorithms
-|Data structures: [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)
-|Fundamentals: [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
-|100 days of code: [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)
-|
+|Data structures: [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals: [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|100 days of code: [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|
 
 - DSA: [programiz.com](https://www.programiz.com/dsa)
 - Freecodecamp: [freecodecamp.org](https://www.freecodecamp.org/learn)

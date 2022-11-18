@@ -11,7 +11,7 @@ permalink: /useful/
 |[Developpez.com](https://php.developpez.com)|[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
 
 ### News
-[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)
+|[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)|
 
 ### Spec
 |[Phptherightway.com](https://phptherightway.com)|[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
@@ -22,7 +22,7 @@ permalink: /useful/
 ### Algorithms
 |Data structures [Geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [Geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|
 
-|[DSA programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|[Hackerrank.com](https://www.hackerrank.com)|LeetCode: [Leetcode.com](https://leetcode.com/explore)
+|[DSA programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
 
 ### Architecture
 + Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)

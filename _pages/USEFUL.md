@@ -7,7 +7,7 @@ permalink: /useful/
 ## News
 
 ### Tech
-[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|[Zend.com](https://www.zend.com/blog)|  
+|[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|[Zend.com](https://www.zend.com/blog)|  
 |[Developpez.com](https://php.developpez.com)|[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
 
 ### News
@@ -20,12 +20,9 @@ permalink: /useful/
 ## Links
 
 ### Algorithms
-|Data structures: [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals: [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|100 days of code: [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|
+|Data structures [Geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [Geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|
 
-- DSA: [programiz.com](https://www.programiz.com/dsa)
-- Freecodecamp: [freecodecamp.org](https://www.freecodecamp.org/learn)
-- HackerRank: [hackerrank.com](https://www.hackerrank.com)
-- LeetCode: [leetcode.com](https://leetcode.com/explore)
+|[DSA programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|[Hackerrank.com](https://www.hackerrank.com)|LeetCode: [Leetcode.com](https://leetcode.com/explore)
 
 ### Architecture
 + Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)

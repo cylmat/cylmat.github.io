@@ -41,8 +41,11 @@ permalink: /useful/
 + DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
 
 ### Coding
++ CodeGolf: [code.golf](https://code.golf)
++ Root-me: [root-me.org](https://www.root-me.org)
 + Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 + Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
++ VimGolf: [vimgolf.com](https://www.vimgolf.com)
 
 **VIM**
 + VIM: [vim.org](https://www.vim.org)

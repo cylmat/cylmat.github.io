@@ -65,13 +65,12 @@ permalink: /useful/
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ### Protocol
-| GraphQL: [graphql.org](https://graphql.org)
-| HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
-| JSON: [json.org](https://www.json.org)
-| JsonApi
-| Unicode: [unicode.org](https://home.unicode.org)
-| Swagger
-|
++ GraphQL: [graphql.org](https://graphql.org)+
++ HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
++ JSON: [json.org](https://www.json.org)
++ JsonApi
++ Unicode: [unicode.org](https://home.unicode.org)
++ Swagger
 
 ### Tools
 + Api: [api-platform.com](https://api-platform.com)

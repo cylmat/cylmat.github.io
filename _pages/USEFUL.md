@@ -7,7 +7,7 @@ permalink: /useful/
 ## News
 
 ### Tech
-[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|[Zend.com](https://www.zend.com/blog)|
+[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|[Zend.com](https://www.zend.com/blog)|  
 |[Developpez.com](https://php.developpez.com)|[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
 
 ### News

@@ -29,10 +29,14 @@ permalink: /useful/
 ## Links
 
 ### Algorithms
-+ DSA: [programiz.com](https://www.programiz.com/dsa)
 + Data structures: [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)
 + Fundamentals: [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 + 100 days of code: [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)
+
+- DSA: [programiz.com](https://www.programiz.com/dsa)
+- Freecodecamp: [freecodecamp.org](https://www.freecodecamp.org/learn)
+- HackerRank: [hackerrank.com](https://www.hackerrank.com)
+- LeetCode: [leetcode.com](https://leetcode.com/explore)
 
 ### Architecture
 + Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
@@ -60,6 +64,7 @@ permalink: /useful/
 + Composer: [getcomposer.org](https://getcomposer.org/doc)
 + Git: [git-scm.com](https://git-scm.com/doc)
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
++ Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
 + Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 

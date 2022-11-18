@@ -43,6 +43,7 @@ permalink: /useful/
 + Architecture micro-services
 + Design Patterns: [refactoring.guru](https://refactoring.guru/fr/design-patterns)
 + DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
++ Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 
 ### Coding
 + CodeGolf: [code.golf](https://code.golf)

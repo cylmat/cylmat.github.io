@@ -82,6 +82,7 @@ permalink: /useful/
 **Videos**  
 [@AfupPhp](https://www.youtube.com/@afupPHP) -
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) -
+[@Computerphile](https://www.youtube.com/@Computerphile) -
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) -
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@DDD_eu](https://www.youtube.com/@ddd_eu) -

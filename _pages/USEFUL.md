@@ -20,14 +20,13 @@ permalink: /useful/
 ### Spec
 
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
-[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
+|[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
 |[Doctrine-project.org](https://www.doctrine-project.org)||
 
 ---
 ## Daily
 
-|[Code.golf](https://code.golf)|[DP Refactoring.guru](https://refactoring.guru/fr/design-patterns)|
-|[Root-me.org](https://www.root-me.org)|[Vimgolf.com](https://www.vimgolf.com)|
+|[Code.golf](https://code.golf)|[Root-me.org](https://www.root-me.org)|[Vimgolf.com](https://www.vimgolf.com)|
 
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
@@ -45,7 +44,7 @@ permalink: /useful/
 + Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 + Architecture micro-services
 + DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
-+ Design Patterns: [springframework.guru](https://springframework.guru/gang-of-four-design-patterns)
++ Design Patterns: [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)
 + OSI: [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 
 ### Coding

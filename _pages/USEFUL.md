@@ -6,16 +6,16 @@ permalink: /useful/
 
 ## News
 
+### News
+
+|[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|
+|[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)|
+
 ### Tech
 
 |[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|
 |[Zend.com](https://www.zend.com/blog)|[Developpez.com](https://php.developpez.com)|
 |[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
-
-### News
-
-|[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|
-|[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)|
 
 ### Spec
 

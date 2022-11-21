@@ -38,7 +38,8 @@ permalink: /useful/
 ### Algorithms
 
 |Data structures [Geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [Geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|
-|100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|DSA [Codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
+|[Interviewbit.com](https://www.interviewbit.com/courses/programming)|DSA [Codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
+100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)
 
 ### Architecture
 + Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
@@ -80,6 +81,7 @@ permalink: /useful/
 + Api: [api-platform.com](https://api-platform.com)
 + Apache howto: [apache.org](https://httpd.apache.org/docs/2.4/howto)
 + Docker: [docker.com](https://docs.docker.com)
++ RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
 
 ---

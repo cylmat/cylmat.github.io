@@ -21,40 +21,41 @@ permalink: /useful/
 
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
 [Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
+|[Doctrine-project.org](https://www.doctrine-project.org)||
+
+---
+## Daily
+
+|[Code.golf](https://code.golf)|[DP Refactoring.guru](https://refactoring.guru/fr/design-patterns)|
+|[Root-me.org](https://www.root-me.org)|[Vimgolf.com](https://www.vimgolf.com)|
+
+|[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
+|[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
 
 ---
 ## Links
 
 ### Algorithms
 
-|[DSA programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
-|[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
-
 |Data structures [Geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [Geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|
-|100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)||
+|100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|25 best algos [medium.com](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)|
 
 ### Architecture
 + Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 + Architecture micro-services
-+ Design Patterns: [refactoring.guru](https://refactoring.guru/fr/design-patterns)
 + DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
-+ Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
++ OSI: [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 
 ### Coding
-+ CodeGolf: [code.golf](https://code.golf)
-+ Root-me: [root-me.org](https://www.root-me.org)
 + Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 + Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
-+ VimGolf: [vimgolf.com](https://www.vimgolf.com)
++ Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 
-**VIM**
 + VIM: [vim.org](https://www.vim.org)
 + Vim awesome: [vimawesome.com](https://vimawesome.com)
 + Vim help: [vimhelp.org](https://vimhelp.org)
 + Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)
-
-**VSCode**
-- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
++ VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
 ### Development
 + Composer: [getcomposer.org](https://getcomposer.org/doc)
@@ -62,7 +63,6 @@ permalink: /useful/
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
-+ Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 
 ### Linux
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
@@ -97,5 +97,5 @@ permalink: /useful/
 - https://www.opensourcealternative.to
 - https://it-tools.tech
 * https://blog.testproject.io/2020/07/15/the-ultimate-postman-tutorial-for-api-testing
-* opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
+* Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 + SSR Server-side Rendering

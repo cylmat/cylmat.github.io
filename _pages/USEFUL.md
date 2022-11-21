@@ -47,15 +47,15 @@ permalink: /useful/
 + OSI: [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 
 ### Coding
-+ Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
-+ Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
-+ Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
-
-+ VIM: [vim.org](https://www.vim.org)
-+ Vim awesome: [vimawesome.com](https://vimawesome.com)
-+ Vim help: [vimhelp.org](https://vimhelp.org)
-+ Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)
-+ VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
+- Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
+- Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
+- Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
+  
+- VIM: [vim.org](https://www.vim.org)
+- Vim awesome: [vimawesome.com](https://vimawesome.com)
+- Vim help: [vimhelp.org](https://vimhelp.org)
+- Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)
+- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
 ### Development
 + Composer: [getcomposer.org](https://getcomposer.org/doc)

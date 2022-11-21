@@ -19,8 +19,8 @@ permalink: /useful/
 
 ### Spec
 
-|[Phptherightway.com](https://phptherightway.com)|[Sensiolabs.com](https://blog.sensiolabs.com)|
-|[Symfony.com](https://symfony.com/blog)|
+|[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
+[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
 
 ---
 ## Links

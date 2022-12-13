@@ -56,6 +56,7 @@ permalink: /useful/
 - Vim awesome: [vimawesome.com](https://vimawesome.com)
 - Vim help: [vimhelp.org](https://vimhelp.org)
 - Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)
+- Vim quick ref: [quickref.me](https://quickref.me/vim)
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
 ### Development

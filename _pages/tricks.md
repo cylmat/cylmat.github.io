@@ -4,11 +4,10 @@ layout: post
 permalink: /tricks/
 ---
 
-## Tricks
+<style>
+  img { width: 80px; height: 60px; }
+</style>
 
 ### Magic coin
 
-- [![https://i.ytimg.com/an_webp/uazjOSE9vgE/mqdefault_6s.webp?du=3000&sqp=COSi7ZwG&rs=AOn4CLA5MEAjMVDniZjHhTOncwlRMyfhRQ]Expert Coin Magic Made Easy par David Roth](https://www.youtube.com/watch?v=uazjOSE9vgE)
-- [![https://i.ytimg.com/an_webp/uazjOSE9vgE/mqdefault_6s.webp?du=3000&sqp=COSi7ZwG&rs=AOn4CLA5MEAjMVDniZjHhTOncwlRMyfhRQ]Expert Coin Magic Made Easy par David Roth](https://www.youtube.com/watch?v=uazjOSE9vgE)
-- ![Alt](https://i.ytimg.com/an_webp/uazjOSE9vgE/mqdefault_6s.webp?du=3000&sqp=COSi7ZwG&rs=AOn4CLA5MEAjMVDniZjHhTOncwlRMyfhRQ)
-- [![Expert coin magic](https://i.ytimg.com/an_webp/uazjOSE9vgE/mqdefault_6s.webp?du=3000&sqp=COSi7ZwG&rs=AOn4CLA5MEAjMVDniZjHhTOncwlRMyfhRQ)](https://www.youtube.com/watch?v=uazjOSE9vgE)
+- ![Expert coin](https://i.ytimg.com/an_webp/uazjOSE9vgE/mqdefault_6s.webp?du=3000&sqp=COSi7ZwG&rs=AOn4CLA5MEAjMVDniZjHhTOncwlRMyfhRQ)] - [Expert Coin Magic Made Easy par David Roth](https://www.youtube.com/watch?v=uazjOSE9vgE)

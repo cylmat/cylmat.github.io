@@ -27,6 +27,7 @@ Vanish
 - [Surreal COIN TRICK](https://www.youtube.com/watch?v=Nv6-_j1ayfg)
 - [BEST COIN VANISH](https://www.youtube.com/watch?v=T0Ih8MOZl6w)
 - [Best COIN TRICK](https://www.youtube.com/watch?v=xkig3h1c7Uk)
+- [La pièce à travers le verre](https://www.youtube.com/watch?v=T37AUVkuyBo)
 
 ### Pen tricks
 

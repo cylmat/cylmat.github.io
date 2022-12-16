@@ -102,3 +102,6 @@ permalink: /useful/
 * https://blog.testproject.io/2020/07/15/the-ultimate-postman-tutorial-for-api-testing
 * Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 + SSR Server-side Rendering
+
+---
+|[Tricks](/tricks)|

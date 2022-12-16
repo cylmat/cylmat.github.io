@@ -19,6 +19,7 @@ Vanish
 - [Coin Magic Tutorial: part 1](https://www.youtube.com/watch?v=ggyU729JA7Q)
 - [Coin Magic Tutorial: part 2](https://www.youtube.com/watch?v=okyqi42PTRU)
 - [Coin Magic Tutorial: part 3](https://www.youtube.com/watch?v=fdrMuTmC6mQ)
+- [Practicing with drills](https://www.youtube.com/watch?v=eeUlFMyionM)
 
 - [8 SIMPLE Coin Tricks Anyone Can Do](https://www.youtube.com/watch?v=YnUNEvbj8Kc)
 - [AMAZING COIN VANISH](https://www.youtube.com/watch?v=XxjrfUVcKw8)

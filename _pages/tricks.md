@@ -37,3 +37,4 @@ Vanish
 ### Croquis
 
 - [Faire un croquis pas à pas](https://www.youtube.com/watch?v=H9TM-h7h4i4)
+- [Dessin d'observation](https://www.youtube.com/watch?v=ijBAP2Za61A)

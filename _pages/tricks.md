@@ -4,10 +4,6 @@ layout: post
 permalink: /tricks/
 ---
 
-<style>
-  img { width: 80px; height: 60px; }
-</style>
-
 ### Magic coin
 
 - [Expert Coin Magic Made Easy par David Roth](https://www.youtube.com/watch?v=uazjOSE9vgE)
@@ -28,7 +24,12 @@ Vanish
 - [BEST COIN VANISH](https://www.youtube.com/watch?v=T0Ih8MOZl6w)
 - [Best COIN TRICK](https://www.youtube.com/watch?v=xkig3h1c7Uk)
 - [La pièce à travers le verre](https://www.youtube.com/watch?v=T37AUVkuyBo)
+- [10 impossiblr coin tricks](https://www.youtube.com/watch?v=HzxFZQSA-Kc)
 
 ### Pen tricks
 
 - [5 TOURS FACILES AVEC UN STYLO](https://www.youtube.com/watch?v=Vkxe8ExJpI4)
+- [WorldXM list - PenSpinning Charge](https://www.youtube.com/watch?v=3-ccWgaF_5E&list=UULPLuRStMzfQg-OUglveuP_6w)
+- [WorldXM - Fingerpass](https://www.youtube.com/watch?v=8MTipQ7Sq5s&list=UULPLuRStMzfQg-OUglveuP_6w)
+- [WorldXM - Sonic](https://www.youtube.com/watch?v=tNnr7e271VE)
+- [AlphaSnap channel](https://www.youtube.com/@AlphaSnap21)

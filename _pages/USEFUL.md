@@ -9,7 +9,7 @@ permalink: /useful/
 ### News
 
 |[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)|
-|[Journaldunet.com](https://www.journaldunet.com/web-tech/)|[Lemondeinformatique.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)|
+|[Journaldunet.com](https://www.journaldunet.com/web-tech/)|[Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)|
 |[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|
 
 ### Tech
@@ -43,6 +43,7 @@ permalink: /useful/
 100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)||
 
 ### Architecture
+
 |Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)|Architecture logicielle [wikipedia.org](https://fr.wikipedia.org/wiki/Architecture_logicielle)|
 |DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns: [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
 |OSI: [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)||

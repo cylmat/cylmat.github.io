@@ -26,7 +26,8 @@ permalink: /useful/
 ---
 ## Daily
 
-|[Code.golf](https://code.golf)|[Root-me.org](https://www.root-me.org)|[Vimgolf.com](https://www.vimgolf.com)|
+|[Code.golf](https://code.golf)|[Root-me.org](https://www.root-me.org)|
+|[Vimgolf.com](https://www.vimgolf.com)||
 
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
@@ -36,9 +37,9 @@ permalink: /useful/
 
 ### Algorithms
 
-|Data structures [Geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [Geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)||
+|Data structures [Geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [Geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|
 |[Interviewbit.com](https://www.interviewbit.com/courses/programming)|DSA [Codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
-100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|
+100 days of code [Geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)||
 
 ### Architecture
 + Architecture hexagonale: [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
@@ -105,5 +106,5 @@ permalink: /useful/
 
 ---
 <center>
-|[Tricks](/tricks)|
+[Tricks](https://cylmat.github.io/tricks)
 </center>

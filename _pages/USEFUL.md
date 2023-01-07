@@ -8,8 +8,9 @@ permalink: /useful/
 
 ### News
 
-|[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|
 |[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)|
+|[Journaldunet.com](https://www.journaldunet.com/web-tech/)|[Lemondeinformatique.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)|
+|[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|
 
 ### Tech
 

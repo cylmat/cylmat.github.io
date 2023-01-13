@@ -44,7 +44,7 @@ permalink: /useful/
 
 ### Architecture
 
-|Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)|Architecture logicielle [wikipedia.org](https://fr.wikipedia.org/wiki/Architecture_logicielle)|
+|Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)|Architecture logicielle [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)|
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
 |OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)||
 

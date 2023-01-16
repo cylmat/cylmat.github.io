@@ -29,7 +29,6 @@ permalink: /useful/
 
 |[Code.golf](https://code.golf)|[Root-me.org](https://www.root-me.org)|
 |[Vimgolf.com](https://www.vimgolf.com)||
-
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
 
@@ -66,6 +65,12 @@ permalink: /useful/
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
+
+### Front
+- Bootstrap: [getbootstrap.com](https://getbootstrap.com)
+- jQuery: [jquery.com](https://blog.jquery.com)
+- NodeJs: [nodejs.org](https://nodejs.org/en/docs)
+- TypeScript: [typescriptlang.org](https://www.typescriptlang.org/docs)
 
 ### Linux
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)

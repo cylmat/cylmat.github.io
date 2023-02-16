@@ -66,6 +66,7 @@ permalink: /useful/
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
++ Regex tuto: [lumadis.be](https://lumadis.be/regex)
 
 ### Front
 - Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)

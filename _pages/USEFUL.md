@@ -101,6 +101,9 @@ permalink: /useful/
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) -
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@DDD_eu](https://www.youtube.com/@ddd_eu)
+   
+[FF Golf](https://www.youtube.com/c/ffgolf/videos) - 
+[PGA Tour](https://www.youtube.com/PGATOUR)
 
 **Tips**
 - https://www.dev-box.app: Developer Toolbox
@@ -112,6 +115,4 @@ permalink: /useful/
 + SSR Server-side Rendering
 
 ---
-<center>
-[Tricks](https://cylmat.github.io/tricks)
-</center>
+- [Tricks](https://cylmat.github.io/tricks)

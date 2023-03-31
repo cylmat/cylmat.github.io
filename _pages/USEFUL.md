@@ -59,10 +59,10 @@ permalink: /useful/
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 |
 
-|- Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
-- Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))|- Vim awesome: [vimawesome.com](https://vimawesome.com)
-- Vim help: [vimhelp.org](https://vimhelp.org)
-- Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)|
+|Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)  
+Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))  |Vim awesome: [vimawesome.com](https://vimawesome.com)  
+Vim help: [vimhelp.org](https://vimhelp.org)  
+Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)|
 
 ### Coding
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)

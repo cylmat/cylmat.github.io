@@ -90,6 +90,7 @@ permalink: /useful/
 + HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
 + JSON: [json.org](https://www.json.org)
 + JsonApi
++ REST: [restfulapi.net](https://restfulapi.net/hateoas)
 + Unicode: [unicode.org](https://home.unicode.org)
 + Swagger
 

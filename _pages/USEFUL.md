@@ -47,6 +47,18 @@ permalink: /useful/
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
 |OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)|Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|
 
+|
+### test
+- Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
+- Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
+- Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
+|
+### test2
+- Vim quick ref: [quickref.me](https://quickref.me/vim)
+- Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
+- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
+|
+
 ### Coding
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))

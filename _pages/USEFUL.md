@@ -47,28 +47,7 @@ permalink: /useful/
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
 |OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)|Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|
 
-|
-### test
-- Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
-- Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
-- Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
-|
-### test2
-- Vim quick ref: [quickref.me](https://quickref.me/vim)
-- Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
-- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
-|
-
-<table><tr>
-  <td>rtr<br/>fdfgdghg<br/>fdgdfgffgd</td><td>rtr<br/>fdfgdghg<br/>fdgdfgffgd</td>
-  <td>dfgfg</td><td>dfgfg</td>
-</tr>
-</table>
-
-|Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)  
-Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))  |Vim awesome: [vimawesome.com](https://vimawesome.com)  
-Vim help: [vimhelp.org](https://vimhelp.org)  
-Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)|
+<table><tr><td>
 
 ### Coding
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
@@ -90,6 +69,8 @@ Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)|
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)
+  
+</td><td>
 
 ### Front
 - Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)
@@ -115,6 +96,8 @@ Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)|
 + Docker: [docker.com](https://docs.docker.com)
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
+
+</td></tr></table>
 
 ---
 **Videos**  

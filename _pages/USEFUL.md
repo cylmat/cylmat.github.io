@@ -23,7 +23,7 @@ permalink: /useful/
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
 |[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
 |[Doctrine-project.org](https://www.doctrine-project.org)||
-
+  
 ---
 ## Daily
 
@@ -31,7 +31,7 @@ permalink: /useful/
 |[Vimgolf.com](https://www.vimgolf.com)||
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
-
+  
 ---
 ## Links
 
@@ -58,6 +58,12 @@ permalink: /useful/
 - Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 |
+
+<table><tr>
+  <td>rtr<br/>fdfgdghg<br/>fdgdfgffgd</td><td>rtr<br/>fdfgdghg<br/>fdgdfgffgd</td>
+  <td>dfgfg</td><td>dfgfg</td>
+</tr>
+</table>
 
 |Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)  
 Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))  |Vim awesome: [vimawesome.com](https://vimawesome.com)  

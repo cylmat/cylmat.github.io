@@ -47,8 +47,6 @@ permalink: /useful/
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
 |OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)|Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|
 
-<table><tr><td>
-
 ### Coding
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
@@ -69,8 +67,13 @@ permalink: /useful/
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)
-  
-</td><td>
+
+### Doc
++ Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
++ 12 factors: [12factor.net](https://12factor.net)
++ XP: [extremeprogramming.org](http://www.extremeprogramming.org)
++ BDD: [cucumber.io](https://cucumber.io/docs/bdd)
++ TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
 
 ### Front
 - Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)
@@ -96,8 +99,6 @@ permalink: /useful/
 + Docker: [docker.com](https://docs.docker.com)
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
-
-</td></tr></table>
 
 ---
 **Videos**  

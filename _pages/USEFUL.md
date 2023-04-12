@@ -67,6 +67,7 @@ permalink: /useful/
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)
++ Regex info: [regular-expressions.info](https://www.regular-expressions.info)
 
 ### Doc
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)

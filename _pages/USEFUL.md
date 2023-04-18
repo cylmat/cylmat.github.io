@@ -22,7 +22,7 @@ permalink: /useful/
 
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
 |[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
-|[Doctrine-project.org](https://www.doctrine-project.org)||
+|[Doctrine-project.org](https://www.doctrine-project.org)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
   
 ---
 ## Daily
@@ -31,6 +31,9 @@ permalink: /useful/
 |[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
+
+- [Google](https://developers.google.com/learn) - Tutorialspoint [big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm) - [W3](https://www.w3.org) - [W3schools](https://www.w3schools.com)
+
   
 ---
 ## Links
@@ -101,10 +104,6 @@ permalink: /useful/
 + Docker: [docker.com](https://docs.docker.com)
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
-
----
-**Learn**  
-- Tutorialspoint.com: [BIG](https://www.tutorialspoint.com/big_data_tutorials.htm) - [DB](https://www.tutorialspoint.com/database_tutorials.htm) - [MAN](https://www.tutorialspoint.com/management_tutorials.htm) - [OPS](https://www.tutorialspoint.com/devops_tutorials.htm) - [PROG](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [WEB](https://www.tutorialspoint.com/web_development_tutorials.htm)
 
 ---
 **Videos**  

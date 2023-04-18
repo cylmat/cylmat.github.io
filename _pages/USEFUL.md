@@ -103,6 +103,10 @@ permalink: /useful/
 + Redis: [redis.io](https://redis.io)
 
 ---
+**Learn**  
+- Tutorialspoint.com: [BIG](https://www.tutorialspoint.com/big_data_tutorials.htm) - [DB](https://www.tutorialspoint.com/database_tutorials.htm) - [MAN](https://www.tutorialspoint.com/management_tutorials.htm) - [PROG](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [WEB](https://www.tutorialspoint.com/web_development_tutorials.htm)
+
+---
 **Videos**  
 [@AfupPhp](https://www.youtube.com/@afupPHP) -
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) -
@@ -110,9 +114,6 @@ permalink: /useful/
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) -
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@DDD_eu](https://www.youtube.com/@ddd_eu)
-   
-[FF Golf](https://www.youtube.com/c/ffgolf/videos) - 
-[PGA Tour](https://www.youtube.com/PGATOUR)
 
 **Tips**
 - https://www.dev-box.app: Developer Toolbox
@@ -124,4 +125,4 @@ permalink: /useful/
 + SSR Server-side Rendering
 
 ---
-- [Tricks](https://cylmat.github.io/tricks)
+- [Tricks](https://cylmat.github.io/tricks) - [FF Golf](https://www.youtube.com/c/ffgolf/videos) - [PGA Tour](https://www.youtube.com/PGATOUR)

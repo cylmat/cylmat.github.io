@@ -104,7 +104,7 @@ permalink: /useful/
 
 ---
 **Learn**  
-- Tutorialspoint.com: [BIG](https://www.tutorialspoint.com/big_data_tutorials.htm) - [DB](https://www.tutorialspoint.com/database_tutorials.htm) - [MAN](https://www.tutorialspoint.com/management_tutorials.htm) - [PROG](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [WEB](https://www.tutorialspoint.com/web_development_tutorials.htm)
+- Tutorialspoint.com: [BIG](https://www.tutorialspoint.com/big_data_tutorials.htm) - [DB](https://www.tutorialspoint.com/database_tutorials.htm) - [MAN](https://www.tutorialspoint.com/management_tutorials.htm) - [OPS](https://www.tutorialspoint.com/devops_tutorials.htm) - [PROG](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [WEB](https://www.tutorialspoint.com/web_development_tutorials.htm)
 
 ---
 **Videos**  

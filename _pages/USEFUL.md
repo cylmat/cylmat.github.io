@@ -4,9 +4,9 @@ layout: post
 permalink: /useful/
 ---
 
-## News
+## <center>News</center>
 
-### News
+### Général
 
 |[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr/actualites/php-4000000130q.htm)|
 |[Journaldunet.com](https://www.journaldunet.com/web-tech/)|[Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)|

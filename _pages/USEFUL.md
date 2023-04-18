@@ -24,8 +24,8 @@ permalink: /useful/
 |[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
 |[Doctrine-project.org](https://www.doctrine-project.org)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
   
----
-## Daily
+
+## <center>Daily</center>
 
 |[Code.golf](https://code.golf)|[Vimgolf.com](https://www.vimgolf.com)|
 |[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|
@@ -35,8 +35,7 @@ permalink: /useful/
 - [Google](https://developers.google.com/learn) - Tutorialspoint [big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm) - [W3](https://www.w3.org) - [W3schools](https://www.w3schools.com)
 
   
----
-## Links
+## <center>Links</center>
 
 ### Algorithms
 
@@ -123,5 +122,6 @@ permalink: /useful/
 * Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 + SSR Server-side Rendering
 
----
-- [Tricks](https://cylmat.github.io/tricks) - [FF Golf](https://www.youtube.com/c/ffgolf/videos) - [PGA Tour](https://www.youtube.com/PGATOUR)
+<center>
+  [Tricks](https://cylmat.github.io/tricks) - [FF Golf](https://www.youtube.com/c/ffgolf/videos) - [PGA Tour](https://www.youtube.com/PGATOUR)
+</center>

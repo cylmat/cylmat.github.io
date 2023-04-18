@@ -24,8 +24,7 @@ permalink: /useful/
 |[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
 |[Doctrine-project.org](https://www.doctrine-project.org)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
   
-
-## <center>Daily</center>
+#### **Daily learn**
 
 |[Code.golf](https://code.golf)|[Vimgolf.com](https://www.vimgolf.com)|
 |[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|

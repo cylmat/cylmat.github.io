@@ -28,10 +28,11 @@ permalink: /useful/
 <center>- **Daily learn** -</center>
 
 |[Code.golf](https://code.golf)|[Vimgolf.com](https://www.vimgolf.com)|
-|[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
-|[Portswigger.net](https://portswigger.net/web-security)||
+
+|[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|
+|[Portswigger.net](https://portswigger.net/web-security)|[Owasp.org](https://owasp.org/www-project-top-ten)|
 
 - [Google](https://developers.google.com/learn) - Tutorialspoint ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm)) - [W3](https://www.w3.org) - [W3schools](https://www.w3schools.com)
   

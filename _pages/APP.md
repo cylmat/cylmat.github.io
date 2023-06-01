@@ -9,3 +9,6 @@ permalink: /app/
 ### Général
 
 SCA - IaC - SAST - DAST
+
+### DB
+- Redis.io

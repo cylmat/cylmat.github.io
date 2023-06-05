@@ -12,3 +12,6 @@ SCA - IaC - SAST - DAST
 
 ### DB
 - Redis.io
+
+### Security
+- https://www.cvedetails.com: CVE security vulnerability database. Security vulnerabilities, exploits, references and more

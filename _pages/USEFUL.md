@@ -17,6 +17,7 @@ permalink: /useful/
 |[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|
 |[Zend.com](https://www.zend.com/blog)|[Developpez.com](https://php.developpez.com)|
 |[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
+
 * [Thecodecadence](https://thecodecadence.medium.com)
 
 ### Spec

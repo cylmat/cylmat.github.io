@@ -99,12 +99,39 @@ permalink: /useful/
 + Unicode: [unicode.org](https://home.unicode.org)
 + Swagger
 
-### Tools
+### Security
+- https://owasp.org
+
+---
+# <center>App</center>
+---
+
+### Général
+
+SCA - IaC - SAST - DAST
+
+### Api
 + Api: [api-platform.com](https://api-platform.com)
-+ Apache howto: [apache.org](https://httpd.apache.org/docs/2.4/howto)
-+ Docker: [docker.com](https://docs.docker.com)
+
+### DB
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
+
+### Server
++ Apache: [apache.org](https://httpd.apache.org)
++ Docker: [docker.com](https://docs.docker.com)
++ Nginx: [nginx.com](https://docs.nginx.com)
+
+---
+Website Online
+---
+
+### Security
+- https://www.cvedetails.com: CVE security vulnerability database. Security vulnerabilities, exploits, references and more
+
+### Tips
+- https://www.dev-box.app: Developer Toolbox
+- https://devtoys.app: Swiss Army Knife for Devs
 
 ---
 **Videos**  
@@ -116,14 +143,13 @@ permalink: /useful/
 [@DDD_eu](https://www.youtube.com/@ddd_eu)
 
 **Tips**
-- https://www.dev-box.app: Developer Toolbox
-- https://devtoys.app: Swiss Army Knife for Devs
 - https://www.opensourcealternative.to
 - https://it-tools.tech
 * https://blog.testproject.io/2020/07/15/the-ultimate-postman-tutorial-for-api-testing
 * Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 + SSR Server-side Rendering
 
+---
 <center>
   [Tricks](https://cylmat.github.io/tricks) - [FF Golf](https://www.youtube.com/c/ffgolf/videos) - [PGA Tour](https://www.youtube.com/PGATOUR)
 </center>

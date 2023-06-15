@@ -60,10 +60,6 @@ permalink: /useful/
 ## <center>Infos</center>
 ---
 
-### Api
-Tools
-+ Api: [api-platform.com](https://api-platform.com)
-
 ### Coding
 - Vim: [vim.org](https://www.vim.org)
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
@@ -105,16 +101,27 @@ Links
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ## Model
+Tools
++ Api: [api-platform.com](https://api-platform.com)
+
+Infos
 + GraphQL: [graphql.org](https://graphql.org)
-+ HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
 + JSON: [json.org](https://www.json.org)
-+ JsonApi
-+ OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
-+ REST: [restfulapi.net](https://restfulapi.net/hateoas)
++ JsonApi: [https://jsonapi.org]
++ JWT: [https://jwt.io]
 + Unicode: [unicode.org](https://home.unicode.org)
-+ Swagger
++ Swagger: [https://swagger.io]
+
+Protocols
+- HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
+- OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
+- REST: [restfulapi.net](https://restfulapi.net/hateoas)
 
 ## Project
+Tools
+- [https://miro.com]: Online whiteboard
+
+Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
 + 12 factors: [12factor.net](https://12factor.net)
 + XP: [extremeprogramming.org](http://www.extremeprogramming.org)
@@ -127,8 +134,8 @@ App
 - [Wireshark.org](https://www.wireshark.org) 
 
 Infos
-- [https://owasp.org]
 - [https://www.cvedetails.com]: CVE security vulnerability database.
+- [https://owasp.org]
 
 ## Server
 + Apache: [apache.org](https://httpd.apache.org)
@@ -137,7 +144,7 @@ Infos
 
 ## Tests
 App
-- [https://www.postman.com]
+- Postman: [https://www.postman.com]
 
 Tools
 SCA - IaC - SAST - DAST

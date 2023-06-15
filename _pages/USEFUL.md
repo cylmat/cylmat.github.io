@@ -77,6 +77,11 @@ permalink: /useful/
 + Redis: [redis.io](https://redis.io)
 
 ## Development
++ Composer: [getcomposer.org](https://getcomposer.org/doc)
++ Git: [git-scm.com](https://git-scm.com/doc)
++ Git book: [alexgirard.com](https://alexgirard.com/git-book)
+
+Infos
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 
@@ -121,22 +126,13 @@ Infos
 - [https://owasp.org]
 - [https://www.cvedetails.com]: CVE security vulnerability database.
 
-## TESTS
-SCA - IaC - SAST - DAST
-
-## DEV
-+ Composer: [getcomposer.org](https://getcomposer.org/doc)
-+ Git: [git-scm.com](https://git-scm.com/doc)
-+ Git book: [alexgirard.com](https://alexgirard.com/git-book)
-
 ## Server
 + Apache: [apache.org](https://httpd.apache.org)
 + Docker: [docker.com](https://docs.docker.com)
 + Nginx: [nginx.com](https://docs.nginx.com)
 
-### Tips
-- https://www.dev-box.app: Developer Toolbox
-- https://devtoys.app: Swiss Army Knife for Devs
+## Tests
+SCA - IaC - SAST - DAST
 
 ---
 **Videos**  
@@ -148,6 +144,8 @@ SCA - IaC - SAST - DAST
 [@DDD_eu](https://www.youtube.com/@ddd_eu)
 
 **Tips**
+- https://www.dev-box.app: Developer Toolbox
+- https://devtoys.app: Swiss Army Knife for Devs
 - https://www.opensourcealternative.to
 - https://it-tools.tech
 * https://blog.testproject.io/2020/07/15/the-ultimate-postman-tutorial-for-api-testing

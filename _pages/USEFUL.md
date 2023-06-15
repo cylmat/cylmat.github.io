@@ -53,8 +53,12 @@ permalink: /useful/
 
 |Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)|Architecture logicielle [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)|
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
-|OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)|Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|
+||Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|
 |[designpatternsphp.readthedocs.io](https://designpatternsphp.readthedocs.io)|[martinfowler.com](https://martinfowler.com/eaaCatalog)|
+
+---
+## <center>Infos</center>
+---
 
 ### Coding
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
@@ -62,9 +66,6 @@ permalink: /useful/
 - Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 
 ### Development
-+ Composer: [getcomposer.org](https://getcomposer.org/doc)
-+ Git: [git-scm.com](https://git-scm.com/doc)
-+ Git book: [alexgirard.com](https://alexgirard.com/git-book)
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)
@@ -87,35 +88,18 @@ permalink: /useful/
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 
-### Protocol
+### Modèle
 + GraphQL: [graphql.org](https://graphql.org)
 + HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
 + JSON: [json.org](https://www.json.org)
 + JsonApi
++ OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 + REST: [restfulapi.net](https://restfulapi.net/hateoas)
 + Unicode: [unicode.org](https://home.unicode.org)
 + Swagger
 
 ### Security
 - https://owasp.org
-
----
-## <center>Tools</center>
----
-
-SCA - IaC - SAST - DAST
-
-### Api
-+ Api: [api-platform.com](https://api-platform.com)
-
-### DB
-+ RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
-+ Redis: [redis.io](https://redis.io)
-
-### Server
-+ Apache: [apache.org](https://httpd.apache.org)
-+ Docker: [docker.com](https://docs.docker.com)
-+ Nginx: [nginx.com](https://docs.nginx.com)
 
 ---
 ## <center>App</center>
@@ -131,12 +115,38 @@ SCA - IaC - SAST - DAST
 - Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
+### Security
+- https://www.wireshark.org 
+
+---
+## <center>Tools</center>
+---
+
+SCA - IaC - SAST - DAST
+
+### Api
++ Api: [api-platform.com](https://api-platform.com)
+
+### DB
++ RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
++ Redis: [redis.io](https://redis.io)
+
+### DEV
++ Composer: [getcomposer.org](https://getcomposer.org/doc)
++ Git: [git-scm.com](https://git-scm.com/doc)
++ Git book: [alexgirard.com](https://alexgirard.com/git-book)
+
+### Server
++ Apache: [apache.org](https://httpd.apache.org)
++ Docker: [docker.com](https://docs.docker.com)
++ Nginx: [nginx.com](https://docs.nginx.com)
+
 ---
 ## <center>Online</center>
 ---
 
 ### Security
-- https://www.cvedetails.com: CVE security vulnerability database. Security vulnerabilities, exploits, references and more
+- https://www.cvedetails.com: CVE security vulnerability database.
 
 ### Tips
 - https://www.dev-box.app: Developer Toolbox

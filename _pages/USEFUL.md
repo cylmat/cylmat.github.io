@@ -5,7 +5,7 @@ permalink: /useful/
 ---
 
 ---
-## <center>News</center>
+## <center>NEWS</center>
 ---
 
 ### Général
@@ -28,7 +28,7 @@ permalink: /useful/
 |[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
 |[Doctrine-project.org](https://www.doctrine-project.org)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
   
-<center>- **Daily learn** -</center>
+<center>- Daily learn -</center>
 
 |[Code.golf](https://code.golf)|[Vimgolf.com](https://www.vimgolf.com)|
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
@@ -40,16 +40,16 @@ permalink: /useful/
 - [Google](https://developers.google.com/learn) - Tutorialspoint ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm)) - [W3](https://www.w3.org) - [W3schools](https://www.w3schools.com)
   
 ---
-## <center>Links</center>
+## <center>LINKS</center>
 ---
 
-### Algorithms
+## Algorithms
 
 |Data structures [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|
 |Programming [interviewbit.com](https://www.interviewbit.com/courses/programming)|DSA [codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
 100 days of code [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|Competitive [hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)|
 
-### Architecture
+## Architecture
 
 |Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)|Architecture logicielle [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)|
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
@@ -60,35 +60,43 @@ permalink: /useful/
 ## <center>Infos</center>
 ---
 
+### Api
++ Api: [api-platform.com](https://api-platform.com)
+
 ### Coding
+- VIM: [vim.org](https://www.vim.org)
+- Vim awesome: [vimawesome.com](https://vimawesome.com)
+- Vim help: [vimhelp.org](https://vimhelp.org)
+- Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)
+- Vim quick ref: [quickref.me](https://quickref.me/vim)
+- Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
+- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
+
+## DB
++ RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
++ Redis: [redis.io](https://redis.io)
+
+## Development
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
-- Typing: [typingstudy.com](https://www.typingstudy.com/typingtest)
 
-### Development
+Links
 + Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)
 + Regex info: [regular-expressions.info](https://www.regular-expressions.info)
 
-### Project
-+ Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
-+ 12 factors: [12factor.net](https://12factor.net)
-+ XP: [extremeprogramming.org](http://www.extremeprogramming.org)
-+ BDD: [cucumber.io](https://cucumber.io/docs/bdd)
-+ TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
-
-### Front
+## Front
 - Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)
 - jQuery: [jquery.com](https://blog.jquery.com)
 - NodeJs: [nodejs.org](https://nodejs.org/en/docs)
 - TypeScript: [typescriptlang.org](https://www.typescriptlang.org/docs)
 
-### Linux
+## Linux
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 
-### Modèle
+## Model
 + GraphQL: [graphql.org](https://graphql.org)
 + HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
 + JSON: [json.org](https://www.json.org)
@@ -98,55 +106,33 @@ permalink: /useful/
 + Unicode: [unicode.org](https://home.unicode.org)
 + Swagger
 
-### Security
-- https://owasp.org
+## Project
++ Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
++ 12 factors: [12factor.net](https://12factor.net)
++ XP: [extremeprogramming.org](http://www.extremeprogramming.org)
++ BDD: [cucumber.io](https://cucumber.io/docs/bdd)
++ TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
 
----
-## <center>App</center>
----
+## Security
+App
+- [Wireshark.org](https://www.wireshark.org) 
 
-### Dev
+Infos
+- [https://owasp.org]
+- [https://www.cvedetails.com]: CVE security vulnerability database.
 
-- VIM: [vim.org](https://www.vim.org)
-- Vim awesome: [vimawesome.com](https://vimawesome.com)
-- Vim help: [vimhelp.org](https://vimhelp.org)
-- Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)
-- Vim quick ref: [quickref.me](https://quickref.me/vim)
-- Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
-- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
-
-### Security
-- https://www.wireshark.org 
-
----
-## <center>Tools</center>
----
-
+## TESTS
 SCA - IaC - SAST - DAST
 
-### Api
-+ Api: [api-platform.com](https://api-platform.com)
-
-### DB
-+ RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
-+ Redis: [redis.io](https://redis.io)
-
-### DEV
+## DEV
 + Composer: [getcomposer.org](https://getcomposer.org/doc)
 + Git: [git-scm.com](https://git-scm.com/doc)
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
 
-### Server
+## Server
 + Apache: [apache.org](https://httpd.apache.org)
 + Docker: [docker.com](https://docs.docker.com)
 + Nginx: [nginx.com](https://docs.nginx.com)
-
----
-## <center>Online</center>
----
-
-### Security
-- https://www.cvedetails.com: CVE security vulnerability database.
 
 ### Tips
 - https://www.dev-box.app: Developer Toolbox

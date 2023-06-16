@@ -25,8 +25,9 @@ permalink: /useful/
 ### Spec
 
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
-|[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com](https://symfony.com/blog)|
+|[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
 |[Doctrine-project.org](https://www.doctrine-project.org)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
+|[Ph8](https://www.php.net/releases/8.0/en.php)|[Symfony BP](https://symfony.com/doc/current/best_practices.html)|
   
 <center>- Daily learn -</center>
 
@@ -125,9 +126,10 @@ Tools
 Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
 + 12 factors: [12factor.net](https://12factor.net)
-+ XP: [extremeprogramming.org](http://www.extremeprogramming.org)
 + BDD: [cucumber.io](https://cucumber.io/docs/bdd)
++ DevOps: [gitlab.com](https://about.gitlab.com/topics/devops)
 + TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
++ XP: [extremeprogramming.org](http://www.extremeprogramming.org)
 
 ## Security
 App

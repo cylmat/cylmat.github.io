@@ -107,10 +107,11 @@ Tools
 Infos
 + GraphQL: [graphql.org](https://graphql.org)
 + JSON: [json.org](https://www.json.org)
-+ JsonApi: [https://jsonapi.org]
-+ JWT: [https://jwt.io]
++ JsonApi: [https://jsonapi.org](https://jsonapi.org)
++ JWT: [https://jwt.io](https://jwt.io)
 + Unicode: [unicode.org](https://home.unicode.org)
 + Swagger: [https://swagger.io]
++ Yaml: [https://yaml.org/](https://yaml.org)
 
 Protocols
 - HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
@@ -119,7 +120,7 @@ Protocols
 
 ## Project
 Tools
-- [https://miro.com]: Online whiteboard
+- [miro.com](https://miro.com): Online whiteboard
 
 Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
@@ -135,16 +136,18 @@ App
 
 Infos
 - [https://www.cvedetails.com]: CVE security vulnerability database.
-- [https://owasp.org]
+- [https://owasp.org](https://owasp.org)
 
 ## Server
 + Apache: [apache.org](https://httpd.apache.org)
 + Docker: [docker.com](https://docs.docker.com)
 + Nginx: [nginx.com](https://docs.nginx.com)
 
+- Ansible: [ansible](https://www.ansible.com)
+
 ## Tests
 App
-- Postman: [https://www.postman.com]
+- Postman: [https://www.postman.com](https://www.postman.com)
 
 Tools
 SCA - IaC - SAST - DAST

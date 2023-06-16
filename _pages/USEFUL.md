@@ -127,6 +127,7 @@ Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
 + 12 factors: [12factor.net](https://12factor.net)
 + BDD: [cucumber.io](https://cucumber.io/docs/bdd)
++ DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
 + DevOps: [gitlab.com](https://about.gitlab.com/topics/devops)
 + TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
 + XP: [extremeprogramming.org](http://www.extremeprogramming.org)

@@ -152,8 +152,7 @@ Infos
 App
 - Postman: [https://www.postman.com](https://www.postman.com)
 
-Tools
-SCA - IaC - SAST - DAST
+Tools DevSecOps: SCA - IaC - SAST - DAST
 
 ---
 **Videos**  

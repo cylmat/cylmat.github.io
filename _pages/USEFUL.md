@@ -64,6 +64,9 @@ permalink: /useful/
 - Vim help: [vimhelp.org](https://vimhelp.org)
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
+Tools
+- [devtoys.app](https://devtoys.app): Swiss Army Knife for Devs
+
 ## DB
 + Doctrine: [doctrine-project.org](https://www.doctrine-project.org)
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
@@ -74,6 +77,9 @@ permalink: /useful/
 + Git: [git-scm.com](https://git-scm.com/doc)
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
 + Postman: [https://www.postman.com](https://www.postman.com)
+
+Tools
++ [it-tools.tech](https://it-tools.tech)
 + Symfony BP: [symfony.com](https://symfony.com/doc/current/best_practices.html)
 
 ## Front
@@ -145,22 +151,19 @@ App
 Security
 - [cvedetails.com]([cvedetails.com](https://www.cvedetails.com)): CVE security vulnerability database.
 - OWASP: [owasp.org](https://owasp.org)
+  
+**Videos**  
+[@AfupPhp](https://www.youtube.com/@afupPHP) - 
+[@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
+[@Computerphile](https://www.youtube.com/@Computerphile) - 
+[@CoopTilleuls](https://www.youtube.com/@coopTilleuls) - 
+[@DDD_eu](https://www.youtube.com/@ddd_eu) - 
+[@DevTernity](https://www.youtube.com/@DevTernity) - 
 
 ---
-**Videos**  
-[@AfupPhp](https://www.youtube.com/@afupPHP) -
-[@BeautyinCode](https://www.youtube.com/@BeautyinCode) -
-[@Computerphile](https://www.youtube.com/@Computerphile) -
-[@CoopTilleuls](https://www.youtube.com/@coopTilleuls) -
-[@DevTernity](https://www.youtube.com/@DevTernity) - 
-[@DDD_eu](https://www.youtube.com/@ddd_eu)
 
 **Tips**
-- https://www.dev-box.app: Developer Toolbox
-- https://devtoys.app: Swiss Army Knife for Devs
 - https://www.opensourcealternative.to
-- https://it-tools.tech
-* https://blog.testproject.io/2020/07/15/the-ultimate-postman-tutorial-for-api-testing
 * Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 
 ---

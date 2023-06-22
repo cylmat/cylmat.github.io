@@ -20,23 +20,21 @@ permalink: /useful/
 |[Zend.com](https://www.zend.com/blog)|[Developpez.com](https://php.developpez.com)|
 |[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
 
-* [Thecodecadence](https://thecodecadence.medium.com)
-
 ### Spec
 
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
 |[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
-|[Doctrine-project.org](https://www.doctrine-project.org)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
-|[Ph8](https://www.php.net/releases/8.0/en.php)|[Symfony BP](https://symfony.com/doc/current/best_practices.html)|
+||[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
+|[Php8](https://www.php.net/releases/8.0/en.php)|[Symfony BP](https://symfony.com/doc/current/best_practices.html)|
   
-<center>- Daily learn -</center>
+<center>Training</center>
 
 |[Code.golf](https://code.golf)|[Vimgolf.com](https://www.vimgolf.com)|
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
 
 |[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|
-|[Portswigger.net](https://portswigger.net/web-security)|[Owasp.org](https://owasp.org/www-project-top-ten)|
+|[Portswigger.net](https://portswigger.net/web-security)||
 
 - [Google](https://developers.google.com/learn) - Tutorialspoint ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm)) - [W3](https://www.w3.org) - [W3schools](https://www.w3schools.com)
   
@@ -68,11 +66,9 @@ permalink: /useful/
 Infos
 - Vim awesome: [vimawesome.com](https://vimawesome.com)
 - Vim help: [vimhelp.org](https://vimhelp.org)
-- Vim Cheat Sheet: [rtorr.com](https://vim.rtorr.com)
-- Vim quick ref: [quickref.me](https://quickref.me/vim)
-- Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
 
 ## DB
++ Doctrine: [doctrine-project.org](https://www.doctrine-project.org)
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
 
@@ -86,7 +82,6 @@ Infos
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 
 Links
-+ Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)
 + Regex info: [regular-expressions.info](https://www.regular-expressions.info)
@@ -96,10 +91,6 @@ Links
 - jQuery: [jquery.com](https://blog.jquery.com)
 - NodeJs: [nodejs.org](https://nodejs.org/en/docs)
 - TypeScript: [typescriptlang.org](https://www.typescriptlang.org/docs)
-
-## Linux
-- Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
-- Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ## Model
 Infos
@@ -149,9 +140,15 @@ Provisionning
 Tools DevSecOps: SCA - IaC - SAST - DAST*
 
 ---
-Cheats
-- [https://www.malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
-- [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
+## Cheats
+- Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
+- Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
+- Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
+- Linux: [https://www.malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
+- Windows: [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
+- Vim: [rtorr.com](https://vim.rtorr.com)
+- Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
+- Vim ref: [quickref.me](https://quickref.me/vim)
 
 ---
 **Videos**  

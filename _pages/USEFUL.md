@@ -56,6 +56,7 @@ permalink: /useful/
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
 ||Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|
 |[designpatternsphp.readthedocs.io](https://designpatternsphp.readthedocs.io)|[martinfowler.com](https://martinfowler.com/eaaCatalog)|
+- [10-common-software](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 ---
 ## <center>Infos</center>

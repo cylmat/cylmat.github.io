@@ -65,6 +65,7 @@ permalink: /useful/
 - VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
 Tools
+- [CyberChef](https://gchq.github.io/CyberChef)
 - [devtoys.app](https://devtoys.app): Swiss Army Knife for Devs
 
 ## DB

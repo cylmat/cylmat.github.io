@@ -157,6 +157,7 @@ Tools DevSecOps: SCA - IaC - SAST - DAST*
 ---
 Cheats
 - [https://www.malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
+- [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
 
 ---
 **Videos**  

@@ -23,9 +23,8 @@ permalink: /useful/
 ### Spec
 
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
-|[Sensiolabs.com](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
-||[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
-|[Php8](https://www.php.net/releases/8.0/en.php)|[Symfony BP](https://symfony.com/doc/current/best_practices.html)|
+|[Sensiolabs.com blog](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
+|[Php8](https://www.php.net/releases/8.0/en.php)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
   
 <center>Training</center>
 
@@ -61,11 +60,9 @@ permalink: /useful/
 
 ### Coding
 - Vim: [vim.org](https://www.vim.org)
-- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
-
-Infos
 - Vim awesome: [vimawesome.com](https://vimawesome.com)
 - Vim help: [vimhelp.org](https://vimhelp.org)
+- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
 ## DB
 + Doctrine: [doctrine-project.org](https://www.doctrine-project.org)
@@ -76,15 +73,8 @@ Infos
 + Composer: [getcomposer.org](https://getcomposer.org/doc)
 + Git: [git-scm.com](https://git-scm.com/doc)
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
-
-Infos
-- Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
-- Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
-
-Links
-+ Regex: [regexone.com](https://regexone.com)
-+ Regex tuto: [lumadis.be](https://lumadis.be/regex)
-+ Regex info: [regular-expressions.info](https://www.regular-expressions.info)
++ Postman: [https://www.postman.com](https://www.postman.com)
++ Symfony BP: [symfony.com](https://symfony.com/doc/current/best_practices.html)
 
 ## Front
 - Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)
@@ -107,48 +97,54 @@ Protocols
 - OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 - REST: [restfulapi.net](https://restfulapi.net/hateoas)
 
-## Project
-Infos
-+ Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
-+ 12 factors: [12factor.net](https://12factor.net)
-+ BDD: [cucumber.io](https://cucumber.io/docs/bdd)
-+ DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
-+ DevOps: [gitlab.com](https://about.gitlab.com/topics/devops)
-+ TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
-+ XP: [extremeprogramming.org](http://www.extremeprogramming.org)
-
 ## Security
 App
 - [BurpSuite](https://portswigger.net/burp)
 - [Wireshark.org](https://www.wireshark.org) 
 
-Infos
-- [cvedetails.com]([cvedetails.com](https://www.cvedetails.com)): CVE security vulnerability database.
-- OWASP: [owasp.org](https://owasp.org)
-
 ## Server
++ Ansible: [ansible](https://www.ansible.com)
 + Apache: [apache.org](https://httpd.apache.org)
 + Docker: [docker.com](https://docs.docker.com)
 + Nginx: [nginx.com](https://docs.nginx.com)
 
-Provisionning
-- Ansible: [ansible](https://www.ansible.com)
-
-## Tests
-- Postman: [https://www.postman.com](https://www.postman.com)
-
-Tools DevSecOps: SCA - IaC - SAST - DAST*
-
 ---
 ## Cheats
+---
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 - Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 - Linux: [https://www.malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
-- Windows: [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
+
++ Regex: [regexone.com](https://regexone.com)
++ Regex tuto: [lumadis.be](https://lumadis.be/regex)
++ Regex info: [regular-expressions.info](https://www.regular-expressions.info)
+
 - Vim: [rtorr.com](https://vim.rtorr.com)
 - Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
 - Vim ref: [quickref.me](https://quickref.me/vim)
+- Windows: [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
+
+---
+## Infos
+---
++ Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
++ 12 factors: [12factor.net](https://12factor.net)
++ BDD: [cucumber.io](https://cucumber.io/docs/bdd)
++ DDD: [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)
++ DevOps: [gitlab.com](https://about.gitlab.com/topics/devops)
++ Microservices: [microservices.io](https://microservices.io)
++ TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
++ XP: [extremeprogramming.org](http://www.extremeprogramming.org)
+
+- Tools DevSecOps: SCA - IaC - SAST - DAST*  
+  
+- Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
+- Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
+
+Security
+- [cvedetails.com]([cvedetails.com](https://www.cvedetails.com)): CVE security vulnerability database.
+- OWASP: [owasp.org](https://owasp.org)
 
 ---
 **Videos**  
@@ -164,7 +160,6 @@ Tools DevSecOps: SCA - IaC - SAST - DAST*
 - https://devtoys.app: Swiss Army Knife for Devs
 - https://www.opensourcealternative.to
 - https://it-tools.tech
-  https://microservices.io
 * https://blog.testproject.io/2020/07/15/the-ultimate-postman-tutorial-for-api-testing
 * Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 

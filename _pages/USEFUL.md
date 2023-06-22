@@ -152,7 +152,11 @@ Infos
 App
 - Postman: [https://www.postman.com](https://www.postman.com)
 
-Tools DevSecOps: SCA - IaC - SAST - DAST
+Tools DevSecOps: SCA - IaC - SAST - DAST*
+
+---
+Cheats
+- [https://www.malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
 
 ---
 **Videos**  

@@ -56,10 +56,6 @@ permalink: /useful/
 
 - [10-common-software](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
----
-## <center>Infos</center>
----
-
 ### Coding
 - Vim: [vim.org](https://www.vim.org)
 - Vim awesome: [vimawesome.com](https://vimawesome.com)
@@ -118,7 +114,7 @@ App
 + Nginx: [nginx.com](https://docs.nginx.com)
 
 ---
-## Cheats
+## <center>CHEATS</center>
 ---
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
@@ -135,7 +131,7 @@ App
 - Windows: [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
 
 ---
-## Infos
+## <center>INFOS</center>
 ---
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
 + 12 factors: [12factor.net](https://12factor.net)

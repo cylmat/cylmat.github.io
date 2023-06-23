@@ -56,17 +56,7 @@ permalink: /useful/
 
 - [10-common-software](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
-### Coding
-- Vim: [vim.org](https://www.vim.org)
-- Vim awesome: [vimawesome.com](https://vimawesome.com)
-- Vim help: [vimhelp.org](https://vimhelp.org)
-- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
-
-Tools
-- [CyberChef](https://gchq.github.io/CyberChef)
-- [devtoys.app](https://devtoys.app): Swiss Army Knife for Devs
-
-### DB
+### DataBase
 + Doctrine: [doctrine-project.org](https://www.doctrine-project.org)
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
@@ -76,19 +66,23 @@ Tools
 + Git: [git-scm.com](https://git-scm.com/doc)
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
 + Postman: [https://www.postman.com](https://www.postman.com)
+- Vim: [vim.org](https://www.vim.org)
+- Vim awesome: [vimawesome.com](https://vimawesome.com)
+- Vim help: [vimhelp.org](https://vimhelp.org)
+- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
 
 Tools
++ [cyberChef](https://gchq.github.io/CyberChef)
++ [devtoys.app](https://devtoys.app): Swiss Army Knife for Devs
 + [it-tools.tech](https://it-tools.tech)
-+ Symfony BP: [symfony.com](https://symfony.com/doc/current/best_practices.html)
 
-### Front
+Front
 - Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)
 - jQuery: [jquery.com](https://blog.jquery.com)
 - NodeJs: [nodejs.org](https://nodejs.org/en/docs)
 - TypeScript: [typescriptlang.org](https://www.typescriptlang.org/docs)
 
 ### Model
-Infos
 + GraphQL: [graphql.org](https://graphql.org)
 + JSON: [json.org](https://www.json.org)
 + JsonApi: [https://jsonapi.org](https://jsonapi.org)
@@ -102,16 +96,15 @@ Protocols
 - OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 - REST: [restfulapi.net](https://restfulapi.net/hateoas)
 
-### Security
-App
-- [BurpSuite](https://portswigger.net/burp)
-- [Wireshark.org](https://www.wireshark.org) 
-
 ### Server
 + Ansible: [ansible](https://www.ansible.com)
 + Apache: [apache.org](https://httpd.apache.org)
 + Docker: [docker.com](https://docs.docker.com)
 + Nginx: [nginx.com](https://docs.nginx.com)
+
+Security
+- [BurpSuite](https://portswigger.net/burp)
+- [Wireshark.org](https://www.wireshark.org) 
 
 ---
 ## <center>INFOS</center>
@@ -120,7 +113,9 @@ App
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 - Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
-- Linux: [https://www.malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
+- Linux: [malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
+- PhpQA: [phpqa.io](https://phpqa.io)
+- Symfony BP: [symfony.com](https://symfony.com/doc/current/best_practices.html)
 
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)
@@ -129,7 +124,7 @@ App
 - Vim: [rtorr.com](https://vim.rtorr.com)
 - Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
 - Vim ref: [quickref.me](https://quickref.me/vim)
-- Windows: [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
+- Windows: [malekal.com commandes windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
 
 ### Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
@@ -147,7 +142,7 @@ App
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 
 Security
-- [cvedetails.com]([cvedetails.com](https://www.cvedetails.com)): CVE security vulnerability database.
+- CVE security vulnerability : [cvedetails.com]([cvedetails.com](https://www.cvedetails.com))
 - OWASP: [owasp.org](https://owasp.org)
   
 ### Videos  

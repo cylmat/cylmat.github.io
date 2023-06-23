@@ -41,13 +41,13 @@ permalink: /useful/
 ## <center>LINKS</center>
 ---
 
-## Algorithms
+### Algorithms
 
 |Data structures [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|
 |Programming [interviewbit.com](https://www.interviewbit.com/courses/programming)|DSA [codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
 100 days of code [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|Competitive [hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)|
 
-## Architecture
+### Architecture
 
 |Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together)|Architecture logicielle [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)|
 |DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
@@ -66,12 +66,12 @@ Tools
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [devtoys.app](https://devtoys.app): Swiss Army Knife for Devs
 
-## DB
+### DB
 + Doctrine: [doctrine-project.org](https://www.doctrine-project.org)
 + RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
 + Redis: [redis.io](https://redis.io)
 
-## Development
+### Development
 + Composer: [getcomposer.org](https://getcomposer.org/doc)
 + Git: [git-scm.com](https://git-scm.com/doc)
 + Git book: [alexgirard.com](https://alexgirard.com/git-book)
@@ -81,13 +81,13 @@ Tools
 + [it-tools.tech](https://it-tools.tech)
 + Symfony BP: [symfony.com](https://symfony.com/doc/current/best_practices.html)
 
-## Front
+### Front
 - Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)
 - jQuery: [jquery.com](https://blog.jquery.com)
 - NodeJs: [nodejs.org](https://nodejs.org/en/docs)
 - TypeScript: [typescriptlang.org](https://www.typescriptlang.org/docs)
 
-## Model
+### Model
 Infos
 + GraphQL: [graphql.org](https://graphql.org)
 + JSON: [json.org](https://www.json.org)
@@ -102,20 +102,21 @@ Protocols
 - OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 - REST: [restfulapi.net](https://restfulapi.net/hateoas)
 
-## Security
+### Security
 App
 - [BurpSuite](https://portswigger.net/burp)
 - [Wireshark.org](https://www.wireshark.org) 
 
-## Server
+### Server
 + Ansible: [ansible](https://www.ansible.com)
 + Apache: [apache.org](https://httpd.apache.org)
 + Docker: [docker.com](https://docs.docker.com)
 + Nginx: [nginx.com](https://docs.nginx.com)
 
 ---
-## <center>CHEATS</center>
+## <center>INFOS</center>
 ---
+### Cheat sheets
 - Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
 - Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 - Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
@@ -130,9 +131,7 @@ App
 - Vim ref: [quickref.me](https://quickref.me/vim)
 - Windows: [https://www.malekal.com/liste-commandes-invite-de-commandes-windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
 
----
-## <center>INFOS</center>
----
+### Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
 + 12 factors: [12factor.net](https://12factor.net)
 + BDD: [cucumber.io](https://cucumber.io/docs/bdd)
@@ -142,7 +141,7 @@ App
 + TDD: [agiledata.org](http://agiledata.org/essays/tdd.html)
 + XP: [extremeprogramming.org](http://www.extremeprogramming.org)
 
-- Tools DevSecOps: SCA - IaC - SAST - DAST*  
+- Tools DevSecOps: SCA - IaC - SAST - DAST   
   
 - Quality: [wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle)
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
@@ -151,7 +150,7 @@ Security
 - [cvedetails.com]([cvedetails.com](https://www.cvedetails.com)): CVE security vulnerability database.
 - OWASP: [owasp.org](https://owasp.org)
   
-**Videos**  
+### **Videos**  
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
 [@Computerphile](https://www.youtube.com/@Computerphile) - 
@@ -160,10 +159,9 @@ Security
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 
 ---
-
 **Tips**
 - https://www.opensourcealternative.to
 * Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
 
 ---
-[Tricks](https://cylmat.github.io/tricks) - [FF Golf](https://www.youtube.com/c/ffgolf/videos) - [PGA Tour](https://www.youtube.com/PGATOUR)
+[Tricks](https://cylmat.github.io/tricks)

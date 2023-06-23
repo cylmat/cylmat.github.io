@@ -150,13 +150,15 @@ Security
 - [cvedetails.com]([cvedetails.com](https://www.cvedetails.com)): CVE security vulnerability database.
 - OWASP: [owasp.org](https://owasp.org)
   
-### **Videos**  
+### Videos  
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
 [@Computerphile](https://www.youtube.com/@Computerphile) - 
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) - 
+[@CyberVox](https://www.youtube.com/@CyberVox) - 
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
+[@Micode](https://www.youtube.com/@Micode)
 
 ---
 **Tips**

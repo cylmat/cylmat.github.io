@@ -44,8 +44,7 @@ permalink: /useful/
 ### Algorithms
 
 |Data structures [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|
-|Programming [interviewbit.com](https://www.interviewbit.com/courses/programming)|DSA [codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
-100 days of code [geeksforgeeks.org](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced)|Competitive [hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)|
+|Programming [interviewbit.com](https://www.interviewbit.com/courses/programming)|DSA [codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)||Competitive [hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)|
 
 ### Architecture
 

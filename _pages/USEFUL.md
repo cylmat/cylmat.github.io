@@ -22,9 +22,9 @@ permalink: /useful/
 
 ### Spec
 
-|[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions)|
+|[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions) - [Php8](https://www.php.net/releases/8.0/en.php)|
 |[Sensiolabs.com blog](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
-|[Php8](https://www.php.net/releases/8.0/en.php)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
+|[Symfony BP](https://symfony.com/doc/current/best_practices.html)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
   
 <center>Training</center>
 
@@ -33,7 +33,7 @@ permalink: /useful/
 |[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
 
 |[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|
-|[Portswigger.net](https://portswigger.net/web-security)||
+|[Portswigger.net](https://portswigger.net/web-security)|
 
 - [Google](https://developers.google.com/learn) - Tutorialspoint ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm)) - [W3](https://www.w3.org) - [W3schools](https://www.w3schools.com)
   

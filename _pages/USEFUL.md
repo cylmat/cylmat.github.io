@@ -43,16 +43,14 @@ permalink: /useful/
 
 ### Algorithms
 
-|Data structures [geeksforgeeks.org](https://www.geeksforgeeks.org/data-structures)|Fundamentals [geeksforgeeks.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|
-|Programming [interviewbit.com](https://www.interviewbit.com/courses/programming)|DSA [codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
-|Competitive [hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)||
+|DS [gfg.org](https://www.geeksforgeeks.org/data-structures), Fundamentals [gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|DSA [codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
+|Programming [interviewbit.com](https://www.interviewbit.com/courses/programming)|Competitive [hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)|
 
 ### Architecture
 
 |Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together)|Architecture logicielle [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)|
-|DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns)|
-|Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)||
-|[designpatternsphp.readthedocs.io](https://designpatternsphp.readthedocs.io)|[martinfowler.com](https://martinfowler.com/eaaCatalog)|
+|DDD [alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design)|Design Patterns [r.guru](https://refactoring.guru/fr/design-patterns), [sf.guru](https://springframework.guru/gang-of-four-design-patterns), [php.rtd](https://designpatternsphp.readthedocs.io)|
+|Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|EAA [martinfowler.com](https://martinfowler.com/eaaCatalog)|
 
 - [10-common-software](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 

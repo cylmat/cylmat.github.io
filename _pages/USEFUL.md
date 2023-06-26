@@ -43,6 +43,8 @@ permalink: /useful/
 |DS [gfg.org](https://www.geeksforgeeks.org/data-structures), Fundamentals [gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms)|DSA [codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms)|
 |Programming [interviewbit.com](https://www.interviewbit.com/courses/programming)|Competitive [hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)|
 
+* [Isograd solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code)
+
 ### Architecture
 
 |Architecture hexagonale [herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together)|Architecture logicielle [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)|

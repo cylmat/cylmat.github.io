@@ -58,6 +58,7 @@ permalink: /useful/
 |[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php)|
 |[Sensiolabs.com blog](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
 |[Symfony BestP](https://symfony.com/doc/current/best_practices.html)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
+
 * [W3](https://www.w3.org)
 
 ---

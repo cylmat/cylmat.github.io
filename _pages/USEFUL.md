@@ -19,12 +19,6 @@ permalink: /useful/
 |[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|
 |[Zend.com](https://www.zend.com/blog)|[Developpez.com](https://php.developpez.com)|
 |[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
-
-### Spec
-
-|[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions) - [Php8](https://www.php.net/releases/8.0/en.php)|
-|[Sensiolabs.com blog](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
-|[Symfony BP](https://symfony.com/doc/current/best_practices.html)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
   
 <center>Training</center>
 
@@ -52,6 +46,12 @@ permalink: /useful/
 |Architecture pattern [wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern)|EAA [martinfowler.com](https://martinfowler.com/eaaCatalog)|
 
 - [10-common-software](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+
+### <center>Spec</center>
+
+|[Phptherightway.com](https://phptherightway.com)|[Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php)|
+|[Sensiolabs.com blog](https://blog.sensiolabs.com)|[Symfony.com blog](https://symfony.com/blog)|
+|[Symfony BestP](https://symfony.com/doc/current/best_practices.html)|[Mozilla.org Ref](https://developer.mozilla.org/fr/docs/Web)|
 
 ### DataBase
 + Doctrine: [doctrine-project.org](https://www.doctrine-project.org)

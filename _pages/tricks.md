@@ -4,15 +4,21 @@ layout: post
 permalink: /tricks/
 ---
 
+### Croquis
+
+- https://www.youtube.com/watch?v=H9TM-h7h4i4 : Faire un croquis pas à pas
+- https://www.youtube.com/watch?v=ijBAP2Za61A : Dessin d'observation
+- https://www.youtube.com/watch?v=IPzhcBk0two : Dessiner sans expérience
+
 ### Danse 
 
-**ROCK**   
+**Rock**   
 - https://www.youtube.com/watch?v=jJiS71yrnyk : Découvrez votre 1er Cours de Rock débutant ! - Rock en 4 temps
 - https://www.youtube.com/watch?v=8NRE-GX5CFY : Apprendre à danser le rock moderne 4 temps - danseuse dans les bras
 - https://www.youtube.com/watch?v=Oj6kJoizxnQ : (SAMPLE) Danse rock 4 temps - Passion 4 temps
 - https://www.youtube.com/watch?v=KEvm3n0ObNI : rock 4 temps avec passes acrobatiques
 
-**SHUFFLE DANCE**  
+**Shuffle**  
 - https://www.youtube.com/watch?v=mb-nLc0Lrp8 : Cutting Shapes Beginner Tutorial #1 | SteamzAus
 - https://www.youtube.com/watch?v=on0w0gEPwDk : How to shuffle / Cutting Shape Tutorial #6 || Advanced Level || Kayeli2
 - https://www.youtube.com/watch?v=Pbx1MVThTfg : How to shuffle / Cutting Shape Tutorial #2 || Easy Steps for Beginners by (kayeli2)
@@ -20,7 +26,7 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=BxOBhZBLOio : 5 Easy Footwork Shuffle Steps
 - https://www.youtube.com/watch?v=lXHjxJ5kTzs : Footwork Creativity for Shuffling
 
-### MAGIC
+### Magic
 
 - https://www.youtube.com/watch?v=uazjOSE9vgE : Expert Coin Magic Made Easy par David Roth
 - https://www.youtube.com/watch?v=JxRo5knJZis : Bobo modern coin vol 1
@@ -42,3 +48,10 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=T37AUVkuyBo : La pièce à travers le verre
 - https://www.youtube.com/watch?v=HzxFZQSA-Kc : 10 impossible coin tricks
 
+### Pen
+
+- https://www.youtube.com/watch?v=Vkxe8ExJpI4 : 5 TOURS FACILES AVEC UN STYLO
+- https://www.youtube.com/watch?v=3-ccWgaF_5E&list=UULPLuRStMzfQg-OUglveuP_6w : WorldXM list - PenSpinning Charge
+- https://www.youtube.com/watch?v=8MTipQ7Sq5s&list=UULPLuRStMzfQg-OUglveuP_6w : WorldXM - Fingerpass
+- https://www.youtube.com/watch?v=tNnr7e271VE : WorldXM - Sonic
+- https://www.youtube.com/@AlphaSnap21 : AlphaSnap channel

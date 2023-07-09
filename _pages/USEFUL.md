@@ -169,3 +169,5 @@ Security
 **Tips**
 - https://www.opensourcealternative.to
 * Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
+  
+<center>[Tricks](/tricks) - [Musics](/musics)</center>

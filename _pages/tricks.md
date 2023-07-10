@@ -48,7 +48,9 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=T37AUVkuyBo : La pièce à travers le verre
 - https://www.youtube.com/watch?v=HzxFZQSA-Kc : 10 impossible coin tricks
 
-### Pen
+- https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ : @LockPickingLawyer
+
+### Pen spinning
 
 - https://www.youtube.com/watch?v=Vkxe8ExJpI4 : 5 TOURS FACILES AVEC UN STYLO
 - https://www.youtube.com/watch?v=3-ccWgaF_5E&list=UULPLuRStMzfQg-OUglveuP_6w : WorldXM list - PenSpinning Charge

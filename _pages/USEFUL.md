@@ -165,7 +165,5 @@ Security
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@Micode](https://www.youtube.com/@Micode)
-
-[opensourcealternative.to](https://www.opensourcealternative.to) -  
-[Musics](https://cylmat.github.io/musics) -  
-[Tricks](https://cylmat.github.io/tricks) 
+  
+  [opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) 

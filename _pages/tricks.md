@@ -26,6 +26,16 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=BxOBhZBLOio : 5 Easy Footwork Shuffle Steps
 - https://www.youtube.com/watch?v=lXHjxJ5kTzs : Footwork Creativity for Shuffling
 
+### Knots
+
+- https://www.youtube.com/watch?v=qZOmMXIGCVY : 10 Knots for Everyday Life
+- https://www.youtube.com/watch?v=tK-UebImvwA : The Beginner's Guide to Knots
+- https://www.youtube.com/watch?v=5lLPAHK_k6I : The 10 BEST Knots in Life
+- https://www.youtube.com/watch?v=ABIRlz-qxSI : Top Five Useful Knots for camping
+- https://www.youtube.com/watch?v=3X8drKsdf5E : 7 Essential Knots You Need To Know
+- https://www.youtube.com/watch?v=RhS9hFLQnu8 : World’s “MOST USEFUL” Knot!
+- https://www.youtube.com/watch?v=OTofaXJb3OI : 12 Beginner's Knots
+
 ### Magic
 
 - https://www.youtube.com/watch?v=uazjOSE9vgE : Expert Coin Magic Made Easy par David Roth

@@ -19,6 +19,7 @@ permalink: /useful/
 |[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|
 |[Zend.com](https://www.zend.com/blog)|[Developpez.com](https://php.developpez.com)|
 |[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
+
 * [Lafermeduweb.net](https://www.lafermeduweb.net)
   
 ### <center>Training</center>
@@ -164,10 +165,9 @@ Security
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@Micode](https://www.youtube.com/@Micode)
-
----
-**Tips**
-- https://www.opensourcealternative.to
-* Opendata: https://www.data.gouv.fr https://opendata.paris.fr https://data.europa.eu
   
-<center>[Tricks](/tricks) - [Musics](/musics)</center>
+<center>
+  [opensourcealternative.to](https://www.opensourcealternative.to) - 
+  [Tricks](https://cylmat.github.io/tricks) - 
+  [Musics](https://cylmat.github.io/musics)
+</center>

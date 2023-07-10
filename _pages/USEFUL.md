@@ -155,6 +155,11 @@ Security
 Security
 - CVE security vulnerability : [cvedetails.com]([cvedetails.com](https://www.cvedetails.com))
 - OWASP: [owasp.org](https://owasp.org)
+
+Other
+- [opensourcealternative.to](https://www.opensourcealternative.to)
+- [Musics](https://cylmat.github.io/musics)
+- [Tricks](https://cylmat.github.io/tricks) 
   
 ### Videos  
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
@@ -166,4 +171,3 @@ Security
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@Micode](https://www.youtube.com/@Micode)
   
-  [opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) 

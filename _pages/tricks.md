@@ -67,3 +67,5 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=8MTipQ7Sq5s&list=UULPLuRStMzfQg-OUglveuP_6w : WorldXM - Fingerpass
 - https://www.youtube.com/watch?v=tNnr7e271VE : WorldXM - Sonic
 - https://www.youtube.com/@AlphaSnap21 : AlphaSnap channel
+
+### Piano

@@ -30,6 +30,7 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=Mptdcx36qZU : Feder - Goodbye feat. Lyse
 - https://www.youtube.com/watch?v=qiS_Pc9SJ88 : Glowie - Unlovable (Joel Corry Remix)
 - https://www.youtube.com/watch?v=dL3AiuTsbOU : Guru Josh Project - Infinity 2008 (Klaas Vocal Edit)
+- https://www.youtube.com/watch?v=JRMOMjCoR58 : Happy - Pharrell Williams - 1 Hour
 - https://www.youtube.com/watch?v=xF0Qx9XQCNI : Invisible - NTO (Paul Kalkbrenner)
 - https://www.youtube.com/watch?v=m-Is6WiJiVU : Make Up - Hot Since 82
 - https://www.youtube.com/watch?v=Dsdvv8LFrqY : Moderat - New Error
@@ -42,6 +43,7 @@ permalink: /musics/
 
 - https://www.youtube.com/watch?v=djV11Xbc914 : A-ha - Take On Me
 - https://www.youtube.com/watch?v=88sARuFu-tc : Bronski Beat - Smalltown Boy
+- https://www.youtube.com/watch?v=Sv6dMFF_yts : Fun.: We Are Young ft. Janelle Monáe
 
 ## Cool
 

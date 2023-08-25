@@ -37,9 +37,13 @@ Théorie des humeurs
 ![Humeurs](https://github.com/cylmat/cylmat.github.io/assets/47034111/9012f378-a255-4760-96b5-78f2e34b64f7)
 
 
-MBTI
+MBTI - Myers Briggs Type Indicator
 ---
-![MBTI](https://coaxial.pro/wp-content/uploads/2021/06/MBTI-AdobeStock_427235317-762x1024.jpeg) 
+Introspective self-report questionnaire indicating differing psychological preferences in how people perceive the world and make decisions.  
+![MBTI](https://coaxial.pro/wp-content/uploads/2021/06/MBTI-AdobeStock_427235317-762x1024.jpeg)  
+![MBTI](https://www.simplypsychology.org/wp-content/uploads/MBTI-Personality-1024x845.jpeg)  
+![MBTI2](https://www.simplypsychology.org/wp-content/uploads/MBTI-16-983x1024.jpeg)  
+
 
 Personnalité Jungienne
 ---

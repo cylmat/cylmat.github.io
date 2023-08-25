@@ -13,6 +13,7 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=9q2h6oGD6UA : Klangnomad, I am what I am
 - https://www.youtube.com/watch?v=Ghx5VDSve80 : Invisible NTO 1 Hour - Paul Kalkbrenner Remix
 - https://www.youtube.com/watch?v=1sxffogc0Iw : Jeremy Blake - The Emperor's Army (extended)
+- https://www.youtube.com/watch?v=Dsdvv8LFrqY : Moderat - New Error
 - https://www.youtube.com/watch?v=Z0p-wOk1JEM : Music for Deep Meditation Tamboura
 - https://www.youtube.com/watch?v=PyapOW31ND4 : Rone - Bye Bye Macadam
 - https://www.youtube.com/watch?v=oCJdAHo2Djw : Tamburas Meditation Yoga

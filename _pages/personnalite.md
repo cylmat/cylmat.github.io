@@ -20,9 +20,8 @@ Enneagramme
   
 @Ref
 - [https://ennea9.com](https://www.ennea9.com/histoire-enneagramme)  
-![Enneagramme](https://static.wixstatic.com/media/d5d114_4c3ff44c8baf44e1a440dd529866dedb~mv2.png)
-<img alt="https://github.com/cylmat/cylmat.github.io/assets/47034111/66250f84-fd9a-4131-8db5-f03c92b47d53" width=400 height=400 />
-![Enneagragramme](https://github.com/cylmat/cylmat.github.io/assets/47034111/66250f84-fd9a-4131-8db5-f03c92b47d53)  
+![Enneagramme](https://static.wixstatic.com/media/d5d114_4c3ff44c8baf44e1a440dd529866dedb~mv2.png)  
+<img alt="https://indigraphe.fr/wp-content/uploads/2020/03/Enneagragramme.jpg" width=400 height=400 />
 
 
 Théorie des humeurs

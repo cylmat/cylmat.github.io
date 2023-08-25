@@ -46,5 +46,5 @@ Personnalité Jungienne
 
 ---
 Links:
-- egogramme
+- egogramme : https://aprisme.blog/psychologie/tests-danalyse-transactionnelle/#page-content
 - [https://getcleartouch.com](https://www.getcleartouch.com/fr/using-enneagram-myers-briggs-disc-personality-tests-in-the-workplace)

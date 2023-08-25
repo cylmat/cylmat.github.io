@@ -1,7 +1,7 @@
 ---
-title: Psycho
+title: Personnalite
 layout: post
-permalink: /psychologie/
+permalink: /personnalite/
 ---
 
 DISC : Dominant, Influent, Stable, Consciencieux

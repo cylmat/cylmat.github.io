@@ -11,7 +11,7 @@ DISC : Dominant, Influent, Stable, Consciencieux
 
 @Ref :
 - [https://profil4.com](https://profil4.com/documentation)  
-<img alt="roue-detaillee-disc" src="https://profil4.com/img/roues/cartes/roue-detaillee-4x3-picto-02-adjectif_1200x900.png" width=400 height=400 />
+<img alt="disc" src="https://profil4.com/img/roues/cartes/roue-detaillee-4x3-picto-02-adjectif_1200x900.png" width=400 height=400 />
 
 Enneagramme
 ---
@@ -31,9 +31,9 @@ Théorie des humeurs
   
 @Ref
 - [https://wikipedia.org](https://fr.wikipedia.org/wiki/Quatre_temp%C3%A9raments)
-- https://www.rhperformances.fr/conseil-rh/management/4-types-de-personnalite/
-![image](https://github.com/cylmat/cylmat.github.io/assets/47034111/f60c279f-871f-45df-a7a8-74e74fce948a)
-[https://narthex.fr](https://www.narthex.fr/blogs/ecrits-mystiques/la-theorie-antique-des-humeurs-dans-les-causes-et-les-remedes-d2019hildegarde-de-bingen)
+- [https://www.rhperformances.fr](https://www.rhperformances.fr/conseil-rh/management/4-types-de-personnalite)
+- [https://narthex.fr](https://www.narthex.fr/blogs/ecrits-mystiques/la-theorie-antique-des-humeurs-dans-les-causes-et-les-remedes-d2019hildegarde-de-bingen)
+![Humeurs](https://www.narthex.fr/blogs/ecrits-mystiques/theorie-des-humeurs.png/image)
 
 MBTI
 ---

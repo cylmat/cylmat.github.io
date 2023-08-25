@@ -10,8 +10,9 @@ DISC : Dominant, Influent, Stable, Consciencieux
 * Connaître son profil et celui de ses interlocuteurs permet donc de communiquer et d’interagir de manière efficace.
 
 @Ref :
-- [https://profil4.com](https://profil4.com/documentation)  
-<img alt="disc" src="https://profil4.com/img/roues/cartes/roue-detaillee-4x3-picto-02-adjectif_1200x900.png" width=400 height=400 />
+- [https://profil4.com](https://profil4.com/documentation)
+
+<img alt="disc" src="https://profil4.com/img/roues/cartes/roue-detaillee-4x3-picto-02-adjectif_1200x900.png" width=600 height=600 />
 
 Enneagramme
 ---
@@ -19,8 +20,10 @@ Enneagramme
 * https://aprisme.blog/enneagramme/le-test-du-sous-type-enneagramme/#page-content
   
 @Ref
-- [https://ennea9.com](https://www.ennea9.com/histoire-enneagramme)  
-![Enneagramme](https://static.wixstatic.com/media/d5d114_4c3ff44c8baf44e1a440dd529866dedb~mv2.png)  
+- [https://ennea9.com](https://www.ennea9.com/histoire-enneagramme)
+
+![Enneagramme](https://static.wixstatic.com/media/d5d114_4c3ff44c8baf44e1a440dd529866dedb~mv2.png)
+
 <img alt="enneagramme" src="https://indigraphe.fr/wp-content/uploads/2020/03/Enneagragramme.jpg" width=400 height=400 />
 
 
@@ -30,10 +33,12 @@ Théorie des humeurs
 - Galien, déséquilibre des couples (froid/chaud, sec/humide) abouti à quatre catégories de tempérament
   
 @Ref
-- [https://wikipedia.org](https://fr.wikipedia.org/wiki/Quatre_temp%C3%A9raments)
-- [https://www.rhperformances.fr](https://www.rhperformances.fr/conseil-rh/management/4-types-de-personnalite)
+- [https://wikipedia.org](https://fr.wikipedia.org/wiki/Quatre_temp%C3%A9raments)  
+- [https://www.rhperformances.fr](https://www.rhperformances.fr/conseil-rh/management/4-types-de-personnalite)  
 - [https://narthex.fr](https://www.narthex.fr/blogs/ecrits-mystiques/la-theorie-antique-des-humeurs-dans-les-causes-et-les-remedes-d2019hildegarde-de-bingen)
+
 ![Humeurs](https://www.narthex.fr/blogs/ecrits-mystiques/theorie-des-humeurs.png/image)
+
 ![Humeurs](https://github.com/cylmat/cylmat.github.io/assets/47034111/9012f378-a255-4760-96b5-78f2e34b64f7)
 
 
@@ -41,7 +46,9 @@ MBTI - Myers Briggs Type Indicator
 ---
 Introspective self-report questionnaire indicating differing psychological preferences in how people perceive the world and make decisions.  
 ![MBTI](https://coaxial.pro/wp-content/uploads/2021/06/MBTI-AdobeStock_427235317-762x1024.jpeg)  
+
 ![MBTI](https://www.simplypsychology.org/wp-content/uploads/MBTI-Personality-1024x845.jpeg)  
+
 ![MBTI2](https://www.simplypsychology.org/wp-content/uploads/MBTI-16-983x1024.jpeg)  
 
 

@@ -20,7 +20,7 @@ Enneagramme
   
 @Ref
 - [https://ennea9.com](https://www.ennea9.com/histoire-enneagramme)  
-![Enneagramme](https://static.wixstatic.com/media/d5d114_4c3ff44c8baf44e1a440dd529866dedb~mv2.png/v1/crop/x_71,y_43,w_592,h_317/fill/w_635,h_334,al_c,lg_1,q_85,enc_auto/Diapositive1.png)
+![Enneagramme](https://static.wixstatic.com/media/d5d114_4c3ff44c8baf44e1a440dd529866dedb~mv2.png)
 <img alt="https://github.com/cylmat/cylmat.github.io/assets/47034111/66250f84-fd9a-4131-8db5-f03c92b47d53" width=400 height=400 />
 ![Enneagragramme](https://github.com/cylmat/cylmat.github.io/assets/47034111/66250f84-fd9a-4131-8db5-f03c92b47d53)  
 

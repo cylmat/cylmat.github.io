@@ -14,6 +14,8 @@ DISC : Dominant, Influent, Stable, Consciencieux
 
 <img alt="disc" src="https://profil4.com/img/roues/cartes/roue-detaillee-4x3-picto-02-adjectif_1200x900.png" width=600 height=600 />
 
+![color](https://www.adonnante.fr/wp-content/uploads/2021/04/disc-8-styles.jpg.webp)
+
 Enneagramme
 ---
 * "9" "signes" - Oscar Ichazo, Claudio Naranjo from the 1970s

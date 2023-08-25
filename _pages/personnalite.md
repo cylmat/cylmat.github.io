@@ -21,7 +21,7 @@ Enneagramme
 @Ref
 - [https://ennea9.com](https://www.ennea9.com/histoire-enneagramme)  
 ![Enneagramme](https://static.wixstatic.com/media/d5d114_4c3ff44c8baf44e1a440dd529866dedb~mv2.png)  
-<img alt="https://indigraphe.fr/wp-content/uploads/2020/03/Enneagragramme.jpg" width=400 height=400 />
+<img alt="enneagramme" src="https://indigraphe.fr/wp-content/uploads/2020/03/Enneagragramme.jpg" width=400 height=400 />
 
 
 Théorie des humeurs
@@ -34,13 +34,15 @@ Théorie des humeurs
 - [https://www.rhperformances.fr](https://www.rhperformances.fr/conseil-rh/management/4-types-de-personnalite)
 - [https://narthex.fr](https://www.narthex.fr/blogs/ecrits-mystiques/la-theorie-antique-des-humeurs-dans-les-causes-et-les-remedes-d2019hildegarde-de-bingen)
 ![Humeurs](https://www.narthex.fr/blogs/ecrits-mystiques/theorie-des-humeurs.png/image)
+![Humeurs](https://github.com/cylmat/cylmat.github.io/assets/47034111/9012f378-a255-4760-96b5-78f2e34b64f7)
+
 
 MBTI
 ---
+![MBTI](https://coaxial.pro/wp-content/uploads/2021/06/MBTI-AdobeStock_427235317-762x1024.jpeg) 
 
 Personnalité Jungienne
 ---
-
 ![image](https://github.com/cylmat/cylmat.github.io/assets/47034111/a5283d9b-9a7f-48cb-aa86-88a3a55fb255)
 
 ---

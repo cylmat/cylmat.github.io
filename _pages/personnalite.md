@@ -46,4 +46,5 @@ Personnalité Jungienne
 
 ---
 Links:
+- egogramme
 - [https://getcleartouch.com](https://www.getcleartouch.com/fr/using-enneagram-myers-briggs-disc-personality-tests-in-the-workplace)

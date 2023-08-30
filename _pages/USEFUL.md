@@ -24,9 +24,9 @@ permalink: /useful/
   
 ### <center>Training</center>
 
-|[Hackerrank.com](https://www.hackerrank.com)|[Leetcode.com](https://leetcode.com/explore)|
+|[Hackerrank.com](https://www.hackerrank.com)|[Interviewbit.com](https://www.interviewbit.com)|
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
-|[Hackerearth.com](https://www.hackerearth.com)|[Codechef.com](https://www.codechef.com)|
+|[Leetcode.com](https://leetcode.com/explore)|[Codechef.com](https://www.codechef.com)|
 
 |[Code.golf](https://code.golf)|[Vimgolf.com](https://www.vimgolf.com)|
 

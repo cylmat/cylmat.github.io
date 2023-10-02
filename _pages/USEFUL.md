@@ -21,6 +21,8 @@ permalink: /useful/
 |[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
 
 * [Lafermeduweb.net](https://www.lafermeduweb.net)
+* [Linux.org](https://linuxfr.org)
+* [Korben.info](https://korben.info)
   
 ### <center>Training</center>
 

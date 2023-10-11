@@ -13,6 +13,7 @@ DISC : Dominant, Influent, Stable, Consciencieux
 - [https://profil4.com](https://profil4.com/documentation)
 
 <img alt="disc" src="https://profil4.com/img/roues/cartes/roue-detaillee-4x3-picto-02-adjectif_1200x900.png" width=600 height=600 />
+[profil4.com](https://profil4.com/img/roues/cartes/roue-detaillee-4x3-picto-02-adjectif_1200x900.png)
 
 ![color](https://www.adonnante.fr/wp-content/uploads/2021/04/disc-8-styles.jpg.webp)
 [adonnante.fr](https://www.adonnante.fr/wp-content/uploads/2021/04/disc-8-styles.jpg)
@@ -53,3 +54,4 @@ Personnalité Jungienne
 Links:
 - Analyse Transactionnelle / egogramme : https://aprisme.blog/psychologie/tests-danalyse-transactionnelle/#page-content
 - [https://getcleartouch.com](https://www.getcleartouch.com/fr/using-enneagram-myers-briggs-disc-personality-tests-in-the-workplace)
+- [Body language](https://www.tutorialspoint.com/body_language/index.htm)

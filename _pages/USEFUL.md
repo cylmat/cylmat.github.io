@@ -102,7 +102,7 @@ Front
 + JWT: [https://jwt.io](https://jwt.io)
 + Unicode: [unicode.org](https://home.unicode.org)
 + Swagger: [swagger.io](https://swagger.io)
-+ Yaml: [yaml.org/](https://yaml.org)
++ Yaml: [yaml.org](https://yaml.org)
 
 Protocols
 - HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
@@ -129,6 +129,7 @@ Security
 - Linux: [malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
 - PhpQA: [phpqa.io](https://phpqa.io)
 - Symfony BP: [symfony.com](https://symfony.com/doc/current/best_practices.html)
+- Yaml: [quickref.me](https://quickref.me/yaml.html)
 
 + Regex: [regexone.com](https://regexone.com)
 + Regex tuto: [lumadis.be](https://lumadis.be/regex)

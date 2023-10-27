@@ -73,39 +73,27 @@ permalink: /useful/
 ---
 
 ### DataBase
-+ [Doctrine-project.org](https://www.doctrine-project.org) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io)
-- [RedisLab](https://app.redislabs.com)
+* [Doctrine-project.org](https://www.doctrine-project.org) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
 
 ### Development
-+ Composer: [Getcomposer.org](https://getcomposer.org/doc)
-+ [Git-scm.com](https://git-scm.com/doc) - [Git book - alexgirard.com](https://alexgirard.com/git-book)
-+ Postman: [Postman.com](https://www.postman.com)
-- Vim: [Vim.org](https://www.vim.org) - [Vimawesome.com](https://vimawesome.com) - [Vimhelp.org](https://vimhelp.org)
-- VSCode docs: [Visualstudio.com](https://code.visualstudio.com/docs)
+* [Getcomposer.org](https://getcomposer.org/doc)
+* [Git-scm.com](https://git-scm.com/doc) - [Git book - alexgirard.com](https://alexgirard.com/git-book)
+* [Postman.com](https://www.postman.com)
+* [Vim.org](https://www.vim.org) - [Vimawesome.com](https://vimawesome.com) - [Vimhelp.org](https://vimhelp.org)
+* [Visualstudio.com](https://code.visualstudio.com/docs)
 
 Tools
-+ [cyberChef](https://gchq.github.io/CyberChef)
-+ [devtoys.app](https://devtoys.app): Swiss Army Knife for Devs
-+ [it-tools.tech](https://it-tools.tech)
+* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
 
 Front
-- Bootstrap: [getbootstrap.com](https://getbootstrap.com/docs)
-- jQuery: [jquery.com](https://blog.jquery.com)
-- NodeJs: [nodejs.org](https://nodejs.org/en/docs)
-- TypeScript: [typescriptlang.org](https://www.typescriptlang.org/docs)
+* [Getbootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TSlang.org](https://www.typescriptlang.org/docs)
 
 ### Model
-+ GraphQL: [graphql.org](https://graphql.org)
-+ JSON: [json.org](https://www.json.org)
-+ JsonApi: [https://jsonapi.org](https://jsonapi.org)
-+ JWT: [https://jwt.io](https://jwt.io)
-+ Unicode: [unicode.org](https://home.unicode.org)
-+ Swagger: [swagger.io](https://swagger.io)
-+ Yaml: [yaml.org](https://yaml.org)
+* [Graphql.org](https://graphql.org) - [Json.org](https://www.json.org) - [Jsonapi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io)
+* [Markdown.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)
 
 Protocols
-- HTTP: [mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
-- OSI [wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
+- [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
 - REST: [restfulapi.net](https://restfulapi.net/hateoas)
 
 ### Server
@@ -115,8 +103,7 @@ Protocols
 + Nginx: [nginx.com](https://docs.nginx.com)
 
 Security
-- [BurpSuite](https://portswigger.net/burp)
-- [Wireshark.org](https://www.wireshark.org) 
+- [BurpSuite](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)  
 
 ---
 ## <center>INFOS</center>

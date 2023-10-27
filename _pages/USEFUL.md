@@ -73,30 +73,37 @@ permalink: /useful/
 ---
 
 ### DataBase
-* [Doctrine-project.org](https://www.doctrine-project.org) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
+* [Doctrine-project.org](https://www.doctrine-project.org) - [MySql.com](https://dev.mysql.com/doc) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
+
++ Cheats : [SQL.sh](https://sql.sh)
 
 ### Development
-* [Getcomposer.org](https://getcomposer.org/doc)
-* [Git-scm.com](https://git-scm.com/doc) - [Git book alexgirard.com](https://alexgirard.com/git-book)
+* [Get Composer.org](https://getcomposer.org/doc)
+* [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book)
 * [Postman.com](https://www.postman.com)
-* [Vim.org](https://www.vim.org) - [Vimawesome.com](https://vimawesome.com) - [Vimhelp.org](https://vimhelp.org)
-* [Visualstudio.com](https://code.visualstudio.com/docs)
+* [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org)
+* [Visual Studio.com](https://code.visualstudio.com/docs)
+
++ Cheats : [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
 
 ### Front
-* [Getbootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TSlang.org](https://www.typescriptlang.org/docs)
+* [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TSlang.org](https://www.typescriptlang.org/docs)
 
 ### Model
-* [Graphql.org](https://graphql.org) - [Json.org](https://www.json.org) - [Jsonapi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io)
-* [Markdown.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)
+* [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io)
+* [Markdownguide.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)
+
++ Cheats : [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html)
 
 ### Protocols
-- [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas)
+* [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas)
 
-### Server
-+ [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com)
+### Server & Security
+* Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
+* [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com)
+* [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)
 
-### Security
-- [BurpSuite](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)
++ Cheats : Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ### Tools
 * [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
@@ -106,11 +113,9 @@ permalink: /useful/
 ---
 ### Cheat sheets
 - PHP: [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html)
-* Format: [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html)
-* Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 * Regex: [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info)
 
-* [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
+
 * Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
 
 ### Infos
@@ -145,4 +150,7 @@ Other
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@Micode](https://www.youtube.com/@Micode)
-  
+
+---
+https://www.linux.org/  
+https://www.zsh.org/

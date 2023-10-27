@@ -79,7 +79,7 @@ Development
 * [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book)
 * [Postman.com](https://www.postman.com)
 * [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org)
-* [Visual Studio.com](https://code.visualstudio.com/docs)
+* [Visual Studio.com](https://code.visualstudio.com/docs) - [Intelephense.com](https://intelephense.com)
   
 Cheats :
 + [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info)

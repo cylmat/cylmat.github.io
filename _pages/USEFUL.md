@@ -84,7 +84,10 @@ permalink: /useful/
 * [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org)
 * [Visual Studio.com](https://code.visualstudio.com/docs)
 
-+ Cheats : [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
++ Cheats :
++ [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info)
++ [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
++ PHP : [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html)
 
 ### Front
 * [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TSlang.org](https://www.typescriptlang.org/docs)
@@ -95,15 +98,17 @@ permalink: /useful/
 
 + Cheats : [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html)
 
+### OS
++ Cheats :
++ Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
++ Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
+
 ### Protocols
 * [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas)
 
 ### Server & Security
-* Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 * [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com)
 * [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)
-
-+ Cheats : Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ### Tools
 * [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
@@ -111,13 +116,6 @@ permalink: /useful/
 ---
 ## <center>INFOS</center>
 ---
-### Cheat sheets
-- PHP: [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html)
-* Regex: [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info)
-
-
-* Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
-
 ### Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
 + 12 factors: [12factor.net](https://12factor.net)

@@ -82,49 +82,36 @@ permalink: /useful/
 * [Vim.org](https://www.vim.org) - [Vimawesome.com](https://vimawesome.com) - [Vimhelp.org](https://vimhelp.org)
 * [Visualstudio.com](https://code.visualstudio.com/docs)
 
-Tools
-* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
-
-Front
+### Front
 * [Getbootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TSlang.org](https://www.typescriptlang.org/docs)
 
 ### Model
 * [Graphql.org](https://graphql.org) - [Json.org](https://www.json.org) - [Jsonapi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io)
 * [Markdown.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)
 
-Protocols
-- [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI)
-- REST: [restfulapi.net](https://restfulapi.net/hateoas)
+### Protocols
+- [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas)
 
 ### Server
-+ Ansible: [ansible](https://www.ansible.com)
-+ Apache: [apache.org](https://httpd.apache.org)
-+ Docker: [docker.com](https://docs.docker.com)
-+ Nginx: [nginx.com](https://docs.nginx.com)
++ [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com)
 
-Security
-- [BurpSuite](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)  
+### Security
+- [BurpSuite](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)
+
+### Tools
+* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
 
 ---
 ## <center>INFOS</center>
 ---
 ### Cheat sheets
-- Find xargs: [everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs)
-- Grep Sed Awk: [corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
-- Markdown: [markdownguide.org](https://www.markdownguide.org/cheat-sheet)
-- Linux: [malekal.com/liste-des-commandes-linux](https://www.malekal.com/liste-des-commandes-linux)
-- PhpQA: [phpqa.io](https://phpqa.io)
-- Symfony BP: [symfony.com](https://symfony.com/doc/current/best_practices.html)
-- Yaml: [quickref.me](https://quickref.me/yaml.html)
+- PHP: [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html)
+* Format: [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html)
+* Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
+* Regex: [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info)
 
-+ Regex: [regexone.com](https://regexone.com)
-+ Regex tuto: [lumadis.be](https://lumadis.be/regex)
-+ Regex info: [regular-expressions.info](https://www.regular-expressions.info)
-
-- Vim: [rtorr.com](https://vim.rtorr.com)
-- Vim mémo: [nmesnier.free.fr](http://nmesnier.free.fr/vim.html)
-- Vim ref: [quickref.me](https://quickref.me/vim)
-- Windows: [malekal.com commandes windows](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
+* [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
+* Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
 
 ### Infos
 + Agile: [agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
@@ -142,8 +129,7 @@ Security
 - Paradigm: [wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 
 Security
-- CVE security vulnerability : [cvedetails.com]([cvedetails.com](https://www.cvedetails.com))
-- OWASP: [owasp.org](https://owasp.org)
+- [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
 
 Other
 - [opensourcealternative.to](https://www.opensourcealternative.to)

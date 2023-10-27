@@ -10,32 +10,26 @@ permalink: /useful/
 
 ### Général
 
-|[Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web)|[Zdnet.fr](https://www.zdnet.fr)|
-|[Journaldunet.com](https://www.journaldunet.com/web-tech/)|[Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)|
-|[Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news)|[Grafikart.fr](https://grafikart.fr/blog)|
+* [Journaldugeek.com](https://www.journaldugeek.com/category/sur-le-web) - [Zdnet.fr](https://www.zdnet.fr) - [Journaldunet.com](https://www.journaldunet.com/web-tech)
+* [Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news) - [Grafikart.fr](https://grafikart.fr/blog)
 
 ### Tech
 
-|[Phpnews.io](https://phpnews.io)|[Strangebuzz.com](https://www.strangebuzz.com/fr)|
-|[Zend.com](https://www.zend.com/blog)|[Developpez.com](https://php.developpez.com)|
-|[Humancoder.com](https://news.humancoders.com/t/php)|[Phparch.com](https://www.phparch.com)|
-
-* [Lafermeduweb.net](https://www.lafermeduweb.net)
-* [Linux.org](https://linuxfr.org)
-* [Korben.info](https://korben.info)
+* [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Zend.com](https://www.zend.com/blog)
+* [Php Developpez.com](https://php.developpez.com) - [Phpnews.io](https://phpnews.io) -[PhpArch.com](https://www.phparch.com)
+* [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info)
 
 ---
 ### <center>TRAIN</center>
 ---
 
-|[Hackerrank.com](https://www.hackerrank.com)|[Interviewbit.com](https://www.interviewbit.com)|
-|[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
-|[Leetcode.com](https://leetcode.com/explore)|[Codechef.com](https://www.codechef.com)|
+* Algo : [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com) - [DSA Programiz.com](https://www.programiz.com/dsa)
+* [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
 
-|[Code.golf](https://code.golf)|[Vimgolf.com](https://www.vimgolf.com)|
+* Golf : [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
 
-|[Root-me.org](https://www.root-me.org)|[Tryhackme.com](https://tryhackme.com)|
-|[Portswigger.net](https://portswigger.net/web-security)|[Hackthebox.com](https://www.hackthebox.com)|
+* Secu : [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com)
+* [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com)
 
 - [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)  
 - Tutorialspoint ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  

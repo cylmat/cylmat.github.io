@@ -1,5 +1,5 @@
 ---
-title: Useful
+title: 
 layout: post
 permalink: /useful/
 ---
@@ -23,8 +23,10 @@ permalink: /useful/
 * [Lafermeduweb.net](https://www.lafermeduweb.net)
 * [Linux.org](https://linuxfr.org)
 * [Korben.info](https://korben.info)
-  
-### <center>Training</center>
+
+---
+### <center>TRAIN</center>
+---
 
 |[Hackerrank.com](https://www.hackerrank.com)|[Interviewbit.com](https://www.interviewbit.com)|
 |[DSA Programiz.com](https://www.programiz.com/dsa)|[Freecodecamp.org](https://www.freecodecamp.org/learn)|
@@ -37,6 +39,7 @@ permalink: /useful/
 
 - [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)  
 - Tutorialspoint ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
+
   
 ---
 ## <center>LINKS</center>
@@ -70,19 +73,15 @@ permalink: /useful/
 ---
 
 ### DataBase
-+ Doctrine: [doctrine-project.org](https://www.doctrine-project.org)
-+ RabbitMQ: [rabbitmq.com](https://www.rabbitmq.com)
-+ Redis: [redis.io](https://redis.io)
++ [Doctrine-project.org](https://www.doctrine-project.org) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io)
+- [RedisLab](https://app.redislabs.com)
 
 ### Development
-+ Composer: [getcomposer.org](https://getcomposer.org/doc)
-+ Git: [git-scm.com](https://git-scm.com/doc)
-+ Git book: [alexgirard.com](https://alexgirard.com/git-book)
-+ Postman: [https://www.postman.com](https://www.postman.com)
-- Vim: [vim.org](https://www.vim.org)
-- Vim awesome: [vimawesome.com](https://vimawesome.com)
-- Vim help: [vimhelp.org](https://vimhelp.org)
-- VSCode docs: [visualstudio.com](https://code.visualstudio.com/docs)
++ Composer: [Getcomposer.org](https://getcomposer.org/doc)
++ [Git-scm.com](https://git-scm.com/doc) - [Git book - alexgirard.com](https://alexgirard.com/git-book)
++ Postman: [Postman.com](https://www.postman.com)
+- Vim: [Vim.org](https://www.vim.org) - [Vimawesome.com](https://vimawesome.com) - [Vimhelp.org](https://vimhelp.org)
+- VSCode docs: [Visualstudio.com](https://code.visualstudio.com/docs)
 
 Tools
 + [cyberChef](https://gchq.github.io/CyberChef)

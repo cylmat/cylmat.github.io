@@ -77,7 +77,7 @@ permalink: /useful/
 
 ### Development
 * [Getcomposer.org](https://getcomposer.org/doc)
-* [Git-scm.com](https://git-scm.com/doc) - [Git book - alexgirard.com](https://alexgirard.com/git-book)
+* [Git-scm.com](https://git-scm.com/doc) - [Git book alexgirard.com](https://alexgirard.com/git-book)
 * [Postman.com](https://www.postman.com)
 * [Vim.org](https://www.vim.org) - [Vimawesome.com](https://vimawesome.com) - [Vimhelp.org](https://vimhelp.org)
 * [Visualstudio.com](https://code.visualstudio.com/docs)

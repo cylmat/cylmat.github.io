@@ -14,7 +14,7 @@ Général
 
 Tech  
 * [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Zend.com](https://www.zend.com/blog)
-* [Php Developpez.com](https://php.developpez.com) - [Phpnews.io](https://phpnews.io) - [PhpArch.com](https://www.phparch.com)
+* [Php Developpez.com](https://php.developpez.com) - [Phpnews.io](https://phpnews.io)  
 * [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info)
 
 ---

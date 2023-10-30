@@ -110,6 +110,10 @@ Tools
 * [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
 
 ---
+Playgrounds
+* [Java tutorialspoint.com](https://www.tutorialspoint.com/compile_java_online.php) - [PHP 3v4l.org](https://3v4l.org) - [SQL dbfiddle.com](https://www.db-fiddle.com)
+
+---
 ### Videos  
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 

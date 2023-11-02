@@ -22,15 +22,14 @@ Tech
 ---
 
 * Algo : [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - 
-* [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
+[Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
 
 * Golf : [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
 
-* Secu : [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - 
-* [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com)
+* Secu : [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com)
 
-- [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com) - 
-- Tutorialspoint ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
+- Tech : [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)
+- Tutos : ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
 
   
 ---
@@ -43,8 +42,7 @@ Algorithms
 
 Architecture   
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - [DDD alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design) - 
-* [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - 
-* [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+* [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 Project
 * [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto) - 
@@ -60,10 +58,10 @@ Spec
 * [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  
   
 Quality  
-[Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
+* [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 
 Security  
-- [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
+* [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
 
 ---
 ### <center>TOOLS</center>
@@ -71,47 +69,47 @@ Security
 
 DataBase  
 * [Doctrine-project.org](https://www.doctrine-project.org) - [MySql.com](https://dev.mysql.com/doc) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
-  
-Cheats : [SQL.sh](https://sql.sh)
 
 Development  
-* [Get Composer.org](https://getcomposer.org/doc)
-* [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book)
-* [Postman.com](https://www.postman.com)
-* [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org)
+* [Get Composer.org](https://getcomposer.org/doc) - 
+* [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book) - 
+* [Postman.com](https://www.postman.com) -  
+* [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) - 
 * [Visual Studio.com](https://code.visualstudio.com/docs) - [Intelephense.com](https://intelephense.com)
-  
-Cheats :
-+ [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info)
-+ [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
-+ PHP : [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html)
 
 Front  
 * [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TSlang.org](https://www.typescriptlang.org/docs)
 
 Model  
-* [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io)
+* [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) - 
 * [Markdownguide.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)
-  
-Cheats : [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html)
 
 OS  
-+ Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html)
++ Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html) - 
 + Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
 
 Protocols  
 * [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas)
 
 Server & Security  
-* [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com)
+* [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com) - 
 * [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)
 
 Tools  
 * [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
 
++ Cheat sheets :
+- Db [SQL.sh](https://sql.sh) - 
+- Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
+- Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) - 
+- Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) - 
+- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
+
 ---
 Playgrounds
-* [Java tutorialspoint.com](https://www.tutorialspoint.com/compile_java_online.php) - [PHP 3v4l.org](https://3v4l.org) - [SQL dbfiddle.com](https://www.db-fiddle.com)
+* Db [Try Redis](https://try.redis.io) - [SQL dbfiddle.com](https://www.db-fiddle.com) - 
+* Java [Java tutorialspoint.com](https://www.tutorialspoint.com/compile_java_online.php) -
+* Php [PHP 3v4l.org](https://3v4l.org) -
 
 ---
 ### Videos  

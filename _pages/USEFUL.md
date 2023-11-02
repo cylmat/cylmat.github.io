@@ -110,7 +110,7 @@ Cheat sheets :
 ---
 Playgrounds
 * Db [Try Redis](https://try.redis.io) - [SQL dbfiddle.com](https://www.db-fiddle.com) - 
-* Java [Java tutorialspoint.com](https://www.tutorialspoint.com/compile_java_online.php) -
+* Java [Java tutorialspoint.com](https://www.tutorialspoint.com/compile_java_online.php) - [Kotlin play](https://play.kotlinlang.org)
 * Php and co [PHP 3v4l.org](https://3v4l.org) - [Ruby try](https://try.ruby-lang.org/playground) -
 * C++ n co [C++ sh](https://cpp.sh) - [Rust play](https://play.rust-lang.org) - 
 * Js [Jsfiddle.net](https://jsfiddle.net/) - [TScript.org](https://www.typescriptlang.org/play) - [RunJs.co](https://runjs.co)

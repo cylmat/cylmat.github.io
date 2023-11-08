@@ -21,15 +21,14 @@ Tech
 ### <center>TRAIN</center>
 ---
 
-* Algo : [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - 
-[Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
+* Algo : [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
 
 * Golf : [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
 
 * Secu : [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com)
 
 - Tech : [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)
-- Tutos : ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
+- Tutopoints : ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
 
   
 ---
@@ -109,11 +108,9 @@ Cheat sheets :
 
 ---
 Playgrounds
-* [OneCompiler.com](https://onecompiler.com) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) - 
-* Db [Try Redis](https://try.redis.io) - [SQL dbfiddle.com](https://www.db-fiddle.com) - 
-* Php and co [PHP 3v4l.org](https://3v4l.org) - [Ruby try](https://try.ruby-lang.org/playground) -
-* Js [Jsfiddle.net](https://jsfiddle.net/) - [TScript.org](https://www.typescriptlang.org/play) - [RunJs.co](https://runjs.co)
-*  - [Repl.it](https://replit.com/templates) - [Stackblitz](https://stackblitz.com)
+* Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [PHP 3v4l.org](https://3v4l.org) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Repl.it](https://replit.com/templates) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
+* Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) - 
+* IDE : [CodeSandbox.io](https://codesandbox.io/s) - [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [Replit.com](https://replit.com/~) - [VScode.dev](https://vscode.dev)
 
 ---
 ### Videos  

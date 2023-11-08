@@ -108,7 +108,7 @@ Cheat sheets :
 
 ---
 Playgrounds
-* Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [PHP 3v4l.org](https://3v4l.org) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Repl.it](https://replit.com/templates) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
+* Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [PHP 3v4l.org](https://3v4l.org) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Replit.com](https://replit.com/templates) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
 * Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) - 
 * IDE : [CodeSandbox.io](https://codesandbox.io/s) - [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [Replit.com](https://replit.com/~) - [VScode.dev](https://vscode.dev)
 

@@ -23,8 +23,9 @@ Tech
 ---
 
 * Algo [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
-* Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
-* Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com)
+* Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) -
+* Java tuto [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
+* Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
 
 - Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)
 - Tutopoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
@@ -51,11 +52,13 @@ Project
 Tools DevSecOps: SCA - IaC - SAST - DAST
 
 Spec  
-* [Phptherightway.com](https://phptherightway.com) - [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
-* [Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) - [Symfony BestP](https://symfony.com/doc/current/best_practices.html) - 
+Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
+[Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR](https://www.php-fig.org/psr/) -
+* Java [DOC](https://docs.oracle.com/en/java/) - [Oracle conv](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle](https://geosoft.no/javastyle.html) - 
 * [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  
   
-Quality  
+Quality
+* Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestP](https://symfony.com/doc/current/best_practices.html) -
 * [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
 
 Security  

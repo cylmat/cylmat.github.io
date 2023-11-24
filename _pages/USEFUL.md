@@ -13,22 +13,21 @@ Général
 * [Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news) - [Grafikart.fr](https://grafikart.fr/blog)
 
 Tech  
-* [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Zend.com](https://www.zend.com/blog) - 
-* [Php Developpez.com](https://php.developpez.com) - [Phpnews.io](https://phpnews.io) - 
-* [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info)
+* Linux [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info) -
+* PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Zend.com](https://www.zend.com/blog) - 
+[Php Developpez.com](https://php.developpez.com) - [Phpnews.io](https://phpnews.io) - [Php Linux.org](https://linuxfr.org/sections/php)
+* Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
 
 ---
 ### <center>TRAIN</center>
 ---
 
-* Algo : [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
+* Algo [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
+* Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
+* Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com)
 
-* Golf : [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
-
-* Secu : [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com)
-
-- Tech : [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)
-- Tutopoints : ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
+- Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)
+- Tutopoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
 
   
 ---
@@ -99,29 +98,34 @@ Tools
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)
 
 - - -
-Cheat sheets :
+Cheat sheets  
 - Db [SQL.sh](https://sql.sh) - 
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
-- Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) - 
+- Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
+- Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) - 
-- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim)
+- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
 
 ---
 Playgrounds
-* Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [PHP 3v4l.org](https://3v4l.org) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Replit.com](https://replit.com/templates) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
+* Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
 * Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) - 
-* IDE : [CodeSandbox.io](https://codesandbox.io/s) - [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [Replit.com](https://replit.com/~) - [VScode.dev](https://vscode.dev)
+* Ide : [Replit.com](https://replit.com/~) - [CodeSandbox.io](https://codesandbox.io/s) - [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev)
+* Php: [PHP 3v4l.org](https://3v4l.org) - 
+* JAva: [Dev.java](https://dev.java/playground) -
 
 ---
 ### Videos  
-[@AfupPhp](https://www.youtube.com/@afupPHP) - 
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
 [@Computerphile](https://www.youtube.com/@Computerphile) - 
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) - 
 [@CyberVox](https://www.youtube.com/@CyberVox) - 
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
-[@Micode](https://www.youtube.com/@Micode)
+[@Micode](https://www.youtube.com/@Micode) 
+  
+[@AfupPhp](https://www.youtube.com/@afupPHP) - 
+[@Java](https://www.youtube.com/@java)
   
 Other  
 - [Opensourcealternative.to](https://www.opensourcealternative.to)

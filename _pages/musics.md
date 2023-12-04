@@ -4,7 +4,7 @@ layout: post
 permalink: /musics/
 ---
 
-## Working
+## Work
 
 - https://www.youtube.com/watch?v=rdfpi27wYgU : Beetlejuice Main Titles
 - https://www.youtube.com/watch?v=U0eLmyJkQBc : Focus Music Binaural Beats Concentration
@@ -39,13 +39,25 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=7k79G-nmt3k : Smalltown Boy - AZETE
 - https://www.youtube.com/watch?v=Gdg5HqX_vZE : Time - Hans Zimmer (Pen Perry Remix)
 
-## Oldies
+## Cool
 
 - https://www.youtube.com/watch?v=djV11Xbc914 : A-ha - Take On Me
 - https://www.youtube.com/watch?v=88sARuFu-tc : Bronski Beat - Smalltown Boy
-- https://www.youtube.com/watch?v=Sv6dMFF_yts : Fun.: We Are Young ft. Janelle Monáe
+- https://www.youtube.com/watch?v=Sv6dMFF_yts : Fun. We Are Young ft. Janelle Monáe
+- https://www.youtube.com/watch?v=hGI2d31M7Ns : Genesis - I Can't Dance
+- https://www.youtube.com/watch?v=uvLdJ2X7bp4 : Guem percussion : le serpent
+- https://www.youtube.com/watch?v=Mus0XbaGx0M : Irma - I know
+- https://www.youtube.com/watch?v=X1yS8sDj9v4 : Josef Salvat - Une Autre Saison
+- https://www.youtube.com/watch?v=AXiMS5XW6kA : Josef Salvat - Open Season
+- https://www.youtube.com/watch?v=iX-QaNzd-0Y : Milky Chance - Stolen Dance
+- https://www.youtube.com/watch?v=UG3VcCAlUgE : Prince & The Revolution - When Doves Cry
+- https://www.youtube.com/watch?v=NL6dIt0CHe0 : Steal My Kisses
+- https://www.youtube.com/watch?v=F9kXstb9FF4 : The Strumbellas - Spirits
 
-## Cool
+## Oldies
 
+- https://www.youtube.com/watch?v=slCipWPDdHw : Daniel Balavoine - S.O.S. d'un terrien en détresse
 - https://www.youtube.com/watch?v=5anLPw0Efmo : Evanescence - My Immortal
 - https://www.youtube.com/watch?v=-NRw3gdJJcc : Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)
+- https://www.youtube.com/watch?v=cveoHrMyUDs : Peter kingsbery - Only the very best
+- https://www.youtube.com/watch?v=CIjqKL33TTE : Richard Cocciante - Le Coup de soleil

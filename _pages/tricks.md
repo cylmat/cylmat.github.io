@@ -58,7 +58,7 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=T37AUVkuyBo : La pièce à travers le verre
 - https://www.youtube.com/watch?v=HzxFZQSA-Kc : 10 impossible coin tricks
 
-- https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ : @LockLawyer
+- https://www.youtube.com/@MagieExpliquee
 
 ### Pen spinning
 
@@ -69,3 +69,6 @@ permalink: /tricks/
 - https://www.youtube.com/@AlphaSnap21 : AlphaSnap channel
 
 ### Piano
+
+---
+- https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ : @LockLawyer

@@ -52,7 +52,7 @@ Project
 Tools DevSecOps: SCA - IaC - SAST - DAST
 
 Spec  
-Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
+* Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
 [Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR](https://www.php-fig.org/psr/) -
 * Java [DOC](https://docs.oracle.com/en/java/) - [Oracle conv](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle](https://geosoft.no/javastyle.html) - 
 * [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  

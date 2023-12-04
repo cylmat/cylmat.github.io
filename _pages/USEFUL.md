@@ -125,15 +125,10 @@ Playgrounds
 [@CyberVox](https://www.youtube.com/@CyberVox) - 
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
-[@Micode](https://www.youtube.com/@Micode) 
+[@Micode](https://www.youtube.com/@Micode) -  
   
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
 [@Java](https://www.youtube.com/@java)
   
 Other  
-- [Opensourcealternative.to](https://www.opensourcealternative.to)
-- [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) 
-
----
-https://www.linux.org/  
-https://www.zsh.org/
+- [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 

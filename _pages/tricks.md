@@ -70,5 +70,9 @@ permalink: /tricks/
 
 ### Piano
 
+- https://www.youtube.com/watch?v=-7PdMdrqXYo : 3 MINUTES POUR BIEN S'ÉCHAUFFER AU PIANO
+- https://www.youtube.com/watch?v=Pguk1SeP4AA : L'échauffement au piano
+- https://www.youtube.com/watch?v=YbR8hhyrals : Exercice pour s'échauffer les mains au piano
+
 ---
 - https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ : @LockLawyer

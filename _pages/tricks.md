@@ -70,9 +70,17 @@ permalink: /tricks/
 
 ### Piano
 
+- https://www.youtube.com/watch?v=O5_erVOU3V8 : Les exercices LES PLUS IMPORTANTS pour progresser au Piano
+- https://www.youtube.com/watch?v=RBhDB6BIBGs : Jouez ces 6 EXERCICES tous les jours
+- https://www.youtube.com/watch?v=Mxi_y790USY : COMMENT JOUER LA CADENCE DU 2 5 1 AU PIANO
+Warmup
 - https://www.youtube.com/watch?v=-7PdMdrqXYo : 3 MINUTES POUR BIEN S'ÉCHAUFFER AU PIANO
 - https://www.youtube.com/watch?v=Pguk1SeP4AA : L'échauffement au piano
 - https://www.youtube.com/watch?v=YbR8hhyrals : Exercice pour s'échauffer les mains au piano
+Indépendence
+- https://www.youtube.com/watch?v=Ivwg2fQ85kI : Astuce pour gérer l'indépendance des 2 mains
+- https://www.youtube.com/watch?v=fJ_KHFNu2us : INDÉPENDANCE des Mains : 3 exercices INDISPENSABLES pour l’acquérir
+- https://www.youtube.com/watch?v=roGGQskRtxk : Un exercice cool à jouer pour l'indépendance des mains
 
 ---
 - https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ : @LockLawyer

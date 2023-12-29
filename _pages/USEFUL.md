@@ -128,7 +128,8 @@ Playgrounds
 [@Micode](https://www.youtube.com/@Micode) -  
   
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
-[@Java](https://www.youtube.com/@java)
+[@Java](https://www.youtube.com/@java) - 
+[@YoanDev](https://m.youtube.com/@yoandevco)
   
 Other  
 - [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 

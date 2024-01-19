@@ -132,4 +132,6 @@ Playgrounds
 [@YoanDev](https://m.youtube.com/@yoandevco)
   
 Other  
-- [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 
+- [New install scripts and tools](https://github.com/cylmat/docs/blob/main/Fresh_install.md) - 
+- [Opensourcealternative.to](https://www.opensourcealternative.to) - 
+- [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 

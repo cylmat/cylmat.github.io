@@ -130,8 +130,9 @@ Playgrounds
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
 [@Java](https://www.youtube.com/@java) - 
 [@YoanDev](https://m.youtube.com/@yoandevco)
+
+### Install
+- [New install scripts and tools](https://github.com/cylmat/docs/blob/main/Fresh_install.md)
   
-Other  
-- [New install scripts and tools](https://github.com/cylmat/docs/blob/main/Fresh_install.md) - 
-- [Opensourcealternative.to](https://www.opensourcealternative.to) - 
-- [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 
+### Misc  
+- [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 

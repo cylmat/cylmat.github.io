@@ -57,12 +57,11 @@ Spec
 * Java [DOC](https://docs.oracle.com/en/java/) - [Oracle conv](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle](https://geosoft.no/javastyle.html) - 
 * [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  
   
-Quality
+Quality & Security
 * Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestP](https://symfony.com/doc/current/best_practices.html) -
-* [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation))
-
-Security  
+* [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
 * [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
+* [Ubuntu-fr doc](https://doc.ubuntu-fr.org/)
 
 ---
 ### <center>TOOLS</center>

@@ -75,7 +75,7 @@ Development
 * [Get Composer.org](https://getcomposer.org/doc) - 
 * [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book) - 
 * [Postman.com](https://www.postman.com) -  
-* [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) - 
+* [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) - [LearnVim](https://learnvim.irian.to/)
 * [Visual Studio.com](https://code.visualstudio.com/docs) - [Intelephense.com](https://intelephense.com)
 
 Front  

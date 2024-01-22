@@ -62,7 +62,9 @@ Quality & Security
 * Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestP](https://symfony.com/doc/current/best_practices.html) -
 * [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
 * [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
-* [Ubuntu-fr doc](https://doc.ubuntu-fr.org/)
+
+Shell
+* [Ubuntu-fr doc](https://doc.ubuntu-fr.org) - [Grep sed - Corporesano](http://www.corporesano.org/doc-site/grepawksed.html)
 
 ---
 ### <center>TOOLS</center>

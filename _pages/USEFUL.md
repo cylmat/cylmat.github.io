@@ -64,7 +64,7 @@ Quality & Security
 * [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
 
 Shell
-* [Ubuntu-fr doc](https://doc.ubuntu-fr.org) - [Grep sed - Corporesano](http://www.corporesano.org/doc-site/grepawksed.html)
+* [Ubuntu-fr doc](https://doc.ubuntu-fr.org) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Linuxhint.com](https://linuxhint.com)
 
 ---
 ### <center>TOOLS</center>

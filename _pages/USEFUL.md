@@ -117,7 +117,8 @@ Playgrounds
 * Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) - 
 * Ide : [Replit.com](https://replit.com/~) - [CodeSandbox.io](https://codesandbox.io/s) - [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev)
 * Php: [PHP 3v4l.org](https://3v4l.org) - 
-* JAva: [Dev.java](https://dev.java/playground) -
+* Java: [Dev.java](https://dev.java/playground) -
+* React: [Playcode.io](https://playcode.io/react)
 
 ---
 ### Videos  

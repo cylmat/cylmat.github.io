@@ -33,25 +33,30 @@ Tech
 - Tutopoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
 
 - - -
-Cheat sheets - [Devhints.io](https://devhints.io) 
+Cheat sheets
+[Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io/)    
+
+- JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - 
+- Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
+- React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet/) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) -
+- Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) -
+
 - Db [SQL.sh](https://sql.sh) - 
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
-- Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
 - Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
-- Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) - 
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
 
 ---
 Playgrounds
-- Ide : [Replit.com](https://replit.com/~) - [CodeSandbox.io](https://codesandbox.io/s) -  
+- Ide : [Replit.com](https://replit.com/~) -  
   
 * Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
 * Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) - 
 * Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev)
 * Php: [PHP 3v4l.org](https://3v4l.org) - 
 * Java: [Dev.java](https://dev.java/playground) -
-* React: [Playcode.io](https://playcode.io/react)
+* React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) - 
 
 ---
 ### <center>INFOS & LINKS</center>

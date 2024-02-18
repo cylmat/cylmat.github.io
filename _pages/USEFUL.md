@@ -126,8 +126,11 @@ Server & Security
 * [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)
 
 Tools  
-* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -
+* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)
+
+Shell
+* [Zsh](https://zsh.sourceforge.io/Doc)  
 
 ---
 ### Videos  

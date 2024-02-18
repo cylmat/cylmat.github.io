@@ -59,7 +59,8 @@ Playgrounds
 * Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) - 
 * Php: [PHP 3v4l.org](https://3v4l.org) - 
 * Java: [Dev.java](https://dev.java/playground) -
-* React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) - 
+* React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -
+* TypeScript: [Typescriptlang.org](https://www.typescriptlang.org/play)
 
 ---
 ### <center>INFOS & LINKS</center>

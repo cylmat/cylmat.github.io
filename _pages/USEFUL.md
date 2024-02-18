@@ -33,7 +33,7 @@ Tech
 - Tutopoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
 
 - - -
-Cheat sheets  
+Cheat sheets - [Devhints.io](https://devhints.io) 
 - Db [SQL.sh](https://sql.sh) - 
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
 - Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -

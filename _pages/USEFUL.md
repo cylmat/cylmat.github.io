@@ -24,7 +24,7 @@ Tech
 
 * Algo [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
 * Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) -
-* JAvascript [JStuto.net](https://www.javascripttutorial.net/es6/) - 
+* Javascript [JStuto.net](https://www.javascripttutorial.net/es6/) - 
 * Java tuto [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -  
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
@@ -32,7 +32,26 @@ Tech
 - Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3schools](https://www.w3schools.com)
 - Tutopoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))  
 
+- - -
+Cheat sheets  
+- Db [SQL.sh](https://sql.sh) - 
+- Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
+- Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
+- Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
+- Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) - 
+- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
+
+---
+Playgrounds
+- Ide : [Replit.com](https://replit.com/~) - [CodeSandbox.io](https://codesandbox.io/s) -  
   
+* Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
+* Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) - 
+* Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev)
+* Php: [PHP 3v4l.org](https://3v4l.org) - 
+* Java: [Dev.java](https://dev.java/playground) -
+* React: [Playcode.io](https://playcode.io/react)
+
 ---
 ### <center>INFOS & LINKS</center>
 ---
@@ -102,26 +121,6 @@ Server & Security
 Tools  
 * [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)
-
-- - -
-Cheat sheets  
-- Db [SQL.sh](https://sql.sh) - 
-- Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
-- Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
-- Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
-- Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) - 
-- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
-
----
-Playgrounds
-- Ide : [Replit.com](https://replit.com/~) - [CodeSandbox.io](https://codesandbox.io/s) -  
-  
-* Dev : [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) -
-* Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) - 
-* Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev)
-* Php: [PHP 3v4l.org](https://3v4l.org) - 
-* Java: [Dev.java](https://dev.java/playground) -
-* React: [Playcode.io](https://playcode.io/react)
 
 ---
 ### Videos  

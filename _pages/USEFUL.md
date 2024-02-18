@@ -36,6 +36,7 @@ Tech
 Cheat sheets
 [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io/)    
 
+- ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6/) - 
 - JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - 
 - Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
 - React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet/) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) -

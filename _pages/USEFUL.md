@@ -49,6 +49,8 @@ Cheat sheets
 - Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
+    
+[General cheats](https://github.com/cylmat/cheats/tree/main)
 
 ---
 Playgrounds
@@ -153,7 +155,7 @@ Shell
 [@YoanDev](https://m.youtube.com/@yoandevco)
 
 ### Install
-- [New install scripts and tools](https://github.com/cylmat/docs/blob/main/Fresh_install.md)
+- [New install scripts and tools](https://github.com/cylmat/docs/tree/main/install)
   
 ### Misc  
 - [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 

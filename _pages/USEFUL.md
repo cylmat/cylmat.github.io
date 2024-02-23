@@ -18,6 +18,7 @@ Tech
 * PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Zend.com](https://www.zend.com/blog) - 
 [Php Developpez.com](https://php.developpez.com) - [Phpnews.io](https://phpnews.io) - [Php Linux.org](https://linuxfr.org/sections/php) - [Damyr.fr](https://www.damyr.fr) - 
 * Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
+* Front [Dev.to](https://dev.to/)
 
 ---
 ### <center>TRAIN</center>

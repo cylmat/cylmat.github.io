@@ -38,9 +38,11 @@ Ref:
 - JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
 
 - - -
-Cheat sheets
-[DEVDOCS.io](https://devdocs.io) -   
-[Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io/)    
+Cheat sheets  
+
+[DEVDOCS.io](https://devdocs.io) -  
+
+[Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io)    
 
 - ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6/) - 
 - JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - 

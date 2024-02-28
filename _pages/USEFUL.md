@@ -39,6 +39,7 @@ Ref:
 
 - - -
 Cheat sheets
+[DEVDOCS.io](https://devdocs.io) -   
 [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io/)    
 
 - ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6/) - 
@@ -53,7 +54,7 @@ Cheat sheets
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
     
-[General cheats](https://github.com/cylmat/cheats/tree/main)
+[Cylmat General cheats](https://github.com/cylmat/cheats/tree/main)
 
 ---
 Playgrounds

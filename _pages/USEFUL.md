@@ -130,12 +130,12 @@ Front
 * [React.dev](https://react.dev) - [Vuejs](https://vuejs.org/) - 
 
 Model  
-* [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) - 
-* [Markdownguide.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)
+* [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) -  
+* [Markdownguide.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)  
 
-OS  
+OS commands  
 + Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html) - 
-+ Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)
++ Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)  
 
 Protocols & Rest  
 * [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas) -
@@ -143,14 +143,14 @@ Protocols & Rest
 
 Server & Security  
 * [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com) - 
-* [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)
+* [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)  
 
 Tools  
-* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)
-* [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)
+* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -    
+* [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)  
 
 Shell
-* [Zsh](https://zsh.sourceforge.io/Doc)  
+* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux)   
 
 ---
 ### Videos  

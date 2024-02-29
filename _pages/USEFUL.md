@@ -143,7 +143,7 @@ Protocols & Rest
 * [Insomnia.rest](https://insomnia.rest) - [Postman.com](https://www.postman.com) -  
 
 Server & Security  
-* [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com) - 
+* [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com) - [NixOs](https://nixos.org) - 
 * [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)  
 
 Tools  

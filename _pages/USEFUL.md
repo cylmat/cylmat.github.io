@@ -172,7 +172,8 @@ Shell
 - [New install scripts and tools](https://github.com/cylmat/docs/tree/main/install)
 
 ### Apis
-- @https://jsonplaceholder.typicode.com/users  
+- @https://jsonplaceholder.typicode.com/users
+- @https://data.opendatasoft.com/api/explore/v2.1/console    
   
 ### Misc  
 - [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 

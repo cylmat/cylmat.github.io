@@ -167,8 +167,12 @@ Shell
 [@Java](https://www.youtube.com/@java) - 
 [@YoanDev](https://m.youtube.com/@yoandevco)
 
-### Install
+### Docs & Install
+- [Docs](https://github.com/cylmat/docs)
 - [New install scripts and tools](https://github.com/cylmat/docs/tree/main/install)
+
+### Apis
+- @https://jsonplaceholder.typicode.com/users  
   
 ### Misc  
 - [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 

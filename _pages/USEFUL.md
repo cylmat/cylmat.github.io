@@ -40,12 +40,10 @@ Ref:
 - - -
 Cheat sheets  
 
-[DEVDOCS.io](https://devdocs.io) -  
-
-[Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
+[DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 
 - Css [Dev Sass](https://devhints.io/sass) - 
-- ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6) - 
+- ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6) - [Medium blog Darwin](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c) - 
 - JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - [OverApi](https://overapi.com/javascript) - 
 - Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
 - React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet/) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) -

@@ -162,6 +162,7 @@ Shell
 [@Micode](https://www.youtube.com/@Micode) -  
   
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
+[@AtomicReact](https://www.youtube.com/@atomicreact) - 
 [@Java](https://www.youtube.com/@java) - 
 [@YoanDev](https://m.youtube.com/@yoandevco)
 

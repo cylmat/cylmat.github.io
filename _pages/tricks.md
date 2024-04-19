@@ -60,6 +60,27 @@ permalink: /tricks/
 
 - https://www.youtube.com/@MagieExpliquee
 
+### Origami
+
+Angel
+- https://www.youtube.com/watch?v=lkOgTAir8P8 - Origami Angel by John Smith
+- https://www.youtube.com/watch?v=IcqMgUMCzH0 - Origami Angel 2 by John Smith
+- https://www.youtube.com/watch?v=CyX7nG0rR3U - Art Deco Angel
+- https://www.youtube.com/watch?v=fuDcQDvt3CI - Origami Angel (How to make)
+- https://www.youtube.com/watch?v=df1FhZyvAzY - Como hacer un angel de papel
+- https://www.youtube.com/watch?v=yi9hqQY1Fo8 - Como hacer un ángel de origami
+- https://www.youtube.com/watch?v=4IrnyKnfwE0 - TUTORIAL - Nativity Angel
+- https://www.youtube.com/watch?v=Ijc4YmFyhQc - Comment faire un ange de papier
+- https://www.youtube.com/watch?v=-uUHUWuJM0c - Angel origami
+- https://www.youtube.com/watch?v=S74YGop4fCI - Origami ANGEL by Neal Elias
+
+Dragon
+- https://www.youtube.com/watch?v=_q1qKtGTGgo - Easy Origami Dragon
+
+Parrot
+- https://www.youtube.com/watch?v=VkXg84FfNbI - Origami Macaw Parrot
+- https://www.youtube.com/watch?v=yMsFq5V4CpE - how to make a paper parrot
+
 ### Pen spinning
 
 - https://www.youtube.com/watch?v=Vkxe8ExJpI4 : 5 TOURS FACILES AVEC UN STYLO

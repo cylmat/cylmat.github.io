@@ -77,6 +77,11 @@ Angel
 Dragon
 - https://www.youtube.com/watch?v=_q1qKtGTGgo - Easy Origami Dragon
 
+Grue
+- https://www.youtube.com/watch?v=bZcl8eKG3HU - Origami ! La Grue traditionnelle
+- https://www.youtube.com/watch?v=t_IQdZHkloY - Tuto origami: Grue traditionnelle
+- https://www.youtube.com/watch?v=97K2-YZxtEQ - Comment faire une grue en origami
+
 Parrot
 - https://www.youtube.com/watch?v=VkXg84FfNbI - Origami Macaw Parrot
 - https://www.youtube.com/watch?v=yMsFq5V4CpE - how to make a paper parrot

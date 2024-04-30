@@ -52,6 +52,7 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=iX-QaNzd-0Y : Milky Chance - Stolen Dance
 - https://www.youtube.com/watch?v=UG3VcCAlUgE : Prince & The Revolution - When Doves Cry
 - https://www.youtube.com/watch?v=NL6dIt0CHe0 : Steal My Kisses
+- https://www.youtube.com/watch?v=883J6orWHYE : Synapson Djon Maya
 - https://www.youtube.com/watch?v=F9kXstb9FF4 : The Strumbellas - Spirits
 
 ## Oldies

@@ -15,8 +15,7 @@ Général
 Tech  
 * Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - 
 * Linux [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info) -
-* PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Zend.com](https://www.zend.com/blog) - 
-[Php Developpez.com](https://php.developpez.com) - [Php Linux.org](https://linuxfr.org/sections/php) - 
+* PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [LMI-Php](https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-php-group-711.html) - [Php Developpez.com](https://php.developpez.com) - [Php Linux.org](https://linuxfr.org/sections/php) - 
 * Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
 * Front [Dev.to](https://dev.to)
 
@@ -52,6 +51,8 @@ Tuto:
 * Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - 
 * React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -
 * TypeScript: [Typescriptlang.org](https://www.typescriptlang.org/play)
+
+- Linux: [Distrosea](https://distrosea.com/)
 
 ---
 ### <center>Cheat sheets</center>

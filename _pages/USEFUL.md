@@ -155,8 +155,7 @@ Tools
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)  
 
 Shell
-* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Zellij.dev](https://zellij.dev) -
-* [OhMyPosh](https://ohmyposh.dev)  
+* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Zellij.dev](https://zellij.dev) - [OhMyPosh](https://ohmyposh.dev) -  
   
 Share code: [Codefile.io](https://codefile.io)  
   

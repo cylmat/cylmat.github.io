@@ -35,7 +35,7 @@ Tech
 Tuto:
 * Javascript [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - 
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
-* Kube [k8s.io](https://kubernetes.io/docs/tutorials/) -  
+* K8s [k8s.io](https://kubernetes.io/docs/tutorials/) - [Minikube](https://minikube.sigs.k8s.io/docs/start/) -  
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -  
 
 ### <center>Playgrounds</center>

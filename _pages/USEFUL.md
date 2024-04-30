@@ -36,9 +36,6 @@ Tuto:
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -  
 
-Ref:  
-- JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
-
 ### <center>Playgrounds</center>
 
 - Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) -  
@@ -70,9 +67,14 @@ Share code: [Codefile.io](https://codefile.io)
 - Db [SQL.sh](https://sql.sh) - 
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
 - Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
+- Linux GSA [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs) -  
 - OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) - 
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
+
+Ref:
+- JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -  
+- Php [8.3](https://www.php.net/releases/8.3) -
 
 ---
 ### <center>INFOS & LINKS</center>
@@ -106,7 +108,7 @@ Quality & Security
 * [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
 
 Shell
-* [Ubuntu-fr doc](https://doc.ubuntu-fr.org) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Linuxhint.com](https://linuxhint.com)
+* [Ubuntu-fr doc](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com)
 
 ---
 ### <center>TOOLS</center>
@@ -122,7 +124,7 @@ Development
 * [Visual Studio.com](https://code.visualstudio.com/docs) - [Intelephense.com](https://intelephense.com)
 
 Front  
-* [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TSlang.org](https://www.typescriptlang.org/docs)
+* [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptlang.org](https://www.typescriptlang.org/docs)
 * [React.dev](https://react.dev) - [Vuejs](https://vuejs.org/) - 
 
 Model  
@@ -139,7 +141,8 @@ Protocols & Rest
 
 Server & Security  
 * [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Nginx.com](https://docs.nginx.com) - [NixOs](https://nixos.org) - 
-* [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org)  
+* [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org) -
+* Linux: [Alpine](https://www.alpinelinux.org)
 
 Tools  
 * [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -    

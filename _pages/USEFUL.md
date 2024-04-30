@@ -71,7 +71,7 @@ Tuto:
 - Db [SQL.sh](https://sql.sh) - 
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
 - Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
-- Linux GSA [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs) -  
+- Linux GSAwk [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs) -  
 - OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) - 
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
@@ -138,7 +138,7 @@ Model
 * [Markdownguide.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)  
 
 OS commands  
-+ Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [Findxargs everythingcli.org](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Grep Sed Awk corporesano.org](http://www.corporesano.org/doc-site/grepawksed.html) - 
++ Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - 
 + Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)  
 
 Protocols & Rest  

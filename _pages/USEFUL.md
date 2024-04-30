@@ -34,6 +34,7 @@ Tech
 Tuto:
 * Javascript [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - 
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
+* Kube [k8s.io](https://kubernetes.io/docs/tutorials/) -  
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -  
 
 ### <center>Playgrounds</center>
@@ -50,8 +51,6 @@ Tuto:
 * Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - 
 * React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -
 * TypeScript: [Typescriptlang.org](https://www.typescriptlang.org/play)
-  
-Share code: [Codefile.io](https://codefile.io)
 
 ### <center>Cheat sheets</center>
 
@@ -74,7 +73,7 @@ Share code: [Codefile.io](https://codefile.io)
 
 Ref:
 - JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -  
-- Php [8.3](https://www.php.net/releases/8.3) -
+- Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
 
 ---
 ### <center>INFOS & LINKS</center>
@@ -85,13 +84,14 @@ Algorithms
 * [Isograd solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Competitive hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)
 
 Architecture   
-* [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - [DDD alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design) - 
+* [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 
 * [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 Project
 * [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto) - 
 [12factor.net](https://12factor.net) - [extremeprogramming.org](http://www.extremeprogramming.org) - 
-* [BDD cucumber.io](https://cucumber.io/docs/bdd) - [TDD agiledata.org](http://agiledata.org/essays/tdd.html) - 
+* [BDD cucumber.io](https://cucumber.io/docs/bdd) - [TDD agiledata.org](http://agiledata.org/essays/tdd.html) -
+* [DDD alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design) - [domainlanguage.com](https://www.domainlanguage.com) - 
 * [DevOps gitlab.com](https://about.gitlab.com/topics/devops) - [microservices.io](https://microservices.io)
   
 Tools DevSecOps: SCA - IaC - SAST - DAST
@@ -150,8 +150,10 @@ Tools
 
 Shell
 * [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Zellij.dev](https://zellij.dev) -
-* [OhMyPosh](https://ohmyposh.dev)
-
+* [OhMyPosh](https://ohmyposh.dev)  
+  
+Share code: [Codefile.io](https://codefile.io)  
+  
 ---
 ### Videos  
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 

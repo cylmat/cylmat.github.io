@@ -26,19 +26,37 @@ Tech
 
 * Algo [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
 * Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) -
-* Javascript [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s](https://www.w3schools.com/js/js_es6.asp) - 
-* Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
-* Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -  
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
 
 - Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3Schools](https://www.w3schools.com)
 - TutorialPoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [man](https://www.tutorialspoint.com/management_tutorials.htm) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
 
+Tuto:
+* Javascript [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - 
+* Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
+* Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -  
+
 Ref:  
 - JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
 
-- - -
-Cheat sheets  
+### <center>Playgrounds</center>
+
+- Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) -  
+
+* Css: [CssDeck](https://cssdeck.com/) - [Playcode.io](https://playcode.io/css) - [Sassmeister](https://www.sassmeister.com/) - 
+* Dev: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) - 
+* Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) -
+    * Postgres [crunchydata.com](https://www.crunchydata.com/developers/playground)    
+* Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) - 
+* Php: [PHP 3v4l.org](https://3v4l.org) - 
+* Java: [Dev.java](https://dev.java/playground) -
+* Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - 
+* React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -
+* TypeScript: [Typescriptlang.org](https://www.typescriptlang.org/play)
+  
+Share code: [Codefile.io](https://codefile.io)
+
+### <center>Cheat sheets</center>
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 
@@ -55,26 +73,6 @@ Cheat sheets
 - OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) - 
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
-
----
-Playgrounds
-- Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) -  
-
-* Css: [CssDeck](https://cssdeck.com/) - [Playcode.io](https://playcode.io/css) - [Sassmeister](https://www.sassmeister.com/) - 
-* Dev: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) - 
-* Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) -
-    * Postgres [crunchydata.com](https://www.crunchydata.com/developers/playground)    
-* Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) - 
-* Php: [PHP 3v4l.org](https://3v4l.org) - 
-* Java: [Dev.java](https://dev.java/playground) -
-* Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - 
-* React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -
-* TypeScript: [Typescriptlang.org](https://www.typescriptlang.org/play)
-
-- [Retool](https://retool.com)
-  
-Share code:
-- [Codefile.io](https://codefile.io)
 
 ---
 ### <center>INFOS & LINKS</center>
@@ -148,7 +146,8 @@ Tools
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)  
 
 Shell
-* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Zellij.dev](https://zellij.dev)  
+* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Zellij.dev](https://zellij.dev) -
+* [OhMyPosh](https://ohmyposh.dev)
 
 ---
 ### Videos  

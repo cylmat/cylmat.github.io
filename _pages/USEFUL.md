@@ -16,7 +16,7 @@ Tech
 * Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - 
 * Linux [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info) -
 * PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Zend.com](https://www.zend.com/blog) - 
-[Php Developpez.com](https://php.developpez.com) - [Phpnews.io](https://phpnews.io) - [Php Linux.org](https://linuxfr.org/sections/php) - 
+[Php Developpez.com](https://php.developpez.com) - [Php Linux.org](https://linuxfr.org/sections/php) - 
 * Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
 * Front [Dev.to](https://dev.to)
 
@@ -52,7 +52,9 @@ Tuto:
 * React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -
 * TypeScript: [Typescriptlang.org](https://www.typescriptlang.org/play)
 
+---
 ### <center>Cheat sheets</center>
+---
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 
@@ -70,10 +72,6 @@ Tuto:
 - OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) - 
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
-
-Ref:
-- JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -  
-- Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
 
 ---
 ### <center>INFOS & LINKS</center>
@@ -96,12 +94,6 @@ Project
   
 Tools DevSecOps: SCA - IaC - SAST - DAST
 
-Spec  
-* Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
-[Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR](https://www.php-fig.org/psr) -
-* Java [DOC](https://docs.oracle.com/en/java) - [Oracle conv](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle](https://geosoft.no/javastyle.html) - 
-* [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  
-  
 Quality & Security
 * Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestP](https://symfony.com/doc/current/best_practices.html) -
 * [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
@@ -109,6 +101,17 @@ Quality & Security
 
 Shell
 * [Ubuntu-fr doc](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com)
+
+---
+Spec  
+* Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
+[Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR](https://www.php-fig.org/psr) -
+* Java [DOC](https://docs.oracle.com/en/java) - [Oracle conv](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle](https://geosoft.no/javastyle.html) - 
+* [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  
+
+- JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -  
+- Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
+- Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
 
 ---
 ### <center>TOOLS</center>

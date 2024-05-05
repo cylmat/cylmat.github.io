@@ -13,7 +13,7 @@ Général
 * [Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news) - [Grafikart.fr](https://grafikart.fr/blog)
 
 Tech  
-* Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - 
+* Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - [Catonmat](https://catonmat.net/) - 
 * Linux [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info) -
 * PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [LMI-Php](https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-php-group-711.html) - [Php Developpez.com](https://php.developpez.com) - [Php Linux.org](https://linuxfr.org/sections/php) - 
 * Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
@@ -34,12 +34,18 @@ Tech
 Tuto:
 * Javascript [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - 
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
-* K8s [k8s.io](https://kubernetes.io/docs/tutorials/) - [Minikube](https://minikube.sigs.k8s.io/docs/start/) -  
-* Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -  
+* Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -
+
++ Bash [freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - [linuxconfig](https://linuxconfig.org/bash-scripting-tutorial) - [ubuntu shell](https://doc.ubuntu-fr.org/tutoriel/script_shell) - 
++ Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) - 
+  - [catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -  
++ Devops [Devopssec](https://devopssec.fr) -  
++ K8s [k8s.io](https://kubernetes.io/docs/tutorials/) - [Minikube](https://minikube.sigs.k8s.io/docs/start/) -
++ Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) -
 
 ### <center>Playgrounds</center>
 
-- Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) -  
+- Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [rextester](https://rextester.com/) -   
 
 * Css: [CssDeck](https://cssdeck.com/) - [Playcode.io](https://playcode.io/css) - [Sassmeister](https://www.sassmeister.com/) - 
 * Dev: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) - 
@@ -60,21 +66,24 @@ Tuto:
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 
-- Bash [devhints.io](https://devhints.io/bash) - [RehanSaeed](https://github.com/RehanSaeed/Bash-Cheat-Sheet) -  
+Lang
 - Css [Dev Sass](https://devhints.io/sass) - 
+- Db [SQL.sh](https://sql.sh) - 
 - ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6) - [Medium blog Darwin](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c) - 
+- Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
 - JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - [OverApi](https://overapi.com/javascript) - 
 - Php [PhpQA.io](https://phpqa.io) - [BestP Symfony.com](https://symfony.com/doc/current/best_practices.html) -
 - React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet/) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) -
 - Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) -
 
-- Db [SQL.sh](https://sql.sh) - 
+Util
+- Bash [devhints.io](https://devhints.io/bash) - [RehanSaeed](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [hostinger 40best](https://www.hostinger.fr/tutoriels/commandes-linux) -  
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
-- Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) -
-- Linux GSAwk [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs) -  
+- Linux GSAwk [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs) - [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - 
 - OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) - 
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
+- Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
 
 ---
 ### <center>INFOS & LINKS</center>
@@ -136,10 +145,6 @@ Front
 Model  
 * [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) -  
 * [Markdownguide.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)  
-
-OS commands  
-+ Linux: [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - 
-+ Windows: [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)  
 
 Protocols & Rest  
 * [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas) -

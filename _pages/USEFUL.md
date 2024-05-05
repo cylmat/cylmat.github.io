@@ -17,7 +17,7 @@ Tech
 * Linux [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info) -
 * PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [LMI-Php](https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-php-group-711.html) - [Php Developpez.com](https://php.developpez.com) - [Php Linux.org](https://linuxfr.org/sections/php) - 
 * Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
-* Front [Dev.to](https://dev.to)
+* Front [Dev.to](https://dev.to) - [Devconnected.com](https://devconnected.com/) 
 
 ---
 ### <center>TRAIN</center>

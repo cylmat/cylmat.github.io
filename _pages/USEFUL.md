@@ -43,7 +43,7 @@ Tuto:
 + Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) - 
   - [catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -  
 + Devops [Devopssec](https://devopssec.fr) -  
-+ K8s [k8s.io](https://kubernetes.io/docs/tutorials/) - [Minikube](https://minikube.sigs.k8s.io/docs/start/) -
++ K8s [k8s.io](https://kubernetes.io/docs/tutorials/) -
 + Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) -
 + Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) -
 
@@ -51,19 +51,23 @@ Tuto:
 
 - Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [rextester](https://rextester.com/) -   
 
+Dev
 * Css: [CssDeck](https://cssdeck.com/) - [Playcode.io](https://playcode.io/css) - [Sassmeister](https://www.sassmeister.com/) - 
 * Dev: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) - 
 * Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) -
     * Postgres [crunchydata.com](https://www.crunchydata.com/developers/playground)    
-* Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) - 
-* Php: [PHP 3v4l.org](https://3v4l.org) -
-* Ruby: [Ruby-lang.org](https://try.ruby-lang.org/playground/) - 
+* Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) -
 * Java: [Dev.java](https://dev.java/playground) -
 * Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - 
 * React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -
 * TypeScript: [Typescriptlang.org](https://www.typescriptlang.org/play)
+* Php: [PHP 3v4l.org](https://3v4l.org) -
+* Ruby: [Ruby-lang.org](https://try.ruby-lang.org/playground/) -
 
-- Linux: [Distrosea](https://distrosea.com/)
+Ops
+* Docker: [play-with-docker](https://labs.play-with-docker.com/) -
+* K8s: [Minikube](https://minikube.sigs.k8s.io/docs/start/) - 
+* Linux: [Distrosea](https://distrosea.com/) -
 
 ---
 ### <center>Cheat sheets</center>

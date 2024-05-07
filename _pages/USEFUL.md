@@ -13,7 +13,7 @@ Général
 * [Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news) - [Grafikart.fr](https://grafikart.fr/blog)
 
 Tech  
-* Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - [Catonmat](https://catonmat.net/) - 
+* Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - [Catonmat](https://catonmat.net/) - [refactoring.fm](https://refactoring.fm) - 
 * Linux [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info) -
 * PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [LMI-Php](https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-php-group-711.html) - [Php Developpez.com](https://php.developpez.com) - [Php Linux.org](https://linuxfr.org/sections/php) - 
 * Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)

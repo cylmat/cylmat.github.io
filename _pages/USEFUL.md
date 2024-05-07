@@ -42,6 +42,7 @@ Tuto:
 + Devops [Devopssec](https://devopssec.fr) -  
 + K8s [k8s.io](https://kubernetes.io/docs/tutorials/) - [Minikube](https://minikube.sigs.k8s.io/docs/start/) -
 + Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) -
++ Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) -
 
 ### <center>Playgrounds</center>
 

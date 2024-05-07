@@ -23,7 +23,7 @@ Tech
 ### <center>TRAIN</center>
 ---
 
-* Algo [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com)
+* Algo [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codechef.com](https://www.codechef.com) - [Techiedelight](https://www.techiedelight.com) - 
 * Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) -
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
 
@@ -32,7 +32,7 @@ Tech
 - LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) -
 
 Algorithms  
-* [DS gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - 
+* [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [DSA Programiz.com](https://www.programiz.com/dsa) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - 
 * [Isograd solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Competitive hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [tryalgo.org](https://tryalgo.org/problems) - 
 
 Tuto:

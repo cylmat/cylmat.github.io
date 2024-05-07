@@ -29,7 +29,11 @@ Tech
 
 - Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3Schools](https://www.w3schools.com)
 - TutorialPoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [dsa](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - [mng](https://www.tutorialspoint.com/management_tutorials.htm) -[hack](https://www.tutorialspoint.com/ethical_hacking) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
-- LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) -  
+- LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) -
+
+Algorithms  
+* [DS gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - 
+* [Isograd solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Competitive hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [tryalgo.org](https://tryalgo.org/problems) - 
 
 Tuto:
 * Javascript [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - 
@@ -90,10 +94,6 @@ Util
 ---
 ### <center>INFOS & LINKS</center>
 ---
-
-Algorithms  
-* [DS gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - 
-* [Isograd solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Competitive hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming)
 
 Architecture   
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 

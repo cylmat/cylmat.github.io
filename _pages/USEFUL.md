@@ -52,7 +52,8 @@ Tuto:
 * Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) -
     * Postgres [crunchydata.com](https://www.crunchydata.com/developers/playground)    
 * Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) - 
-* Php: [PHP 3v4l.org](https://3v4l.org) - 
+* Php: [PHP 3v4l.org](https://3v4l.org) -
+* Ruby: [Ruby-lang.org](https://try.ruby-lang.org/playground/) - 
 * Java: [Dev.java](https://dev.java/playground) -
 * Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - 
 * React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) -

@@ -30,3 +30,6 @@ Front
 Golf
 - [Golf planète](https://www.golfplanete.com)
 - [FF Golf](https://www.ffgolf.org)
+
+## Tech
+[Le monde informatique](https://www.lemondeinformatique.fr)

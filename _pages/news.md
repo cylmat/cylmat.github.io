@@ -6,12 +6,15 @@ permalink: /news/
 
 ## Culture
 - [L'Histoire](https://www.lhistoire.fr)
+- [Universalis](https://www.universalis.fr)
 
 ## Dev
 - [Symfony blog](https://symfony.com/blog)
-- [Symfony Edge](https://symfony.com/blog/category/living-on-the-edge)
+- [Symfony edge](https://symfony.com/blog/category/living-on-the-edge)
 
 ## Finance
-- [Cafedelabourse](https://www.cafedelabourse.com)
+- [Cafe de la bourse](https://www.cafedelabourse.com)
 - [Economie.gouv](https://www.economie.gouv.fr)
-- [Financepourtous](https://www.lafinancepourtous.com)
+- [Finance pour tous](https://www.lafinancepourtous.com)
+- [Les Echos](https://www.lesechos.fr)
+- [La Tribune](https://www.latribune.fr)

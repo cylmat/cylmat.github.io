@@ -9,6 +9,8 @@ permalink: /news/
 - [Universalis](https://www.universalis.fr)
 
 ## Dev
+[Humancoders](https://news.humancoders.com)
+
 Back
 - [Php Watch](https://php.watch)
 - [Symfony blog](https://symfony.com/blog)

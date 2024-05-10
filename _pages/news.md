@@ -13,6 +13,7 @@ Back
 - [Php Watch](https://php.watch)
 - [Symfony blog](https://symfony.com/blog)
 - [Symfony edge](https://symfony.com/blog/category/living-on-the-edge)
+
 Front
 - [This week in React](https://thisweekinreact.com/articles)
 

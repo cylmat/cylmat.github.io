@@ -9,7 +9,7 @@ permalink: /news/
 - [Universalis](https://www.universalis.fr)
 
 ## Dev
-[Humancoders](https://news.humancoders.com)
+- [Humancoders](https://news.humancoders.com)
 
 Back
 - [Php Watch](https://php.watch)
@@ -32,4 +32,4 @@ Golf
 - [FF Golf](https://www.ffgolf.org)
 
 ## Tech
-[Le monde informatique](https://www.lemondeinformatique.fr)
+- [Le monde informatique](https://www.lemondeinformatique.fr)

@@ -166,8 +166,10 @@ Tools
 
 Shell
 * [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Zellij.dev](https://zellij.dev) - [OhMyPosh](https://ohmyposh.dev) -  
-  
-Share code: [Codefile.io](https://codefile.io)  
+
+- Api: [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) -
+- Share code: [Codefile.io](https://codefile.io)  -
+- Tools: [Opensourcealternative.to](https://www.opensourcealternative.to) - 
   
 ---
 ### Videos  
@@ -185,16 +187,10 @@ Share code: [Codefile.io](https://codefile.io)
 [@Java](https://www.youtube.com/@java) - 
 [@YoanDev](https://m.youtube.com/@yoandevco)
 
-### Cheats
-- [Cylmat - General cheats](https://github.com/cylmat/cheats/tree/main)
-
-### Docs & Install
-- [Cylmat - Docs](https://github.com/cylmat/docs)
-- [New install scripts and tools](https://github.com/cylmat/docs/tree/main/install)
-
-### Apis
-- @https://jsonplaceholder.typicode.com/users
-- @https://data.opendatasoft.com/api/explore/v2.1/console    
+### Cheats & docs
+- [General cheats](https://github.com/cylmat/cheats/tree/main) - 
+- [Docs](https://github.com/cylmat/docs) - 
+- [Install and tools](https://github.com/cylmat/docs/tree/main/install)
   
 ### Misc  
-- [Opensourcealternative.to](https://www.opensourcealternative.to) - [Musics](https://cylmat.github.io/musics) - [Tricks](https://cylmat.github.io/tricks) - 
+[Musics](https://cylmat.github.io/musics) - [News](https://cylmat.github.io/news) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)

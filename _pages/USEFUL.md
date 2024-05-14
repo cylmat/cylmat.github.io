@@ -25,7 +25,7 @@ Tech
 * Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) -
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
 
-- Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [W3Schools](https://www.w3schools.com)
+- Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [guru99](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
 - TutorialPoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [dsa](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - [mng](https://www.tutorialspoint.com/management_tutorials.htm) -[hack](https://www.tutorialspoint.com/ethical_hacking) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
 - LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) - [Mkdown](https://learnxinyminutes.com/docs/markdown) - [Nix](https://learnxinyminutes.com/docs/nix) - [Perl](https://learnxinyminutes.com/docs/perl) - [Python](https://learnxinyminutes.com/docs/python) - [R](https://learnxinyminutes.com/docs/r) - [Rust](https://learnxinyminutes.com/docs/rust) - [Vim](https://learnxinyminutes.com/docs/vim) 
 
@@ -45,7 +45,7 @@ Tuto:
   - [catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -  
 + Devops [Devopssec](https://devopssec.fr) -  
 + K8s [k8s.io](https://kubernetes.io/docs/tutorials/) -
-+ Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) -
++ Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfGeeks](https://www.geeksforgeeks.org/linux-tutorial/) - [linux.org](https://www.linux.org/forums/#linux-tutorials.122) - [tuxcademy.org advanced](https://www.tuxcademy.org/product/grd2/) -   - Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) -
 + Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) -
 
 ### <center>Playgrounds</center>

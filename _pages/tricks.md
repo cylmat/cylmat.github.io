@@ -24,6 +24,7 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=Pbx1MVThTfg : How to shuffle Tutorial #2, Easy Steps for Beginners by (kayeli2)
 - https://www.youtube.com/watch?v=NnXh0ZAZxF0 : Cutting Shapes Tutorial - Intermediate and Advanced Combos
 - https://www.youtube.com/watch?v=BxOBhZBLOio : 5 Easy Footwork Shuffle Steps
+- https://www.youtube.com/watch?v=Dc6B14K1SZ8 : Ultimate shuffle dance tutorial. All moves
 - https://www.youtube.com/watch?v=lXHjxJ5kTzs : Footwork Creativity for Shuffling
 
 ### Knots

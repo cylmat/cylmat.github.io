@@ -127,7 +127,8 @@ Spec
 * Java [DOC](https://docs.oracle.com/en/java) - [Oracle conv](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle](https://geosoft.no/javastyle.html) - 
 * [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  
 
-- JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -  
+- JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -
+  + [RequireJs](https://requirejs.org) - [CommonJs](https://nodejs.org/api/modules.html) -
 - Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
 - Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
 

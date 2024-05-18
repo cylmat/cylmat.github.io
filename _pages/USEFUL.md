@@ -98,6 +98,8 @@ Util
 ---
 ### <center>INFOS & LINKS</center>
 ---
+Awesome
+- [VimAwesome](https://vimawesome.com) -
 
 Architecture   
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 

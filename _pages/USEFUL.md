@@ -99,7 +99,7 @@ Util
 ### <center>INFOS & LINKS</center>
 ---
 Awesome
-- [Php ziadoz](https://github.com/ziadoz/awesome-php) - [Php uhub](https://github.com/uhub/awesome-php) - [VimAwesome](https://vimawesome.com) -
+- [Bash](https://github.com/awesome-lists/awesome-bash) - [Php ziadoz](https://github.com/ziadoz/awesome-php) - [Php uhub](https://github.com/uhub/awesome-php) - [React web](https://awesome-web-react.js.org) - [Shell](https://awesomerank.github.io/lists/alebcay/awesome-shell.html) - [Shell alebcay](https://github.com/alebcay/awesome-shell) - [Sym](https://symfony.com/blog/the-30-most-useful-symfony-bundles-and-making-them-even-better) - [Sym sitepoint](https://github.com/sitepoint-editors/awesome-symfony) - [Sym2](https://github.com/theofidry/awesome-symfony2) - [VsCode](https://github.com/viatsko/awesome-vscode) - [VimAwesome](https://vimawesome.com) - [Zsh](https://safjan.com/top-popular-zsh-plugins-on-github-2023) - [Zsh unixorn](https://awesomerank.github.io/lists/unixorn/awesome-zsh-plugins.html) - 
 
 Architecture   
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 

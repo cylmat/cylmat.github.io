@@ -167,7 +167,7 @@ Server & Security
 * Linux: [Alpine](https://www.alpinelinux.org)
 
 Tools  
-* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) - [Dev-box](https://www.dev-box.app/) -    
+* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) - [Dev-box](https://www.dev-box.app/) - [UUid gen](https://www.uuidgenerator.net) -    
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)  
 
 Shell

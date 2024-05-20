@@ -51,7 +51,7 @@ https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 + Devops [Devopssec](https://devopssec.fr) -  
 + K8s [k8s.io](https://kubernetes.io/docs/tutorials/) -
 + Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfGeeks](https://www.geeksforgeeks.org/linux-tutorial/) - [linux.org](https://www.linux.org/forums/#linux-tutorials.122) - [tuxcademy.org advanced](https://www.tuxcademy.org/product/grd2/) -   - Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) -
-+ Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) -
++ Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Learn on irian](https://learnvim.irian.to) - 
 
 ### <center>Playgrounds</center>
 

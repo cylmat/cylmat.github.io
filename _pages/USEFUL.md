@@ -58,7 +58,8 @@ Dev
 * Css: [CssDeck](https://cssdeck.com/) - [Playcode.io](https://playcode.io/css) - [Sassmeister](https://www.sassmeister.com/) - 
 * Dev: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) - 
 * Db [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) -
-    * Postgres [crunchydata.com](https://www.crunchydata.com/developers/playground)    
+    * Postgres [crunchydata.com](https://www.crunchydata.com/developers/playground)
+    * Cloud [Ampq](https://cloudamqp.com) - [Eleph Sql](https://customer.elephantsql.com/login) - 
 * Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) -
 * Java: [Dev.java](https://dev.java/playground) -
 * Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - [JsPlayground](https://www.jsplayground.dev) - 

@@ -42,10 +42,11 @@ https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
 * MongoDb [MongoUniversity](https://learn.mongodb.com) - [Tutospoint](https://www.tutorialspoint.com/mongodb) - 
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -
+* React [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm) -
 * Redis [redis.io](https://redis.io/learn) - [Tutospoint](https://www.tutorialspoint.com/redis) - 
 
 + Bash [freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - [linuxconfig](https://linuxconfig.org/bash-scripting-tutorial) - [ubuntu shell](https://doc.ubuntu-fr.org/tutoriel/script_shell) - 
-+ Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) - 
+  + Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) - 
   - [catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -  
 + Devops [Devopssec](https://devopssec.fr) -  
 + K8s [k8s.io](https://kubernetes.io/docs/tutorials/) -

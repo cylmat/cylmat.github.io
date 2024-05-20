@@ -37,7 +37,7 @@ Algorithms
 * DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - 
 * Contest [Isograd solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Competitive hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [tryalgo.org](https://tryalgo.org/problems) -
 * [RosettaCode](https://rosettacode.org) - [Classics](https://rosettacode.org/wiki/Category:Classic_CS_problems_and_programs) - [Games](https://rosettacode.org/wiki/Category:Games) - [Expensives](https://rosettacode.org/wiki/Category:Pages_with_too_many_expensive_parser_function_calls) - [PhpCategory](https://rosettacode.org/wiki/Category:PHP) - [JsCategory](https://rosettacode.org/wiki/Category:JavaScript) -
-* Games [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) - [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o)) - 
+* Games [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) - [Démineur](https://fr.wikipedia.org/wiki/D%C3%A9mineur_(genre_de_jeu_vid%C3%A9o)) - [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o)) -
 
 Tuto:
 * Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - [Typescript](

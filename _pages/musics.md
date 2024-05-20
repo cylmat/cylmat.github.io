@@ -38,6 +38,7 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=OBU3CENpnxk : Right Time - Hayden James & Icona Pop
 - https://www.youtube.com/watch?v=7k79G-nmt3k : Smalltown Boy - AZETE
 - https://www.youtube.com/watch?v=Gdg5HqX_vZE : Time - Hans Zimmer (Pen Perry Remix)
+- https://www.youtube.com/watch?v=4BAkPA0eU2g : TR3NACRIA - Intro
 
 ## Cool
 
@@ -59,6 +60,9 @@ permalink: /musics/
 
 - https://www.youtube.com/watch?v=slCipWPDdHw : Daniel Balavoine - S.O.S. d'un terrien en détresse
 - https://www.youtube.com/watch?v=5anLPw0Efmo : Evanescence - My Immortal
+- https://www.youtube.com/watch?v=PTsSk0r_Tq8 : F.R David - Words
+- https://www.youtube.com/watch?v=TmI9SB4VDl8 : Jacques Higelin - Tombé du ciel
 - https://www.youtube.com/watch?v=-NRw3gdJJcc : Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)
 - https://www.youtube.com/watch?v=cveoHrMyUDs : Peter kingsbery - Only the very best
 - https://www.youtube.com/watch?v=CIjqKL33TTE : Richard Cocciante - Le Coup de soleil
+- https://www.youtube.com/watch?v=W8r-tXRLazs : The Buggles - Video Killed The Radio Star

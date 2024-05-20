@@ -37,7 +37,8 @@ Algorithms
 * [RosettaCode](https://rosettacode.org) - [Classics](https://rosettacode.org/wiki/Category:Classic_CS_problems_and_programs) - [Games](https://rosettacode.org/wiki/Category:Games) - [Expensives](https://rosettacode.org/wiki/Category:Pages_with_too_many_expensive_parser_function_calls) -
 
 Tuto:
-* Javascript [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - 
+* Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp) - [Typescript](
+https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -
 

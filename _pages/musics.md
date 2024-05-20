@@ -39,10 +39,12 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=7k79G-nmt3k : Smalltown Boy - AZETE
 - https://www.youtube.com/watch?v=Gdg5HqX_vZE : Time - Hans Zimmer (Pen Perry Remix)
 - https://www.youtube.com/watch?v=4BAkPA0eU2g : TR3NACRIA - Intro
+- https://www.youtube.com/watch?v=0ofc-DBDCjg : Willcox - Illusion
 
 ## Cool
 
 - https://www.youtube.com/watch?v=djV11Xbc914 : A-ha - Take On Me
+- https://www.youtube.com/watch?v=Hxvl6rVglLA : BENASSI BROS FEAT. SANDY - ILLUSION
 - https://www.youtube.com/watch?v=88sARuFu-tc : Bronski Beat - Smalltown Boy
 - https://www.youtube.com/watch?v=Sv6dMFF_yts : Fun. We Are Young ft. Janelle Monáe
 - https://www.youtube.com/watch?v=hGI2d31M7Ns : Genesis - I Can't Dance

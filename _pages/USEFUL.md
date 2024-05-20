@@ -19,6 +19,8 @@ Tech
 * Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
 * Archi & Data [architect.io](https://www.architect.io/blog/) - [LeBigData](https://www.lebigdata.fr) -
 
+
+
 ---
 ### <center>TRAIN</center>
 ---
@@ -53,6 +55,8 @@ https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 + Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfGeeks](https://www.geeksforgeeks.org/linux-tutorial/) - [linux.org](https://www.linux.org/forums/#linux-tutorials.122) - [tuxcademy.org advanced](https://www.tuxcademy.org/product/grd2/) -   - Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) -
 + Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Learn on irian](https://learnvim.irian.to) - 
 
+
+
 ### <center>Playgrounds</center>
 
 - Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [rextester](https://rextester.com/) -   
@@ -76,8 +80,10 @@ Ops
 * K8s: [Minikube](https://minikube.sigs.k8s.io/docs/start/) - 
 * Linux: [Distrosea](https://distrosea.com/) -
 
+
+
 ---
-### <center>Cheat sheets</center>
+### <center>Cheatsheets</center>
 ---
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
@@ -100,6 +106,8 @@ Util
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
+
+
 
 ---
 ### <center>INFOS & LINKS</center>
@@ -140,12 +148,16 @@ Spec
 - Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
 - Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
 
+
+
 ---
 ### <center>TOOLS</center>
 ---
 
+Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database) - 
+  
 DataBase  
-* [Doctrine-project.org](https://www.doctrine-project.org) - [MySql.com](https://dev.mysql.com/doc) - [MongoDb](https://www.mongodb.com/docs) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
+* [Doctrine-project.org](https://www.doctrine-project.org) - [Cassandra](https://cassandra.apache.org) - [MySql.com](https://dev.mysql.com/doc) - [MongoDb](https://www.mongodb.com/docs) - [Postgre](https://www.postgresql.org) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
 
 Development  
 * [Get Composer.org](https://getcomposer.org/doc) - 

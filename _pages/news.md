@@ -4,6 +4,10 @@ layout: post
 permalink: /news/ 
 ---
 
+### Web & Tech
+- [Journal du geek - Web](https://www.journaldugeek.com/category/sur-le-web) - [Le monde informatique - Internet](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
+- [Journal du net - Web](https://www.journaldunet.com/web-tech) - [ZdNet](https://www.zdnet.fr)
+
 ## DEV
 - [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com) - [Sitepoint](https://www.sitepoint.com/blog)
 
@@ -12,13 +16,9 @@ Back
 - [Symfony blog](https://symfony.com/blog) - [Symfony edge](https://symfony.com/blog/category/living-on-the-edge)  
 
 Front
-- [This week in React](https://thisweekinreact.com/articles)  
+- [This week in React](https://thisweekinreact.com/articles) 
 
-Blog : [Grafikart](https://grafikart.fr/blog) - [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos)
-
-### Web & Tech
-- [Journal du geek - Web](https://www.journaldugeek.com/category/sur-le-web) - [Le monde informatique - Internet](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
-- [Journal du net - Web](https://www.journaldunet.com/web-tech) - [ZdNet](https://www.zdnet.fr)
+Blog : [Grafikart](https://grafikart.fr/blog) - [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos) - [Knowledgehut](https://www.knowledgehut.com/blog)
 
   
 ---

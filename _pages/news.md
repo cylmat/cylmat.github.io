@@ -11,14 +11,16 @@ permalink: /news/
 ## DEV
 - [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com) - [Sitepoint](https://www.sitepoint.com/blog)
 
-Back
+Blog
+- [Dev.to](https://dev.to) - [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos)
+- [Devconnected.com](https://devconnected.com) - [Grafikart](https://grafikart.fr/blog) 
+- [Knowledgehut](https://www.knowledgehut.com/blog) - [Refactoring.fm](https://refactoring.fm)
+
+Specific
 - [Php Watch](https://php.watch) - [Stitcher.io](https://stitcher.io)  
-- [Symfony blog](https://symfony.com/blog) - [Symfony edge](https://symfony.com/blog/category/living-on-the-edge)  
+- [Symfony blog](https://symfony.com/blog) - [Symfony edge](https://symfony.com/blog/category/living-on-the-edge)
 
-Front
-- [This week in React](https://thisweekinreact.com/articles) 
-
-Blog : [Grafikart](https://grafikart.fr/blog) - [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos) - [Knowledgehut](https://www.knowledgehut.com/blog)
++ [This week in React](https://thisweekinreact.com/articles) 
 
   
 ---
@@ -37,7 +39,3 @@ Blog : [Grafikart](https://grafikart.fr/blog) - [Delicious insights](https://del
 
 Golf
 - [Golf Planète](https://www.golfplanete.com) - [FF Golf](https://www.ffgolf.org)  
-
----
-
-- [Dzone Webtutos](https://dzone.com/web-development-programming-tutorials-tools-news)

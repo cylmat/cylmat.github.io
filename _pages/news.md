@@ -9,7 +9,7 @@ permalink: /news/
 - [Journal du net - Web](https://www.journaldunet.com/web-tech) - [ZdNet](https://www.zdnet.fr)
 
 ## DEV
-- [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com) - [Eleven labs](https://blog.eleven-labs.com) -
+- [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com) - [Eleven labs](https://blog.eleven-labs.com)
 - [Korben](https://korben.info) - [La ferme du web](https://www.lafermeduweb.net)
 - [Sitepoint](https://www.sitepoint.com/blog)
 
@@ -22,9 +22,11 @@ Specific
 - [Developpez.com Php](https://php.developpez.com) - [Php Watch](https://php.watch)
 - [Strangebuzz](https://www.strangebuzz.com/fr) - [Stitcher.io](https://stitcher.io)  
 - [Symfony blog](https://symfony.com/blog) - [Symfony edge](https://symfony.com/blog/category/living-on-the-edge)
+-
++ [Developpez.com Js](https://javascript.developpez.com) - [This week in React](https://thisweekinreact.com/articles)
+-
++ [Architect.io](https://www.architect.io/blog) - [LeBigData](https://www.lebigdata.fr) - [Linuxfr](https://linuxfr.org)
 
-+ [Developpez.com Js](https://javascript.developpez.com) - [This week in React](https://thisweekinreact.com/articles) 
-+ [Linuxfr](https://linuxfr.org)
   
 ---
 

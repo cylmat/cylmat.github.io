@@ -17,7 +17,7 @@ Front
 Blog
 - [Grafikart](https://grafikart.fr/blog)
 
-## Web & Tech
+### Web & Tech
 - [Journal du geek - Web](https://www.journaldugeek.com/category/sur-le-web) - [Le monde informatique - Internet](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
 - [Journal du net - Web](https://www.journaldunet.com/web-tech) - [ZdNet](https://www.zdnet.fr)
 
@@ -26,12 +26,12 @@ Blog
 ## Culture
 - [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire.fr](https://www.lhistoire.fr) - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis.fr](https://www.universalis.fr)
 
-## Finance
+### Finance
 - [Café de la bourse](https://www.cafedelabourse.com) - [Economie.gouv](https://www.economie.gouv.fr)  
 - [Finance pour tous](https://www.lafinancepourtous.com) - [Les Echos](https://www.lesechos.fr)  
 - [La Tribune](https://www.latribune.fr)
 
-## Sport
+### Sport
 Golf
 - [Golf Planète](https://www.golfplanete.com) - [FF Golf](https://www.ffgolf.org)  
 

@@ -14,7 +14,7 @@ Back
 Front
 - [This week in React](https://thisweekinreact.com/articles)  
 
-Blog : [Grafikart](https://grafikart.fr/blog)
+Blog : [Grafikart](https://grafikart.fr/blog) - [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos)
 
 ### Web & Tech
 - [Journal du geek - Web](https://www.journaldugeek.com/category/sur-le-web) - [Le monde informatique - Internet](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)

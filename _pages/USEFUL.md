@@ -10,15 +10,6 @@ permalink: /useful/
 
 [NEWS](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/news.md)
 
-Tech  
-* Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - [Catonmat](https://catonmat.net/) - [Refactoring.fm](https://refactoring.fm) - [Dev.to](https://dev.to) - [Devconnected.com](https://devconnected.com) - 
-* Linux [Linux.org](https://linuxfr.org) - [Lafermeduweb.net](https://www.lafermeduweb.net) - [Korben.info](https://korben.info) - [Linux mag](https://connect.ed-diamond.com/gnu-linux-magazine) - 
-* PHP [Php Humancoder.com](https://news.humancoders.com/t/php) - [Strangebuzz.com](https://www.strangebuzz.com/fr) - [Eleven-labs.com](https://blog.eleven-labs.com) - [LMI-Php](https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-php-group-711.html) - [Php Developpez.com](https://php.developpez.com) - [Php Linux.org](https://linuxfr.org/sections/php) - 
-* Java [Java Linux.org](https://linuxfr.org/sections/java) - [Java LMI](https://www.lemondeinformatique.fr/toute-l-actualite-produit-sur-java-42.html)
-* Archi & Data [architect.io](https://www.architect.io/blog/) - [LeBigData](https://www.lebigdata.fr) -
-
-
-
 ---
 ### <center>TRAIN</center>
 ---

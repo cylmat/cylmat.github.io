@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 ## DEV
-- [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com)
+- [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com) - [Sitepoint](https://www.sitepoint.com/blog)
 
 Back
 - [Php Watch](https://php.watch) - [Stitcher.io](https://stitcher.io)  

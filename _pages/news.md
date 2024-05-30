@@ -4,11 +4,11 @@ layout: post
 permalink: /news/ 
 ---
 
-### Web & Tech
+## Web & Tech
 - [Journal du geek - Web](https://www.journaldugeek.com/category/sur-le-web) - [Le monde informatique - Internet](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
 - [Journal du net - Web](https://www.journaldunet.com/web-tech) - [ZdNet](https://www.zdnet.fr)
 
-## DEV
+### DEV
 - [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com) - [Eleven labs](https://blog.eleven-labs.com)
 - [Korben](https://korben.info) - [La ferme du web](https://www.lafermeduweb.net)
 - [Sitepoint](https://www.sitepoint.com/blog)

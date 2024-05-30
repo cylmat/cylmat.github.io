@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 ## Culture
-- [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico)L'Histoire](https://www.lhistoire.fr) - [Universalis](https://www.universalis.fr)
+- [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire.fr](https://www.lhistoire.fr) - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis.fr](https://www.universalis.fr)
 
 ## Dev
 - [Humancoders](https://news.humancoders.com)

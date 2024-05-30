@@ -4,7 +4,7 @@ layout: post
 permalink: /useful/
 ---
 
-[<NEWS>](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/news.md)
+[NEWS](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/news.md)
 
 ---
 ### <center>TRAIN</center>

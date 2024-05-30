@@ -4,10 +4,6 @@ layout: post
 permalink: /useful/
 ---
 
----
-### <center>NEWS</center>
----
-
 [NEWS](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/news.md)
 
 ---

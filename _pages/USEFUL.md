@@ -8,9 +8,7 @@ permalink: /useful/
 ### <center>NEWS</center>
 ---
 
-Général  
-* [Journaldugeek.com Web](https://www.journaldugeek.com/category/sur-le-web) - [Zdnet.fr](https://www.zdnet.fr) - [Journaldunet.com](https://www.journaldunet.com/web-tech) - 
-* [Lemondeinfo.fr](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [Dzone.com](https://dzone.com/web-development-programming-tutorials-tools-news) - [Grafikart.fr](https://grafikart.fr/blog)
+[NEWS](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/news.md)
 
 Tech  
 * Front [Sitepoint.com](https://www.sitepoint.com) - [Delicious-insights](https://delicious-insights.com/fr/articles-et-tutos/) - [Knowledgehut.com](https://www.knowledgehut.com/blog/category/web-development) - [Catonmat](https://catonmat.net/) - [Refactoring.fm](https://refactoring.fm) - [Dev.to](https://dev.to) - [Devconnected.com](https://devconnected.com) - 

@@ -4,7 +4,7 @@ layout: post
 permalink: /news/ 
 ---
 
-## Dev
+## DEV
 - [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com)
 
 Back
@@ -21,9 +21,11 @@ Blog
 - [Journal du geek - Web](https://www.journaldugeek.com/category/sur-le-web) - [Le monde informatique - Internet](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
 - [Journal du net - Web](https://www.journaldunet.com/web-tech) - [ZdNet](https://www.zdnet.fr)
 
+  
 ---
 
-## Culture
+  
+## CULTURE
 - [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire.fr](https://www.lhistoire.fr) - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis.fr](https://www.universalis.fr)
 
 ### Finance

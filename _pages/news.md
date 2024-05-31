@@ -49,6 +49,10 @@ Specific
 - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis](https://www.universalis.fr)
 - [La culture générale](https://www.laculturegenerale.com)
 
+Quizz
++ [Culture quizz](https://www.culturequizz.com)
++ [L'étudiant](https://www.letudiant.fr/quiz/culture-generale.html)
+
 ### Finance
 - [Café de la bourse](https://www.cafedelabourse.com)
 - [Economie.gouv](https://www.economie.gouv.fr)  
@@ -57,7 +61,7 @@ Specific
 - [La Tribune](https://www.latribune.fr)
 
 Crypto
-- [Be in crypto](https://fr.beincrypto.com)
+- [BeIn crypto](https://fr.beincrypto.com)
 - [Cryptonaute](https://cryptonaute.fr)
 
 ### Sport

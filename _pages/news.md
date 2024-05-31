@@ -47,6 +47,7 @@ Specific
 ## <center>CULTURE</center>
 - [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire](https://www.lhistoire.fr)
 - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis](https://www.universalis.fr)
+- [La culture générale](https://www.laculturegenerale.com)
 
 ### Finance
 - [Café de la bourse](https://www.cafedelabourse.com)

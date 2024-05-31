@@ -8,7 +8,7 @@ permalink: /news/
 - [Journal du geek (Web)](https://www.journaldugeek.com/category/sur-le-web)
 - [Journal du net (Web)](https://www.journaldunet.com/web-tech)
 - [Le monde informatique (Internet)](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
-- [ZdNet](https://www.zdnet.fr)
+- [ZdNet](https://www.zdnet.fr)  
 
 ---
 
@@ -54,6 +54,10 @@ Specific
 - [Finance pour tous](https://www.lafinancepourtous.com)
 - [Les Echos](https://www.lesechos.fr)  
 - [La Tribune](https://www.latribune.fr)
+
+Crypto
+- [Be in crypto](https://fr.beincrypto.com)
+- [Cryptonaute](https://cryptonaute.fr)
 
 ### Sport
 - [Eurosport](https://www.eurosport.fr) 

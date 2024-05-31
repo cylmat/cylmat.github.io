@@ -6,8 +6,8 @@ permalink: /news/
 
 ## <center>Web & Tech</center>
 - [Journal du geek (Web)](https://www.journaldugeek.com/category/sur-le-web)
-- [Le monde informatique (Internet)](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
 - [Journal du net (Web)](https://www.journaldunet.com/web-tech)
+- [Le monde informatique (Internet)](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
 - [ZdNet](https://www.zdnet.fr)
 
 ---
@@ -20,8 +20,8 @@ permalink: /news/
 - [Sitepoint](https://www.sitepoint.com/blog)
 
 Blog
-- [Dev.to](https://dev.to)
 - [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos)
+- [Dev.to](https://dev.to)
 - [Dev connected](https://devconnected.com)
 - [Grafikart](https://grafikart.fr/blog) 
 - [Knowledgehut](https://www.knowledgehut.com/blog)

@@ -4,43 +4,60 @@ layout: post
 permalink: /news/ 
 ---
 
-## Web & Tech
-- [Journal du geek Web](https://www.journaldugeek.com/category/sur-le-web) - [Le monde informatique Internet](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
-- [Journal du net Web](https://www.journaldunet.com/web-tech) - [ZdNet](https://www.zdnet.fr)
+## <center>Web & Tech</center>
+- [Journal du geek (Web)](https://www.journaldugeek.com/category/sur-le-web)
+- [Le monde informatique (Internet)](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
+- [Journal du net (Web)](https://www.journaldunet.com/web-tech)
+- [ZdNet](https://www.zdnet.fr)
 
-### DEV
-- [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com) - [Eleven labs](https://blog.eleven-labs.com)
-- [Korben](https://korben.info) - [La ferme du web](https://www.lafermeduweb.net)
+---
+
+## <center>Dev</center>
+- [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com)
+- [Eleven labs](https://blog.eleven-labs.com)
+- [Korben](https://korben.info)
+- [La ferme du web](https://www.lafermeduweb.net)
 - [Sitepoint](https://www.sitepoint.com/blog)
 
 Blog
-- [Dev.to](https://dev.to) - [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos)
-- [Dev connected](https://devconnected.com) - [Grafikart](https://grafikart.fr/blog) 
-- [Knowledgehut](https://www.knowledgehut.com/blog) - [Refactoring.fm](https://refactoring.fm)
+- [Dev.to](https://dev.to)
+- [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos)
+- [Dev connected](https://devconnected.com)
+- [Grafikart](https://grafikart.fr/blog) 
+- [Knowledgehut](https://www.knowledgehut.com/blog)
+- [Refactoring.fm](https://refactoring.fm)
 
 Specific
-- [Developpez.com Php](https://php.developpez.com) - [Php Watch](https://php.watch)
-- [Strangebuzz](https://www.strangebuzz.com/fr) - [Stitcher.io](https://stitcher.io)  
-- [Symfony blog](https://symfony.com/blog) - [Symfony livedge](https://symfony.com/blog/category/living-on-the-edge)
+- [Developpez.com (Php)](https://php.developpez.com)
+- [Php Watch](https://php.watch)
+- [Strangebuzz](https://www.strangebuzz.com/fr)
+- [Stitcher.io](https://stitcher.io)  
+- [Symfony blog](https://symfony.com/blog)
+- [Symfony livedge](https://symfony.com/blog/category/living-on-the-edge)
 -
-+ [Developpez.com Js](https://javascript.developpez.com) - [This week in React](https://thisweekinreact.com/articles)
++ [Developpez.com (Js)](https://javascript.developpez.com)
++ [This week in React](https://thisweekinreact.com/articles)
 -
-+ [Architect.io](https://www.architect.io/blog) - [LeBigData](https://www.lebigdata.fr) - [Linuxfr](https://linuxfr.org)
+* [Architect.io](https://www.architect.io/blog)
+* [LeBigData](https://www.lebigdata.fr)
+* [Linuxfr](https://linuxfr.org)
 
-  
 ---
-
   
-## CULTURE
-- [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire](https://www.lhistoire.fr) - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis](https://www.universalis.fr)
+## <center>CULTURE</center>
+- [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire](https://www.lhistoire.fr)
+- [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis](https://www.universalis.fr)
 
 ### Finance
-- [Café de la bourse](https://www.cafedelabourse.com) - [Economie.gouv](https://www.economie.gouv.fr)  
-- [Finance pour tous](https://www.lafinancepourtous.com) - [Les Echos](https://www.lesechos.fr)  
+- [Café de la bourse](https://www.cafedelabourse.com)
+- [Economie.gouv](https://www.economie.gouv.fr)  
+- [Finance pour tous](https://www.lafinancepourtous.com)
+- [Les Echos](https://www.lesechos.fr)  
 - [La Tribune](https://www.latribune.fr)
 
 ### Sport
 - [Eurosport](https://www.eurosport.fr) 
 
 Golf
-- [Golf Planète](https://www.golfplanete.com) - [FF Golf](https://www.ffgolf.org)  
+- [FF Golf](https://www.ffgolf.org)  
+- [Golf Planète](https://www.golfplanete.com)

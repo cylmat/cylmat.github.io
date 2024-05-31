@@ -42,6 +42,9 @@ Specific
 * [LeBigData](https://www.lebigdata.fr)
 * [Linuxfr](https://linuxfr.org)
 
+[_others_](https://github.com/cylmat/docs/blob/main/News.md)
+[_quizz_](https://github.com/cylmat/docs/blob/main/Quizz.md)
+
 ---
   
 ## <center>CULTURE</center>

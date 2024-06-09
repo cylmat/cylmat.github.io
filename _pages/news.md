@@ -52,6 +52,8 @@ Specific
 - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis](https://www.universalis.fr)
 - [La culture générale](https://www.laculturegenerale.com)
 
+- [Autojournal](https://www.autojournal.fr)
+
 Quizz
 + [Culture quizz](https://www.culturequizz.com)
 + [L'étudiant](https://www.letudiant.fr/quiz/culture-generale.html)

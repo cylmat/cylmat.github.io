@@ -19,3 +19,5 @@ permalink: /lists/
 ## Finance
 
 - [CAC40](https://www.boursier.com/indices/composition/cac-40-FR0003500008,FR.html)
+- [Cryptos](https://crypto.com/price)
+- [ETF](https://www.marketwatch.com/tools/top-25-etfs)

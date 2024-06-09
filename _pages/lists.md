@@ -1,7 +1,7 @@
 --- 
-title: List
+title: Lists
 layout: post 
-permalink: /list/ 
+permalink: /lists/ 
 --- 
 
 - https://www.atptour.com/en/rankings/singles

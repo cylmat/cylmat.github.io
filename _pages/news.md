@@ -68,6 +68,7 @@ Quizz
 Crypto
 - [BeIn crypto](https://fr.beincrypto.com)
 - [Cryptonaute](https://cryptonaute.fr)
+- [Cryptonews](https://fr.cryptonews.com)
 
 ### Sport
 - [Eurosport](https://www.eurosport.fr) 

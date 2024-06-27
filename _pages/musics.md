@@ -26,7 +26,7 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=eY-MtTkLjpU : CECILIA KRULL - Agnus Dei (Benny Benassi & BB Team Remix)
 - https://www.youtube.com/watch?v=aFgCG8H2n5w : Celestal - Old School Romance ft. Rachel Pearl, Grynn
 - https://www.youtube.com/watch?v=u0pmV7GoTjc : David Guetta, Cedric Gervais & Chris Willis - Would I Lie To You
-- https://www.youtube.com/watch?v=sNaQBEcUqsI : Diamond Veins (feat. Sarah Rebecca)
+- https://www.youtube.com/watch?v=9LdCX7boX_k : Diamond Veins (feat. Sarah Rebecca)
 - https://www.youtube.com/watch?v=UZ2yzLibD9g : Dua Lipa - Break My Heart (Pascal Junior Remix)
 - https://www.youtube.com/watch?v=Mptdcx36qZU : Feder - Goodbye feat. Lyse
 - https://www.youtube.com/watch?v=qiS_Pc9SJ88 : Glowie - Unlovable (Joel Corry Remix)

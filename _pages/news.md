@@ -62,6 +62,8 @@ Specific
 Quizz
 + [Culture quizz](https://www.culturequizz.com)
 + [L'étudiant](https://www.letudiant.fr/quiz/culture-generale.html)
++ [Quizz](https://www.quizz.fr)
++ [Quizzmix](https://www.quizzmix.com)
 
 ### Finance
 

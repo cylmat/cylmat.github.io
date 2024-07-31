@@ -1,5 +1,5 @@
 ---
-title: Tricks
+title: Musics
 layout: post
 permalink: /musics/
 ---

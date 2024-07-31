@@ -190,9 +190,12 @@ Shell
 [@CyberVox](https://www.youtube.com/@CyberVox) - 
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
-[@Micode](https://www.youtube.com/@Micode) -  
-[@Simplilearn](https://www.youtube.com/@SimplilearnOfficial) - 
-  
+[@Micode](https://www.youtube.com/@Micode) -   
+*  
+[@CodeCampaign](https://www.youtube.com/@CodeCampaign) - 
+[@Simplilearn](https://www.youtube.com/@SimplilearnOfficial) -
+[@techdose4u](https://www.youtube.com/@techdose4u) -
+*  
 [@AfupPhp](https://www.youtube.com/@afupPHP) - 
 [@AtomicReact](https://www.youtube.com/@atomicreact) - 
 [@Java](https://www.youtube.com/@java) - 

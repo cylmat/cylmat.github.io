@@ -39,7 +39,7 @@ Specific
 -
 + [Developpez.com (Js)](https://javascript.developpez.com)
 + [This week in React](https://thisweekinreact.com/articles)
--
++
 * [Architect.io](https://www.architect.io/blog)
 * [LeBigData](https://www.lebigdata.fr)
 * [Linuxfr](https://linuxfr.org)

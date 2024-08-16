@@ -33,7 +33,7 @@ Specific
 - [Developpez.com (Php)](https://php.developpez.com)
 - [Php Watch](https://php.watch)
 - [Strangebuzz](https://www.strangebuzz.com/fr)
-- [Stitcher.io](https://stitcher.io)  
+- [Stitcher.io](https://stitcher.io)
 - [Symfony blog](https://symfony.com/blog)
 - [Symfony livedge](https://symfony.com/blog/category/living-on-the-edge)
 -

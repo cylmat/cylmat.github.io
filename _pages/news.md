@@ -67,6 +67,7 @@ Quizz
 
 ### Finance
 
+- [Boursorama](https://www.boursorama.com/bourse/actualites)
 - [Café de la bourse](https://www.cafedelabourse.com)
 - [Economie.gouv](https://www.economie.gouv.fr)  
 - [Finance pour tous](https://www.lafinancepourtous.com)

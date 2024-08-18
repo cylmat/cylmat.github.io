@@ -42,7 +42,6 @@ Tuto:
 + Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Learn on irian](https://learnvim.irian.to) - [Vimcasts](http://vimcasts.org/) - 
 
 
-
 ### <center>Playgrounds</center>
 
 - Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [Rextester.com](https://rextester.com/) - [Codapi.org](https://codapi.org) -   
@@ -65,7 +64,6 @@ Ops
 * Docker: [play-with-docker](https://labs.play-with-docker.com/) -
 * K8s: [Minikube](https://minikube.sigs.k8s.io/docs/start/) - 
 * Linux: [Distrosea](https://distrosea.com/) -
-
 
 
 ---
@@ -94,7 +92,6 @@ Util
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
 
 
-
 ---
 ### <center>INFOS & LINKS</center>
 ---
@@ -121,20 +118,19 @@ Quality & Security
 * [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
 
 Shell
-* [Ubuntu-fr doc](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com)
+* [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - 
 
 ---
 Spec  
 * Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
-[Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR](https://www.php-fig.org/psr) -
-* Java [DOC](https://docs.oracle.com/en/java) - [Oracle conv](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle](https://geosoft.no/javastyle.html) - 
-* [Refweb Mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3](https://www.w3.org)  
+[Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR php-fig.org](https://www.php-fig.org/psr) -
+* Java [Oracle.com Doc](https://docs.oracle.com/en/java) - [Oracle.com Java convention](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle Geosoft.no](https://geosoft.no/javastyle.html) - 
+* [Refweb mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3.org](https://www.w3.org)  
 
-- JS [mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -
-  + [RequireJs](https://requirejs.org) - [CommonJs](https://nodejs.org/api/modules.html) -
+- JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -
+  + [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) -
 - Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
 - Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
-
 
 
 ---

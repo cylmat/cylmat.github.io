@@ -18,6 +18,7 @@ permalink: /useful/
 - LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) - [Mkdown](https://learnxinyminutes.com/docs/markdown) - [Nix](https://learnxinyminutes.com/docs/nix) - [Perl](https://learnxinyminutes.com/docs/perl) - [Python](https://learnxinyminutes.com/docs/python) - [R](https://learnxinyminutes.com/docs/r) - [Rust](https://learnxinyminutes.com/docs/rust) - [Vim](https://learnxinyminutes.com/docs/vim) 
 
 --- Algorithms ---    
+
 * Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codewars](https://www.codewars.com) - [Codechef.com certif](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) - [Techiedelight](https://www.techiedelight.com) - [Codecademy.com](https://www.codecademy.com) - [Codingame.com](https://www.codingame.com) - 
 * DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) -
 
@@ -26,6 +27,7 @@ permalink: /useful/
 * Games [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) - [Démineur](https://fr.wikipedia.org/wiki/D%C3%A9mineur_(genre_de_jeu_vid%C3%A9o)) - [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o)) -
 
 --- Tutos ---  
+
 * Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp)
   + [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -

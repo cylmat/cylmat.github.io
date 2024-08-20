@@ -60,6 +60,9 @@ Specific
 
 - [Autojournal](https://www.autojournal.fr)
 
+Cooking
++ [Laurentmariotte.com](https://www.laurentmariotte.com/petits-plats-en-equilibre)
+
 Quizz
 + [Culture quizz](https://www.culturequizz.com)
 + [L'étudiant](https://www.letudiant.fr/quiz/culture-generale.html)

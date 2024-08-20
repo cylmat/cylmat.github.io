@@ -29,25 +29,32 @@ permalink: /useful/
 * Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp)
   + [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
-* MongoDb [MongoUniversity](https://learn.mongodb.com) - [Tutospoint](https://www.tutorialspoint.com/mongodb) - 
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -
 * React [React.dev](https://react.dev/learn) - [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm) -
-* Redis [redis.io](https://redis.io/learn) - [Tutospoint](https://www.tutorialspoint.com/redis) - 
 
+Database  
+* MongoDb [MongoUniversity](https://learn.mongodb.com) - [Tutospoint](https://www.tutorialspoint.com/mongodb) - 
+* Redis [redis.io](https://redis.io/learn) - [Tutospoint](https://www.tutorialspoint.com/redis) -
+* [Doctrine](https://www.doctrine-project.org) -  
+
+Linux  
 + Bash [freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - [linuxconfig](https://linuxconfig.org/bash-scripting-tutorial) - [ubuntu shell](https://doc.ubuntu-fr.org/tutoriel/script_shell) - 
   + Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) - 
-  - [catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -  
-+ Devops [Devopssec](https://devopssec.fr) -  
-+ K8s [k8s.io](https://kubernetes.io/docs/tutorials/) -
+  - [catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -
+
 + Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfGeeks](https://www.geeksforgeeks.org/linux-tutorial/) - [linux.org](https://www.linux.org/forums/#linux-tutorials.122) - [tuxcademy.org advanced](https://www.tuxcademy.org/product/grd2/) - Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) - [Linuxtrainingacademy](https://www.linuxtrainingacademy.com/) 
 + Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Learn on irian](https://learnvim.irian.to) - [Vimcasts](http://vimcasts.org/) - 
+ 
+Ops
++ Devops [Devopssec](https://devopssec.fr) -  
++ K8s [k8s.io](https://kubernetes.io/docs/tutorials) -
 
 
 ### <center>Playgrounds</center>
 
 - Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [Rextester.com](https://rextester.com/) - [Codapi.org](https://codapi.org) -   
 
-Dev
+Dev  
 * Css: [CssDeck](https://cssdeck.com/) - [Playcode.io](https://playcode.io/css) - [Sassmeister](https://www.sassmeister.com/) - 
 * Dev: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) - 
 * Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) -
@@ -58,12 +65,12 @@ Dev
 * Php: [PHP 3v4l.org](https://3v4l.org) -
 * Ruby: [Ruby-lang.org](https://try.ruby-lang.org/playground/) -
 
-Db 
+Database   
 * [TryRedis.io](https://try.redis.io) - [DBfiddle.com](https://www.db-fiddle.com) - [MongoDB](https://mongoplayground.net) - [SQLfiddle.com](http://sqlfiddle.com) -
-* Postgres [crunchydata.com](https://www.crunchydata.com/developers/playground)
+* Postgres [Crunchydata.com](https://www.crunchydata.com/developers/playground)
 * Cloud [CloudAmpq.com](https://customer.cloudamqp.com) - [ElephantSql.com](https://customer.elephantsql.com) - 
 
-Ops
+Ops  
 * Docker: [play-with-docker](https://labs.play-with-docker.com/) -
 * K8s: [Minikube](https://minikube.sigs.k8s.io/docs/start/) - 
 * Linux: [Distrosea](https://distrosea.com/) -

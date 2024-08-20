@@ -8,25 +8,25 @@ permalink: /news/
 
 - [Journal du geek (Web)](https://www.journaldugeek.com/category/sur-le-web)
 - [Journal du net (Web)](https://www.journaldunet.com/web-tech)
-- [Le monde informatique (Internet)](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
-- [ZdNet](https://www.zdnet.fr)  
+- [Le Monde Informatique (Web)](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
+- [ZdNet](https://www.zdnet.fr), [Php](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 
 ---
 
 ## <center>Dev</center>
 
-- [![](https://news.humancoders.com/assets/favicon-1c28b03a545044e5cf5e0ae8a7b441b1520a9dde57727c86e657f4212fba9c83.ico) Humancoders](https://news.humancoders.com)
-- [Eleven labs](https://blog.eleven-labs.com)
-- [Korben](https://korben.info)
-- [La ferme du web](https://www.lafermeduweb.net)
-- [Sitepoint](https://www.sitepoint.com/blog)
+- [Humancoders.com](https://news.humancoders.com), [Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript)
+- [Elevenlabs blog](https://blog.eleven-labs.com)
+- [Korben.info](https://korben.info)
+- [La ferme du web.net](https://www.lafermeduweb.net)
+- [Sitepoint.com blog](https://www.sitepoint.com/blog)
 
 Blog
-- [Delicious insights](https://delicious-insights.com/fr/articles-et-tutos)
+- [Delicious-insights.com](https://delicious-insights.com/fr/articles-et-tutos)
 - [Dev.to](https://dev.to)
-- [Dev connected](https://devconnected.com)
-- [Grafikart](https://grafikart.fr/blog) 
-- [Knowledgehut](https://www.knowledgehut.com/blog)
+- [Devconnected.com](https://devconnected.com)
+- [Grafikart.fr blog](https://grafikart.fr/blog) 
+- [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
 - [Refactoring.fm](https://refactoring.fm)
 
 Specific

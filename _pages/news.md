@@ -9,13 +9,13 @@ permalink: /news/
 - [Journal du geek (Web)](https://www.journaldugeek.com/category/sur-le-web)
 - [Journal du net (Web)](https://www.journaldunet.com/web-tech)
 - [Le Monde Informatique (Web)](https://www.lemondeinformatique.fr/internet-et-e-business-11.html)
-- [ZdNet](https://www.zdnet.fr), [Php](https://www.zdnet.fr/actualites/php-4000000130q.htm)
+- [ZdNet](https://www.zdnet.fr) ([Php](https://www.zdnet.fr/actualites/php-4000000130q.htm))
 
 ---
 
 ## <center>Dev</center>
 
-- [Humancoders.com](https://news.humancoders.com), [Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript)
+- [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))
 - [Elevenlabs blog](https://blog.eleven-labs.com)
 - [Korben.info](https://korben.info)
 - [La ferme du web.net](https://www.lafermeduweb.net)

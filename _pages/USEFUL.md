@@ -17,20 +17,21 @@ permalink: /useful/
 - TutorialPoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [dsa](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - [mng](https://www.tutorialspoint.com/management_tutorials.htm) -[hack](https://www.tutorialspoint.com/ethical_hacking) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
 - LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) - [Mkdown](https://learnxinyminutes.com/docs/markdown) - [Nix](https://learnxinyminutes.com/docs/nix) - [Perl](https://learnxinyminutes.com/docs/perl) - [Python](https://learnxinyminutes.com/docs/python) - [R](https://learnxinyminutes.com/docs/r) - [Rust](https://learnxinyminutes.com/docs/rust) - [Vim](https://learnxinyminutes.com/docs/vim) 
 
-Algorithms  
-* Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codewars](https://www.codewars.com) - [Codechef.com certif](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) - [Techiedelight](https://www.techiedelight.com) - [Codecademy.com](https://www.codecademy.com)
-* DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - 
-* Contest [Isograd solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Competitive hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [tryalgo.org](https://tryalgo.org/problems) -
+--- Algorithms ---    
+* Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codewars](https://www.codewars.com) - [Codechef.com certif](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) - [Techiedelight](https://www.techiedelight.com) - [Codecademy.com](https://www.codecademy.com) - [Codingame.com](https://www.codingame.com) - 
+* DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) -
+
+* Contest [Isograd.com solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Hackerearth.com Competitive](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [Tryalgo.org](https://tryalgo.org/problems) - [Prologin.org](https://prologin.org/archives/) - 
 * [RosettaCode](https://rosettacode.org) - [Classics](https://rosettacode.org/wiki/Category:Classic_CS_problems_and_programs) - [Games](https://rosettacode.org/wiki/Category:Games) - [Expensives](https://rosettacode.org/wiki/Category:Pages_with_too_many_expensive_parser_function_calls) - [PhpCategory](https://rosettacode.org/wiki/Category:PHP) - [JsCategory](https://rosettacode.org/wiki/Category:JavaScript) -
 * Games [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) - [Démineur](https://fr.wikipedia.org/wiki/D%C3%A9mineur_(genre_de_jeu_vid%C3%A9o)) - [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o)) -
 
-Tuto:
+--- Tutos ---  
 * Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp)
   + [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
 * MongoDb [MongoUniversity](https://learn.mongodb.com) - [Tutospoint](https://www.tutorialspoint.com/mongodb) - 
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -
-* React [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm) -
+* React [React.dev](https://react.dev/learn) - [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm) -
 * Redis [redis.io](https://redis.io/learn) - [Tutospoint](https://www.tutorialspoint.com/redis) - 
 
 + Bash [freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - [linuxconfig](https://linuxconfig.org/bash-scripting-tutorial) - [ubuntu shell](https://doc.ubuntu-fr.org/tutoriel/script_shell) - 

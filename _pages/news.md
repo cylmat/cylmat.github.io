@@ -31,7 +31,8 @@ Blog
 
 Specific
 - [Developpez.com (Php)](https://php.developpez.com)
-- [Php Watch](https://php.watch)
+- [Php.watch](https://php.watch)
+- [Sensiolabs.com blog](https://blog.sensiolabs.com/fr)
 - [Strangebuzz](https://www.strangebuzz.com/fr)
 - [Stitcher.io](https://stitcher.io)
 - [Symfony blog](https://symfony.com/blog)

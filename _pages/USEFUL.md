@@ -41,8 +41,8 @@ Database
 
 Linux  
 + Bash [freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - [linuxconfig](https://linuxconfig.org/bash-scripting-tutorial) - [ubuntu shell](https://doc.ubuntu-fr.org/tutoriel/script_shell) - 
-  + Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) - 
-  - [catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -
++ Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) - 
+- [Catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [Catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [Catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [Catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -
 
 + Linux [guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfGeeks](https://www.geeksforgeeks.org/linux-tutorial/) - [linux.org](https://www.linux.org/forums/#linux-tutorials.122) - [tuxcademy.org advanced](https://www.tuxcademy.org/product/grd2/) - Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) - [Linuxtrainingacademy](https://www.linuxtrainingacademy.com/) -
 

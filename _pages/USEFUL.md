@@ -187,7 +187,8 @@ Tools
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)  
 
 Shell
-* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Zellij.dev](https://zellij.dev) - [OhMyPosh](https://ohmyposh.dev) -  
+* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -  
+* [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - [Zellij.dev](https://zellij.dev) -  
 
 - Api: [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) -
 - Share code: [Codefile.io](https://codefile.io)  -

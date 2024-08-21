@@ -182,17 +182,18 @@ Server & Security
 * [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org) -
 * Linux: [Alpine](https://www.alpinelinux.org)
 
-Tools  
-* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) - [Dev-box](https://www.dev-box.app/) - [UUid gen](https://www.uuidgenerator.net) -    
-* [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys)  
-
 Shell
 * [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -  
 * [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - [Zellij.dev](https://zellij.dev) -  
 
+
+--- Tools ---  
+* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -  
+* [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Dev-box](https://www.dev-box.app) -  
 - Api: [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) -
 - Share code: [Codefile.io](https://codefile.io)  -
-- Tools: [Opensourcealternative.to](https://www.opensourcealternative.to) - 
+- [Opensourcealternative.to](https://www.opensourcealternative.to) - 
+
   
 ---
 ### Videos  

@@ -18,6 +18,14 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=Oj6kJoizxnQ : (SAMPLE) Danse rock 4 temps - Passion 4 temps
 - https://www.youtube.com/watch?v=KEvm3n0ObNI : rock 4 temps avec passes acrobatiques
 
+- https://www.youtube.com/watch?v=2_TYi4RsdzA : Igor quickstep
+- https://www.youtube.com/watch?v=oZFU3ShLvL0 : Igor Passe de rock visage
+- https://www.youtube.com/watch?v=ewv2aqkRzOk : Rock 6 Temps : Notre TOP-10
+- https://www.youtube.com/watch?v=l26Kg35vCX0 : Rock'n roll, débutant et avancé
+  + https://www.dailymotion.com/video/x3uhjt2 : Rock'n roll : débutant et avancé (same)
+- https://www.youtube.com/watch?v=O7yz8BCBIlM : Entrainement rock avance
+- https://www.youtube.com/watch?v=76vu_1LilLA : Rock inter avancé
+
 **Shuffle - Cutting Shape**  
 - https://www.youtube.com/watch?v=mb-nLc0Lrp8 : Cutting Shapes Beginner Tutorial #1, SteamzAus
 - https://www.youtube.com/watch?v=on0w0gEPwDk : How to shuffle Tutorial #6, Advanced Level, Kayeli2

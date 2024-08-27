@@ -27,7 +27,7 @@ Blog
 - [Devconnected.com](https://devconnected.com)
 - [Grafikart.fr blog](https://grafikart.fr/blog) 
 - [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
-- [Refactoring.fm](https://refactoring.fm)
+- [Refactoring.fm](https://refactoring.fm)  
 
 Specific
 - [Developpez.com (Php)](https://php.developpez.com)
@@ -44,6 +44,7 @@ Specific
 * [Architect.io](https://www.architect.io/blog)
 * [LeBigData](https://www.lebigdata.fr)
 * [Linuxfr](https://linuxfr.org)
+* [VimTricks](https://vimtricks.com)
 
 [_others_](https://github.com/cylmat/docs/blob/main/News.md)
 [_quizz_](https://github.com/cylmat/docs/blob/main/Quizz.md)
@@ -87,7 +88,7 @@ Crypto
 - [Cryptoast](https://cryptoast.fr)
 
 ### Sport
-- [Eurosport](https://www.eurosport.fr) 
+- [Eurosport](https://www.eurosport.fr)  
 
 Golf
 - [FF Golf](https://www.ffgolf.org)  

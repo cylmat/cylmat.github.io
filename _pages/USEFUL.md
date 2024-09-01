@@ -111,7 +111,7 @@ Util
 ### <center>INFOS & LINKS</center>
 ---
 Awesome
-- [Bash](https://github.com/awesome-lists/awesome-bash) - [Js uhub](https://github.com/uhub/awesome-javascript) - [Js sorry](https://github.com/sorrycc/awesome-javascript) - [Php ziadoz](https://github.com/ziadoz/awesome-php) - [Php uhub](https://github.com/uhub/awesome-php) - [React web](https://awesome-web-react.js.org) - [React enaqx](https://github.com/enaqx/awesome-react) - [React brill](https://github.com/brillout/awesome-react-components) - [Shell](https://awesomerank.github.io/lists/alebcay/awesome-shell.html) - [Shell alebcay](https://github.com/alebcay/awesome-shell) - [Sym](https://symfony.com/blog/the-30-most-useful-symfony-bundles-and-making-them-even-better) - [Sym sitepoint](https://github.com/sitepoint-editors/awesome-symfony) - [Sym2](https://github.com/theofidry/awesome-symfony2) - [VsCode](https://github.com/viatsko/awesome-vscode) - [VimAwesome](https://vimawesome.com) - [Zsh](https://safjan.com/top-popular-zsh-plugins-on-github-2023) - [Zsh unixorn](https://awesomerank.github.io/lists/unixorn/awesome-zsh-plugins.html) - 
+- [Bash](https://github.com/awesome-lists/awesome-bash) - [Js uhub](https://github.com/uhub/awesome-javascript) - [Js sorry](https://github.com/sorrycc/awesome-javascript) - [Php ziadoz](https://github.com/ziadoz/awesome-php) - [Php uhub](https://github.com/uhub/awesome-php) - [React web](https://awesome-web-react.js.org) - [React enaqx](https://github.com/enaqx/awesome-react) - [React brill](https://github.com/brillout/awesome-react-components) - [Shell](https://awesomerank.github.io/lists/alebcay/awesome-shell.html) - [Shell alebcay](https://github.com/alebcay/awesome-shell) - [Sym](https://symfony.com/blog/the-30-most-useful-symfony-bundles-and-making-them-even-better) - [Sym sitepoint](https://github.com/sitepoint-editors/awesome-symfony) - [Sym2](https://github.com/theofidry/awesome-symfony2) - [Tmux](https://github.com/rothgar/awesome-tmux) - [VsCode](https://github.com/viatsko/awesome-vscode) - [VimAwesome](https://vimawesome.com) - [Zsh](https://safjan.com/top-popular-zsh-plugins-on-github-2023) - [Zsh unixorn](https://awesomerank.github.io/lists/unixorn/awesome-zsh-plugins.html) - 
 
 Architecture   
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 
@@ -183,8 +183,8 @@ Server & Security
 * Linux: [Alpine](https://www.alpinelinux.org)
 
 Shell
-* [Zsh](https://zsh.sourceforge.io/Doc) - [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -  
-* [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - [Zellij.dev](https://zellij.dev) -  
+* [Zsh](https://zsh.sourceforge.io/Doc) - [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - [Zellij.dev](https://zellij.dev) -
+* [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -  
 
 
 --- Tools ---  

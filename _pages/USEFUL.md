@@ -28,7 +28,7 @@ permalink: /useful/
 
 --- Tutos ---  
 
-* Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp)
+* Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [Javascript.info](https://fr.javascript.info) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp)
   + [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -

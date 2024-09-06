@@ -216,8 +216,7 @@ Shell
 
 ### Cheats & docs
 - [General cheats](https://github.com/cylmat/cheats/tree/main) - 
-- [Docs](https://github.com/cylmat/docs) - 
-- [Install and tools](https://github.com/cylmat/docs/tree/main/install)
+- [Docs](https://github.com/cylmat/docs) - [Install and tools](https://github.com/cylmat/docs/tree/main/install)
   
 ### Misc  
 [Lists](https://cylmat.github.io/lists) - 

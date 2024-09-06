@@ -18,6 +18,7 @@ permalink: /musics/
 - https://www.youtube.com/watch?v=oCJdAHo2Djw : Tamburas Meditation Yoga
 - https://www.youtube.com/watch?v=CAgpsLjKmHQ : Time - Hans Zimmer (Pen Perry Remix)
 - https://www.youtube.com/watch?v=26dlYEzOtog : Vangelis - Conquest of Paradise Extended
+- https://www.youtube.com/watch?v=j8L6IvuYGOQ : WORK MUSIC - 1 heure de musique de travail ultime
 
 ## House
 

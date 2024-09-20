@@ -35,7 +35,6 @@ permalink: /musics/
 - [Guru Josh Project - Infinity 2008 (Klaas Vocal Edit)](https://www.youtube.com/watch?v=dL3AiuTsbOU)
 - [Happy - Pharrell Williams - 1 Hour](https://www.youtube.com/watch?v=JRMOMjCoR58)
 - [Invisible - NTO (Paul Kalkbrenner)](https://www.youtube.com/watch?v=xF0Qx9XQCNI)
-- [Make Up - Hot Since 82](https://www.youtube.com/watch?v=m-Is6WiJiVU)
 - [Moderat - New Error](https://www.youtube.com/watch?v=Dsdvv8LFrqY)
 - [Reality (feat. Janieck Devy)](https://www.youtube.com/watch?v=7vLbNF0dZGA)
 - [Right Time - Hayden James & Icona Pop](https://www.youtube.com/watch?v=OBU3CENpnxk)

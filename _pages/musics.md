@@ -6,19 +6,20 @@ permalink: /musics/
 
 ## Work
 
-- https://www.youtube.com/watch?v=rdfpi27wYgU : Beetlejuice Main Titles
-- https://www.youtube.com/watch?v=U0eLmyJkQBc : Focus Music Binaural Beats Concentration
-- https://www.youtube.com/watch?v=jmPBk3GW0Ac : Hang drum Relaxing music
-- https://www.youtube.com/watch?v=L1Lao_kz830 : Klangkarussell, Sonnentanz 10 Hours
-- https://www.youtube.com/watch?v=9q2h6oGD6UA : Klangnomad, I am what I am
-- https://www.youtube.com/watch?v=Ghx5VDSve80 : Invisible NTO 1 Hour - Paul Kalkbrenner Remix
-- https://www.youtube.com/watch?v=1sxffogc0Iw : Jeremy Blake - The Emperor's Army (extended)
-- https://www.youtube.com/watch?v=Z0p-wOk1JEM : Music for Deep Meditation Tamboura
-- https://www.youtube.com/watch?v=PyapOW31ND4 : Rone - Bye Bye Macadam
-- https://www.youtube.com/watch?v=oCJdAHo2Djw : Tamburas Meditation Yoga
-- https://www.youtube.com/watch?v=CAgpsLjKmHQ : Time - Hans Zimmer (Pen Perry Remix)
-- https://www.youtube.com/watch?v=26dlYEzOtog : Vangelis - Conquest of Paradise Extended
-- https://www.youtube.com/watch?v=j8L6IvuYGOQ : WORK MUSIC - 1 heure de musique de travail ultime
+- [Beetlejuice Main Titles](https://www.youtube.com/watch?v=rdfpi27wYgU)
+- [Focus Music Binaural Beats Concentration](https://www.youtube.com/watch?v=U0eLmyJkQBc)
+- [Hang drum Relaxing music](https://www.youtube.com/watch?v=jmPBk3GW0Ac)
+- [Klangkarussell, Sonnentanz 10 Hours](https://www.youtube.com/watch?v=L1Lao_kz830)
+- [Klangnomad, I am what I am](https://www.youtube.com/watch?v=9q2h6oGD6UA)
+- [Invisible NTO 1 Hour - Paul Kalkbrenner Remix](https://www.youtube.com/watch?v=Ghx5VDSve80)
+- [Jeremy Blake - The Emperor's Army](https://www.youtube.com/watch?v=1sxffogc0Iw)
+- [Music for Deep Meditation Tamboura](https://www.youtube.com/watch?v=Z0p-wOk1JEM)
+- [Rone - Bye Bye Macadam](https://www.youtube.com/watch?v=PyapOW31ND4)
+- [Tamburas Meditation Yoga](https://www.youtube.com/watch?v=oCJdAHo2Djw)
+- [Time - Hans Zimmer (Pen Perry Remix)](https://www.youtube.com/watch?v=CAgpsLjKmHQ )
+- [Vangelis - Conquest of Paradise Extended](https://www.youtube.com/watch?v=26dlYEzOtog)
+- [WORK MUSIC - 1 heure de musique de travail ultime](https://www.youtube.com/watch?v=j8L6IvuYGOQ)
+
 
 ## House
 

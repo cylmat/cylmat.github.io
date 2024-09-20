@@ -47,28 +47,30 @@ permalink: /musics/
 
 ## Cool
 
-- https://www.youtube.com/watch?v=djV11Xbc914 : A-ha - Take On Me
-- https://www.youtube.com/watch?v=Hxvl6rVglLA : BENASSI BROS FEAT. SANDY - ILLUSION
-- https://www.youtube.com/watch?v=88sARuFu-tc : Bronski Beat - Smalltown Boy
-- https://www.youtube.com/watch?v=Sv6dMFF_yts : Fun. We Are Young ft. Janelle Monáe
-- https://www.youtube.com/watch?v=hGI2d31M7Ns : Genesis - I Can't Dance
-- https://www.youtube.com/watch?v=uvLdJ2X7bp4 : Guem percussion : le serpent
-- https://www.youtube.com/watch?v=Mus0XbaGx0M : Irma - I know
-- https://www.youtube.com/watch?v=X1yS8sDj9v4 : Josef Salvat - Une Autre Saison
-- https://www.youtube.com/watch?v=AXiMS5XW6kA : Josef Salvat - Open Season
-- https://www.youtube.com/watch?v=iX-QaNzd-0Y : Milky Chance - Stolen Dance
-- https://www.youtube.com/watch?v=UG3VcCAlUgE : Prince & The Revolution - When Doves Cry
-- https://www.youtube.com/watch?v=NL6dIt0CHe0 : Steal My Kisses
-- https://www.youtube.com/watch?v=883J6orWHYE : Synapson Djon Maya
-- https://www.youtube.com/watch?v=F9kXstb9FF4 : The Strumbellas - Spirits
+- [A-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
+- [BENASSI BROS FEAT. SANDY - ILLUSION](https://www.youtube.com/watch?v=Hxvl6rVglLA)
+- [Bronski Beat - Smalltown Boy](https://www.youtube.com/watch?v=88sARuFu-tc)
+- [Fun. We Are Young ft. Janelle Monáe](https://www.youtube.com/watch?v=Sv6dMFF_yts)
+- [Genesis - I Can't Dance](https://www.youtube.com/watch?v=hGI2d31M7Ns)
+- [Guem percussion : le serpent](https://www.youtube.com/watch?v=uvLdJ2X7bp4)
+- [Irma - I know](https://www.youtube.com/watch?v=Mus0XbaGx0M)
+- [Josef Salvat - Une Autre Saison](https://www.youtube.com/watch?v=X1yS8sDj9v4)
+- [Josef Salvat - Open Season](https://www.youtube.com/watch?v=AXiMS5XW6kA)
+- [Milky Chance - Stolen Dance](https://www.youtube.com/watch?v=iX-QaNzd-0Y)
+- [Prince & The Revolution - When Doves Cry](https://www.youtube.com/watch?v=UG3VcCAlUgE)
+- [Steal My Kisses](https://www.youtube.com/watch?v=NL6dIt0CHe0)
+- [Synapson Djon Maya](https://www.youtube.com/watch?v=883J6orWHYE)
+- [The Strumbellas - Spirits](https://www.youtube.com/watch?v=F9kXstb9FF4)
+
 
 ## Oldies
 
-- https://www.youtube.com/watch?v=slCipWPDdHw : Daniel Balavoine - S.O.S. d'un terrien en détresse
-- https://www.youtube.com/watch?v=5anLPw0Efmo : Evanescence - My Immortal
-- https://www.youtube.com/watch?v=PTsSk0r_Tq8 : F.R David - Words
-- https://www.youtube.com/watch?v=TmI9SB4VDl8 : Jacques Higelin - Tombé du ciel
-- https://www.youtube.com/watch?v=-NRw3gdJJcc : Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)
-- https://www.youtube.com/watch?v=cveoHrMyUDs : Peter kingsbery - Only the very best
-- https://www.youtube.com/watch?v=CIjqKL33TTE : Richard Cocciante - Le Coup de soleil
-- https://www.youtube.com/watch?v=W8r-tXRLazs : The Buggles - Video Killed The Radio Star
+- [Daniel Balavoine - S.O.S. d'un terrien en détresse](https://www.youtube.com/watch?v=slCipWPDdHw)
+- [Evanescence - My Immortal](https://www.youtube.com/watch?v=5anLPw0Efmo)
+- [F.R David - Words](https://www.youtube.com/watch?v=PTsSk0r_Tq8)
+- [Jacques Higelin - Tombé du ciel](https://www.youtube.com/watch?v=TmI9SB4VDl8)
+- [Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)](https://www.youtube.com/watch?v=-NRw3gdJJcc)
+- [Peter kingsbery - Only the very best](https://www.youtube.com/watch?v=cveoHrMyUDs)
+- [Richard Cocciante - Le Coup de soleil](https://www.youtube.com/watch?v=CIjqKL33TTE)
+- [The Buggles - Video Killed The Radio Star](https://www.youtube.com/watch?v=W8r-tXRLazs)
+

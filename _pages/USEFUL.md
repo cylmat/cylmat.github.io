@@ -55,7 +55,7 @@ Ops
 + K8s [k8s.io](https://kubernetes.io/docs/tutorials) -
 
 
-### <center>Playgrounds</center>
+--- Playgrounds ---
 
 - Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [Rextester.com](https://rextester.com/) - [Codapi.org](https://codapi.org) -   
 
@@ -77,7 +77,7 @@ Database
 * Redis [Redislabs.com](https://app.redislabs.com) - 
 
 Ops  
-* Docker: [play-with-docker](https://labs.play-with-docker.com) -
+* Docker: [Play-with-docker](https://labs.play-with-docker.com) -
 * K8s: [Minikube](https://minikube.sigs.k8s.io/docs/start) - 
 * Linux: [Distrosea](https://distrosea.com) -
 
@@ -130,7 +130,8 @@ Quality & Security
 * Databases [db-engines.com](https://db-engines.com/en/articles) - 
 * Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestPractice](https://symfony.com/doc/current/best_practices.html) -
 * [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
-* [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)
+* [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org) - 
+* Linux [Ubuntu-fr.org - Securite](https://doc.ubuntu-fr.org/securite) - 
 
 Shell
 * [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - 

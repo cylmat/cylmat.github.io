@@ -10,7 +10,7 @@ permalink: /useful/
 ## <center>Useful</center>
 ---
 
-**Cheatsheets**  
+**Cheatsheets**    
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 
@@ -35,15 +35,15 @@ Util
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
 
 
-
+---
 ### <center>INFOS & LINKS</center>
 
 
-Architecture   
+**Architecture**     
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 
 * [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
-Project
+**Project**  
 * [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto) - 
 [12factor.net](https://12factor.net) - [extremeprogramming.org](http://www.extremeprogramming.org) - 
 * [BDD cucumber.io](https://cucumber.io/docs/bdd) - [TDD agiledata.org](http://agiledata.org/essays/tdd.html) -
@@ -52,18 +52,18 @@ Project
   
 Tools DevSecOps: SCA - IaC - SAST - DAST
 
-Quality & Security
+**Quality & Security**  
 * Databases [db-engines.com](https://db-engines.com/en/articles) - 
 * Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestPractice](https://symfony.com/doc/current/best_practices.html) -
 * [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
 * [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org) - 
 * Linux [Ubuntu-fr.org - Securite](https://doc.ubuntu-fr.org/securite) - 
 
-Shell
+**Shell**  
 * [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - 
 
----
-Spec  
+
+**Spec**  
 * Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
 [Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR php-fig.org](https://www.php-fig.org/psr) -
 * Java [Oracle.com Doc](https://docs.oracle.com/en/java) - [Oracle.com Java convention](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle Geosoft.no](https://geosoft.no/javastyle.html) - 
@@ -75,9 +75,8 @@ Spec
 - Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
 
 
-
-### <center>TOOLS</center>
-
+---
+### <center>APPS</center>
 
 Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database) - 
   
@@ -127,6 +126,7 @@ Shell
   
 ---
 ### Videos  
+
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
 [@Computerphile](https://www.youtube.com/@Computerphile) - 
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) - 

@@ -4,7 +4,9 @@ layout: post
 permalink: /useful/
 ---
 
-[NEWS](https://cylmat.github.io/news) - [TRAIN](https://cylmat.github.io/train) - USEFUL - ([Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs))
+[NEWS](https://cylmat.github.io/news) - [TRAIN](https://cylmat.github.io/train) - USEFUL
+
+ - ([_Cheats_](https://github.com/cylmat/cheats) - [_Docs_](https://github.com/cylmat/docs))
 
 ---
 ### <center>TRAIN</center>

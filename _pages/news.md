@@ -4,6 +4,12 @@ layout: post
 permalink: /news/ 
 ---
 
+NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.io/useful)
+
+---
+### <center>TRAIN</center>
+---
+
 ## <center>Web & Tech</center>
 
 - [Journal du geek (Web)](https://www.journaldugeek.com/category/sur-le-web)

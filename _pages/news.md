@@ -1,5 +1,5 @@
 ---
-title: News
+title:
 layout: post 
 permalink: /news/ 
 ---
@@ -7,7 +7,7 @@ permalink: /news/
 NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.io/useful)
 
 ---
-### <center>TRAIN</center>
+### <center>NEWS</center>
 ---
 
 ## <center>Web & Tech</center>

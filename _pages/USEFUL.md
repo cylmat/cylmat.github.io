@@ -4,13 +4,13 @@ layout: post
 permalink: /useful/
 ---
 
-[NEWS](https://cylmat.github.io/news) - [TRAIN](https://cylmat.github.io/train) - USEFUL   ([_Cheats_](https://github.com/cylmat/cheats) - [_Docs_](https://github.com/cylmat/docs))
+[NEWS](https://cylmat.github.io/news) - [TRAIN](https://cylmat.github.io/train) - USEFUL  
 
 ---
 ## <center>USEFUL</center>
 ---
 
-**Cheatsheets**    
+<center>**Cheatsheets**</center>    
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 

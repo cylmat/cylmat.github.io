@@ -7,10 +7,10 @@ permalink: /news/
 NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.io/useful)
 
 ---
-### <center>NEWS</center>
+## <center>NEWS</center>
 ---
 
-## <center>Web & Tech</center>
+### <center>Web & Tech</center>
 
 - [Journal du geek (Web)](https://www.journaldugeek.com/category/sur-le-web)
 - [Journal du net (Web)](https://www.journaldunet.com/web-tech)
@@ -19,7 +19,7 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 
 ---
 
-## <center>Dev</center>
+### <center>Dev</center>
 
 - [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))
 - [Elevenlabs blog](https://blog.eleven-labs.com)
@@ -57,7 +57,7 @@ Specific
 
 ---
   
-## <center>CULTURE</center>
+### <center>CULTURE</center>
 
 - [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire](https://www.lhistoire.fr)
 - [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis](https://www.universalis.fr)

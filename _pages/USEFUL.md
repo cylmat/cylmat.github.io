@@ -10,9 +10,7 @@ permalink: /useful/
 ## <center>Useful</center>
 ---
 
----
-### <center>Cheatsheets</center>
----
+**Cheatsheets**  
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 
@@ -37,9 +35,9 @@ Util
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
 
 
----
+
 ### <center>INFOS & LINKS</center>
----
+
 
 Architecture   
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 
@@ -77,9 +75,9 @@ Spec
 - Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
 
 
----
+
 ### <center>TOOLS</center>
----
+
 
 Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database) - 
   
@@ -118,7 +116,8 @@ Shell
 * [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -  
 
 
---- Tools ---  
+### Tools 
+
 * [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -  
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Dev-box](https://www.dev-box.app) -  
 - Api: [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) -

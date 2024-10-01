@@ -10,7 +10,7 @@ permalink: /useful/
 ## <center>USEFUL</center>
 ---
 
-<center>**Cheatsheets**</center>    
+<center>Cheatsheets</center>    
 
 [DEVDOCS.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [Quickref](https://quickref.me) - [Shecodes](http://cheatsheets.shecodes.io) - [LearnXinY](https://learnxinyminutes.com) - [Overapi](https://overapi.com/javascript) -    
 

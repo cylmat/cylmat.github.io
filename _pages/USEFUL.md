@@ -148,4 +148,4 @@ Shell
 - [General cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs) - [Install and scripts](https://github.com/cylmat/docs/tree/main/install)
   
 ### Misc  
-[Lists](https://cylmat.github.io/lists) - [Musics](https://cylmat.github.io/musics) - [News](https://cylmat.github.io/news) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)
+[Lists](https://cylmat.github.io/lists) - [Musics](https://cylmat.github.io/musics) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)

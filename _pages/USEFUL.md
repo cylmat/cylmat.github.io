@@ -21,7 +21,7 @@ Lang
 - Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet) -
 - JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - [OverApi](https://overapi.com/javascript) - 
 - Php [PhpQA.io](https://phpqa.io) - 
-- React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet/) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) -
+- React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) -
 - Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) -
 
 Util
@@ -95,7 +95,7 @@ Front
 
 Model  
 * [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) -  
-* [Markdownguide.org](https://www.markdownguide.org) - [Yaml.org](https://yaml.org)
+* [Markdownguide.org](https://www.markdownguide.org) - [Mermaid.js](https://mermaid.js.org) - [Yaml.org](https://yaml.org)
 
 Project : 
  - [Wordreference.com](https://www.wordreference.com/fr) - [Diagrams.net](https://app.diagrams.net) -

@@ -89,4 +89,4 @@ Ops
 
 - Symfony [Symfony setup](https://symfony.com/doc/current/setup.html) - [Thecodingmachine.github](https://thecodingmachine.github.io/symfony-boilerplate)
 - ViteJs [Vite-react.github](https://github.com/RicardoValdovinos/vite-react-boilerplate) - 
-- Stacks: [Devilbox](http://devilbox.org) - 
+- Stacks: [Devilbox](http://devilbox.org) - [MeanJs.org](http://meanjs.org) - [Openresty.org](https://openresty.org) - [PhpDocker.io](https://phpdocker.io) - 

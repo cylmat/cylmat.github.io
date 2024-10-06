@@ -35,16 +35,24 @@ Util
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
 
 
+
 ---
 ### <center>INFOS & LINKS</center>
 
-
-**Architecture**     
+**Architecture**    
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 
 * [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
-**Data & comm**  
-* [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas) -
+**Dev & data**  
+* Databases [db-engines.com](https://db-engines.com/en/articles) -
+* Editor [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) -
+* Git [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book) -
+* Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestPractice](https://symfony.com/doc/current/best_practices.html) -
+* Protocol [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas) -
+ 
+- JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) - [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) -
+- Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
+- Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
 
 **Project**  
 * [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto) - 
@@ -53,29 +61,22 @@ Util
 * [DDD alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design) - [domainlanguage.com](https://www.domainlanguage.com) - 
 * [DevOps gitlab.com](https://about.gitlab.com/topics/devops) - [microservices.io](https://microservices.io)
   
-Tools DevSecOps: SCA - IaC - SAST - DAST
-
 **Quality & Security**  
-* Databases [db-engines.com](https://db-engines.com/en/articles) - 
-* Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestPractice](https://symfony.com/doc/current/best_practices.html) -
-* [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
-* [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org) - 
+* Quality [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
+* CVE [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org) - 
 * Linux [Ubuntu-fr.org - Securite](https://doc.ubuntu-fr.org/securite) - 
+* Tools DevSecOps (SCA - IaC - SAST - DAST) - 
 
 **Shell & OS**  
 * Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database) - 
-* [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - 
+* Tips [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - 
 
 **Spec**  
 * Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
 [Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR php-fig.org](https://www.php-fig.org/psr) -
 * Java [Oracle.com Doc](https://docs.oracle.com/en/java) - [Oracle.com Java convention](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle Geosoft.no](https://geosoft.no/javastyle.html) - 
-* [Refweb mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3.org](https://www.w3.org)  
+* Web [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3.org](https://www.w3.org) -  
 
-- JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) -
-  + [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) -
-- Php [7](https://www.php.net/manual/fr/migration70.php) - [8.0](https://www.php.net/releases/8.0) - [8.3](https://www.php.net/releases/8.3) -
-- Symfony [5](https://symfony.com/releases/5.0) - [6](https://symfony.com/releases/6.0) - [7](https://symfony.com/releases/7.0) - [7 LotE](https://symfony.com/blog/category/living-on-the-edge/7.0-6.4) -   
 
 
 ---
@@ -85,14 +86,13 @@ DataBase
 * [Doctrine-project.org](https://www.doctrine-project.org) - [Cassandra](https://cassandra.apache.org) - [MySql.com](https://dev.mysql.com/doc) - [MongoDb](https://www.mongodb.com/docs) - [Postgre](https://www.postgresql.org) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
 
 Development  
-* [Get Composer.org](https://getcomposer.org/doc) - 
-* [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book) - 
-* [Vim.org](https://www.vim.org) - [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) - [LearnVim](https://learnvim.irian.to/)
-* [Visual Studio.com](https://code.visualstudio.com/docs) - [Intelephense.com](https://intelephense.com)
+* [GetComposer.org](https://getcomposer.org/doc) -  
+* [Vim.org](https://www.vim.org) - 
+* [Visual Studio.com](https://code.visualstudio.com/docs) - [Intelephense.com](https://intelephense.com) - 
 
 Front  
-* [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptlang.org](https://www.typescriptlang.org/docs)
-* [React.dev](https://react.dev) - [Vuejs](https://vuejs.org) - https://mercure.rocks/
+* [GetBootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptlang.org](https://www.typescriptlang.org/docs)
+* [React.dev](https://react.dev) - [Vuejs](https://vuejs.org) - 
 
 Model  
 * [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) -  
@@ -107,9 +107,8 @@ Protocols & Rest
 * [Insomnia.rest](https://insomnia.rest) - [Postman.com](https://www.postman.com) -  
 
 Server & Security  
-* [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Helm](https://helm.sh) - [K8s](https://kubernetes.io) - [Nginx.com](https://docs.nginx.com) - [NixOs](https://nixos.org) - 
-* [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org) -
-* Linux: [Alpine](https://www.alpinelinux.org)
+* [Alpine](https://www.alpinelinux.org) - [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Helm](https://helm.sh) - [K8s](https://kubernetes.io) - [Nginx.com](https://docs.nginx.com) - [NixOs](https://nixos.org) - 
+* Suite [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org) -
 
 Shell
 * [Zsh](https://zsh.sourceforge.io/Doc) - [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - 
@@ -118,12 +117,11 @@ Shell
 
 ### Tools 
 
-* [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -  
-* [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Dev-box](https://www.dev-box.app) -  
-- Api: [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) -
-- Share code: [Codefile.io](https://codefile.io)  -
-- [Opensourcealternative.to](https://www.opensourcealternative.to) - 
-
+* Tools [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -  
+* Toys [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Dev-box](https://www.dev-box.app) -  
+- Api [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) -
+- Share code [Codefile.io](https://codefile.io) -
+- Apps [Opensourcealternative.to](https://www.opensourcealternative.to) - 
   
 ---
 ### Videos  
@@ -145,8 +143,8 @@ Shell
 [@Java](https://www.youtube.com/@java) - 
 [@YoanDev](https://m.youtube.com/@yoandevco)
 
-### Cheats & docs
-- [General cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs) - [Install and scripts](https://github.com/cylmat/docs/tree/main/install)
+### Cheats & docs  
+- [General cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs) - [Install](https://github.com/cylmat/docs/tree/main/install)
   
 ### Misc  
 [Lists](https://cylmat.github.io/lists) - [Musics](https://cylmat.github.io/musics) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)

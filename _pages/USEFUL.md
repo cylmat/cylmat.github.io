@@ -91,7 +91,7 @@ Development
 
 Front  
 * [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptlang.org](https://www.typescriptlang.org/docs)
-* [React.dev](https://react.dev) - [Vuejs](https://vuejs.org/) - 
+* [React.dev](https://react.dev) - [Vuejs](https://vuejs.org) - 
 
 Model  
 * [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) -  
@@ -117,7 +117,7 @@ Shell
 
 ### Tools 
 
-* [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -  
+* [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech) -  
 * [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Dev-box](https://www.dev-box.app) -  
 - Api: [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) -
 - Share code: [Codefile.io](https://codefile.io)  -

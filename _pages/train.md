@@ -84,7 +84,9 @@ Ops
 * K8s: [Minikube](https://minikube.sigs.k8s.io/docs/start) - 
 * Linux: [Distrosea](https://distrosea.com) -
 
+---
 ### Boilerplate
 
 - Symfony [Symfony setup](https://symfony.com/doc/current/setup.html) - [Thecodingmachine.github](https://thecodingmachine.github.io/symfony-boilerplate)
-- ViteJs [Vite-react.github](https://github.com/RicardoValdovinos/vite-react-boilerplate)
+- ViteJs [Vite-react.github](https://github.com/RicardoValdovinos/vite-react-boilerplate) - 
+- Stacks: [Devilbox](http://devilbox.org) - 

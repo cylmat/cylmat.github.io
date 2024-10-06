@@ -31,7 +31,7 @@ Util
   + GSAwk [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs)  
 - OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) - 
 - Regex [Regexone.com](https://regexone.com) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
-- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimémo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
+- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimemo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
 
 
@@ -42,6 +42,9 @@ Util
 **Architecture**     
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) - 
 * [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+
+**Data & comm**  
+* [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas) -
 
 **Project**  
 * [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto) - 
@@ -59,9 +62,9 @@ Tools DevSecOps: SCA - IaC - SAST - DAST
 * [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org) - 
 * Linux [Ubuntu-fr.org - Securite](https://doc.ubuntu-fr.org/securite) - 
 
-**Shell**  
+**Shell & OS**  
+* Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database) - 
 * [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - 
-
 
 **Spec**  
 * Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
@@ -78,8 +81,6 @@ Tools DevSecOps: SCA - IaC - SAST - DAST
 ---
 ### <center>APPS</center>
 
-Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database) - 
-  
 DataBase  
 * [Doctrine-project.org](https://www.doctrine-project.org) - [Cassandra](https://cassandra.apache.org) - [MySql.com](https://dev.mysql.com/doc) - [MongoDb](https://www.mongodb.com/docs) - [Postgre](https://www.postgresql.org) - [Rabbitmq.com](https://www.rabbitmq.com) - [Redis.io](https://redis.io) ([RedisLab](https://app.redislabs.com))
 
@@ -91,18 +92,18 @@ Development
 
 Front  
 * [Get Bootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptlang.org](https://www.typescriptlang.org/docs)
-* [React.dev](https://react.dev) - [Vuejs](https://vuejs.org) - 
+* [React.dev](https://react.dev) - [Vuejs](https://vuejs.org) - https://mercure.rocks/
 
 Model  
 * [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) -  
 * [Markdownguide.org](https://www.markdownguide.org) - [Mermaid.js](https://mermaid.js.org) - [Yaml.org](https://yaml.org)
 
-Project : 
+Project 
  - [Wordreference.com](https://www.wordreference.com/fr) - [Diagrams.net](https://app.diagrams.net) -
  - [Whiteboard Tutospoint](https://www.tutorialspoint.com/whiteboard.htm)
 
 Protocols & Rest  
-* [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas) -
+* [Mercure.rocks](https://mercure.rocks) - 
 * [Insomnia.rest](https://insomnia.rest) - [Postman.com](https://www.postman.com) -  
 
 Server & Security  
@@ -111,8 +112,8 @@ Server & Security
 * Linux: [Alpine](https://www.alpinelinux.org)
 
 Shell
-* [Zsh](https://zsh.sourceforge.io/Doc) - [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - [Zellij.dev](https://zellij.dev) -
-* [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -  
+* [Zsh](https://zsh.sourceforge.io/Doc) - [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - 
+* [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - [Zellij.dev](https://zellij.dev) -
 
 
 ### Tools 

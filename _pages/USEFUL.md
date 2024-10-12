@@ -144,7 +144,7 @@ Shell
 [@YoanDev](https://m.youtube.com/@yoandevco)
 
 ### Cheats & docs  
-- [General cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs) - [Install](https://github.com/cylmat/docs/tree/main/install)
+- [Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs) - [Install](https://github.com/cylmat/docs/tree/main/install)
   
 ### Misc  
 [Lists](https://cylmat.github.io/lists) - [Musics](https://cylmat.github.io/musics) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)

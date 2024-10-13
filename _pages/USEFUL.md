@@ -20,7 +20,6 @@ Lang
 - ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6) - [Medium blog Darwin](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c) - 
 - Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet) -
 - JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - [OverApi](https://overapi.com/javascript) - 
-- Php [PhpQA.io](https://phpqa.io) - 
 - React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) -
 - Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) -
 
@@ -47,7 +46,7 @@ Util
 * Databases [db-engines.com](https://db-engines.com/en/articles) -
 * Editor [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) -
 * Git [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book) -
-* Php [Phptherightway.com](https://phptherightway.com) - [Symfony BestPractice](https://symfony.com/doc/current/best_practices.html) -
+* Php [Phptherightway.com](https://phptherightway.com) - [PhpQA.io](https://phpqa.io) - [Symfony BestPractice](https://symfony.com/doc/current/best_practices.html) -
 * Protocol [HTTP mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [RESTfulapi.net](https://restfulapi.net/hateoas) -
  
 - JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) - [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) -

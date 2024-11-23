@@ -68,7 +68,7 @@ Util
 
 **Shell & OS**  
 * Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database) - 
-* Tips [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - 
+* Tips [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - [AZlinux.fr](https://azlinux.fr) -
 
 **Spec**  
 * Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 

@@ -48,6 +48,7 @@ Specific
 + [This week in React](https://thisweekinreact.com/articles)
 +
 * [Architect.io](https://www.architect.io/blog)
+* [Console.dev](https://console.dev)
 * [LeBigData](https://www.lebigdata.fr)
 * [Linuxfr](https://linuxfr.org)
 * [VimTricks](https://vimtricks.com)

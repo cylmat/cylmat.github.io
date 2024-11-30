@@ -30,8 +30,9 @@ permalink: /train/
 
 ### <center>Tutos</center>
 
-* Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [Javascript.info](https://fr.javascript.info) - [w3s ES6](https://www.w3schools.com/js/js_es6.asp)
-  + [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
+* Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [Javascript.info](https://fr.javascript.info) - [W3S ES6](https://www.w3schools.com/js/js_es6.asp)
+  + [Typescript-lang.org](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
+  + [Delicious-insights.com JS Es6](https://delicious-insights.com/fr/articles-et-tutos)
 * Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) -
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) -
 * React [React.dev](https://react.dev/learn) - [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm) -

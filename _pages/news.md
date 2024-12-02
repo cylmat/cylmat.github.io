@@ -33,7 +33,8 @@ Blog
 - [Devconnected.com](https://devconnected.com)
 - [Grafikart.fr blog](https://grafikart.fr/blog) 
 - [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
-- [Refactoring.fm](https://refactoring.fm)  
+- [Refactoring.fm](https://refactoring.fm)
+- [Programmingly.dev JS](https://programmingly.dev)
 
 Specific
 - [Developpez.com (Php)](https://php.developpez.com)

@@ -37,17 +37,20 @@ Blog
 - [Programmingly.dev JS](https://programmingly.dev)
 
 Specific
+- PHP
 - [Developpez.com (Php)](https://php.developpez.com)
 - [Php.watch](https://php.watch)
 - [Sensiolabs.com blog](https://blog.sensiolabs.com/fr)
 - [Strangebuzz](https://www.strangebuzz.com/fr)
 - [Stitcher.io](https://stitcher.io)
 - [Symfony blog](https://symfony.com/blog)
-- [Symfony livedge](https://symfony.com/blog/category/living-on-the-edge)
+- [Symfony living-edge](https://symfony.com/blog/category/living-on-the-edge)
 -
++ JS
 + [Developpez.com (Js)](https://javascript.developpez.com)
 + [This week in React](https://thisweekinreact.com/articles)
 +
+* Misc
 * [Architect.io](https://www.architect.io/blog)
 * [Console.dev](https://console.dev)
 * [LeBigData](https://www.lebigdata.fr)
@@ -61,13 +64,12 @@ Specific
   
 ### <center>CULTURE</center>
 
-- [![](https://www.lhistoire.fr/themes/custom/lhistoire/favicon.ico) L'Histoire](https://www.lhistoire.fr)
-- [![](https://www.encyclopaedia-universalis.fr/blog/wp-content/uploads/2017/10/cropped-fav-icon-32x32.png) Universalis](https://www.universalis.fr)
+- [Autojournal](https://www.autojournal.fr)
+- [L'Histoire](https://www.lhistoire.fr)
+- [Encyclopédia Universalis](https://www.universalis.fr)
 - [La culture générale](https://www.laculturegenerale.com)
 - [CNews](https://www.cnews.fr)
 - [Vie-publique](https://www.vie-publique.fr)
-
-- [Autojournal](https://www.autojournal.fr)
 
 Cooking
 + [Laurentmariotte.com](https://www.laurentmariotte.com/petits-plats-en-equilibre)
@@ -78,7 +80,31 @@ Quizz
 + [Quizz](https://www.quizz.fr)
 + [Quizzmix](https://www.quizzmix.com)
 
-### Finance
+---
+
+### <center>SPORT</center>
+
+- [Eurosport](https://www.eurosport.fr)
+- [Francetvinfo - Sports](https://www.francetvinfo.fr/sports)
+- [LeFigaro - Sports](https://www.lefigaro.fr/sports)
+- [LeMonde - Sport](https://www.lemonde.fr/sport)
+
+Escalade
+- [Planetgrimpe](https://planetgrimpe.com)
+
+F1
+- [F1 Only](https://f1only.fr)
+
+Golf
+- [FF Golf](https://www.ffgolf.org)  
+- [Golf Planète](https://www.golfplanete.com)
+
+Tennis
+[Tennis Actu](https://www.tennisactu.net)
+
+---
+
+### <center>FINANCE</center>
 
 - [Boursorama](https://www.boursorama.com/bourse/actualites)
 - [Café de la bourse](https://www.cafedelabourse.com)
@@ -94,12 +120,5 @@ Crypto
 - [Cryptonews](https://fr.cryptonews.com)
 - [Cointribune](https://www.cointribune.com)
 - [Cryptoast](https://cryptoast.fr)
-
-### Sport
-- [Eurosport](https://www.eurosport.fr)  
-
-Golf
-- [FF Golf](https://www.ffgolf.org)  
-- [Golf Planète](https://www.golfplanete.com)
 
 [_feedly_](https://feedly.com)

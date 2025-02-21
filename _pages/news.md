@@ -4,7 +4,7 @@ layout: post
 permalink: /news/ 
 ---
 
-NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.io/useful)
+NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.io/useful) - [lists](https://cylmat.github.io/lists)
 
 ---
 ## <center>NEWS</center>

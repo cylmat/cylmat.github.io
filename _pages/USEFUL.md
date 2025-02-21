@@ -29,7 +29,8 @@ Util
 - Linux [Art of command line](https://github.com/jlevy/the-art-of-command-line) - [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [goffinet.org admin-net](https://linux.goffinet.org/administration/configuration-du-reseau/outils-linux-reseau/) - [Shellcheck.net](https://www.shellcheck.net)
   + GSAwk [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs)  
 - OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) - 
-- Regex [Regexone.com](https://regexone.com) - [Regex with AI](https://rgx.tools) - [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
+- Regex [Regexone.com](https://regexone.com) - [Regex visual build - regex101.com](https://regex101.com) - [Regex with AI - rgx.tools](https://rgx.tools)
+   + [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) -
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimemo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) -
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows) -  
 

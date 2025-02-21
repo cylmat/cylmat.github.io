@@ -68,7 +68,6 @@ Specific
 - [L'Argus.fr](https://www.largus.fr/actualite-automobile/economie)
 - [L'Histoire.fr](https://www.lhistoire.fr)
 - [Encyclopédia Universalis.fr](https://www.universalis.fr)
-- [Insee.fr](https://www.insee.fr)
 - [LaCultureGénérale.com](https://www.laculturegenerale.com)
 - [Vie-publique.fr](https://www.vie-publique.fr)
 

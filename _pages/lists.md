@@ -7,7 +7,6 @@ permalink: /lists/
 ## Sport classement
 
 - [E-sport - egamersworld.com](https://fr.egamersworld.com/ranking/streaming)
-- [E-sport SC2 - e.sport.fr](https://e.sport.fr/tag/starcraft-ii)
 - [Escalade - ffme.fr](https://www.ffme.fr/escalade/competition/classement-escalade)
 - [Escalade - thecrag.com](https://www.thecrag.com/fr/article/worldranking)
 - [Golf - eurosport.fr](https://www.eurosport.fr/golf/world-ranking/classements.shtml)

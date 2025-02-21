@@ -24,7 +24,8 @@ Lang
 - Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) -
 
 Util
-- Bash [devhints.io](https://devhints.io/bash) - [RehanSaeed](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [hostinger 40best](https://www.hostinger.fr/tutoriels/commandes-linux) -  
+- Bash [devhints.io](https://devhints.io/bash) - [RehanSaeed](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [hostinger 40best](https://www.hostinger.fr/tutoriels/commandes-linux) -
+  + [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) - 
 - Linux [Art of command line](https://github.com/jlevy/the-art-of-command-line) - [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [goffinet.org admin-net](https://linux.goffinet.org/administration/configuration-du-reseau/outils-linux-reseau/) - [Shellcheck.net](https://www.shellcheck.net)
   + GSAwk [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs)  

@@ -65,11 +65,12 @@ Specific
 ### <center>CULTURE</center>
 
 - [Autojournal](https://www.autojournal.fr)
-- [L'Histoire](https://www.lhistoire.fr)
-- [Encyclopédia Universalis](https://www.universalis.fr)
-- [La culture générale](https://www.laculturegenerale.com)
-- [CNews](https://www.cnews.fr)
-- [Vie-publique](https://www.vie-publique.fr)
+- [L'Argus.fr](https://www.largus.fr/actualite-automobile/economie)
+- [L'Histoire.fr](https://www.lhistoire.fr)
+- [Encyclopédia Universalis.fr](https://www.universalis.fr)
+- [Insee.fr](https://www.insee.fr)
+- [LaCultureGénérale.com](https://www.laculturegenerale.com)
+- [Vie-publique.fr](https://www.vie-publique.fr)
 
 Cooking
 + [Laurentmariotte.com](https://www.laurentmariotte.com/petits-plats-en-equilibre)

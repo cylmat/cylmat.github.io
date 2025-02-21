@@ -100,7 +100,10 @@ Golf
 - [Golf Planète](https://www.golfplanete.com)
 
 Tennis
-[Tennis Actu](https://www.tennisactu.net)
+- [Tennis Actu](https://www.tennisactu.net)
+
+E-sport
+- [E.sport.fr SC2](https://e.sport.fr/tag/starcraft-ii)
 
 ---
 

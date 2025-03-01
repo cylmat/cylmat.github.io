@@ -112,7 +112,8 @@ Server & Security
 * Suite [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org) -
 
 Shell
-* [Zsh](https://zsh.sourceforge.io/Doc) - [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - 
+* [Zsh](https://zsh.sourceforge.io/Doc) - [Zsh guide](https://zsh.sourceforge.io/Guide)
+* [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev) - 
 * [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - [Zellij.dev](https://zellij.dev) -
 
 

@@ -88,12 +88,30 @@ Ops
 * Linux: [Distrosea](https://distrosea.com) -
 
 ---
+### Videos
+
+- [VimCasts.org](http://vimcasts.org)
+
+[@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
+[@Computerphile](https://www.youtube.com/@Computerphile) - 
+[@CoopTilleuls](https://www.youtube.com/@coopTilleuls) - 
+[@CyberVox](https://www.youtube.com/@CyberVox) - 
+[@DDD_eu](https://www.youtube.com/@ddd_eu) - 
+[@DevTernity](https://www.youtube.com/@DevTernity) - 
+[@Micode](https://www.youtube.com/@Micode) -   
+*  
+[@CodeCampaign](https://www.youtube.com/@CodeCampaign) - 
+[@Simplilearn](https://www.youtube.com/@SimplilearnOfficial) -
+[@techdose4u](https://www.youtube.com/@techdose4u) -
+*  
+[@AfupPhp](https://www.youtube.com/@afupPHP) - 
+[@AtomicReact](https://www.youtube.com/@atomicreact) - 
+[@Java](https://www.youtube.com/@java) - 
+[@YoanDev](https://m.youtube.com/@yoandevco)
+
+---
 ### Boilerplate
 
 - Symfony [Symfony setup](https://symfony.com/doc/current/setup.html) - [Thecodingmachine.github](https://thecodingmachine.github.io/symfony-boilerplate)
 - ViteJs [Vite-react.github](https://github.com/RicardoValdovinos/vite-react-boilerplate) - 
 - Stacks: [Devilbox](http://devilbox.org) - [MeanJs.org](http://meanjs.org) - [Openresty.org](https://openresty.org) - [PhpDocker.io](https://phpdocker.io) - 
-
-### Videos
-
-- [VimCasts.org](http://vimcasts.org)

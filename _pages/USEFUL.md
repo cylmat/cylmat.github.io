@@ -125,25 +125,6 @@ Shell
 - Share code [Codefile.io](https://codefile.io) -
 - Apps [Opensourcealternative.to](https://www.opensourcealternative.to) - 
   
----
-### Videos  
-
-[@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
-[@Computerphile](https://www.youtube.com/@Computerphile) - 
-[@CoopTilleuls](https://www.youtube.com/@coopTilleuls) - 
-[@CyberVox](https://www.youtube.com/@CyberVox) - 
-[@DDD_eu](https://www.youtube.com/@ddd_eu) - 
-[@DevTernity](https://www.youtube.com/@DevTernity) - 
-[@Micode](https://www.youtube.com/@Micode) -   
-*  
-[@CodeCampaign](https://www.youtube.com/@CodeCampaign) - 
-[@Simplilearn](https://www.youtube.com/@SimplilearnOfficial) -
-[@techdose4u](https://www.youtube.com/@techdose4u) -
-*  
-[@AfupPhp](https://www.youtube.com/@afupPHP) - 
-[@AtomicReact](https://www.youtube.com/@atomicreact) - 
-[@Java](https://www.youtube.com/@java) - 
-[@YoanDev](https://m.youtube.com/@yoandevco)
 
 ### Cheats & docs  
 * [Cylmat/Cheats](https://github.com/cylmat/cheats) - [Cylmat/Docs](https://github.com/cylmat/docs) - [Cylmat/Install](https://github.com/cylmat/docs/tree/main/install)

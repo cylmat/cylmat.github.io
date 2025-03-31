@@ -48,7 +48,7 @@ Linux
 - [Catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [Catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [Catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [Catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -
 - Git [Comprendre-git.com](https://comprendre-git.com)
 
-+ Linux [Explainshell](https://explainshell.com) - [Guru99.com Unix](https://www.guru99.com/fr/unix-linux-tutorial.html) - [Cmd-Challenge.com](https://cmdchallenge.com) - 
++ Linux [Explainshell](https://explainshell.com) - [Guru99.com Unix](https://www.guru99.com/fr/unix-linux-tutorial.html) - [Cmd-Challenge.com](https://cmdchallenge.com) - [Baeldung.com](https://www.baeldung.com/linux)
   + [GfGeeks](https://www.geeksforgeeks.org/linux-tutorial/) - [linux.org](https://www.linux.org/forums/#linux-tutorials.122) - [tuxcademy.org advanced](https://www.tuxcademy.org/product/grd2/) -
   + Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Grep Sed Awk avancé - gitlab.mbb.cnrs.fr](https://gitlab.mbb.cnrs.fr/f/site/form1/ttext/) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) - [Linuxtrainingacademy](https://www.linuxtrainingacademy.com/) -
 

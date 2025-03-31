@@ -53,7 +53,7 @@ Linux
   + Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Grep Sed Awk avancé - gitlab.mbb.cnrs.fr](https://gitlab.mbb.cnrs.fr/f/site/form1/ttext/) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) - [Linuxtrainingacademy](https://www.linuxtrainingacademy.com/) -
 
 Vim  
-+ Vim [vimvalley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Learn on irian](https://learnvim.irian.to) - [Vimcasts](http://vimcasts.org/) - 
++ Vim [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [LearnVim irian.to](https://learnvim.irian.to) - [Vimcasts.org](http://vimcasts.org) - [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference)
  
 Ops
 + Devops [Devopssec](https://devopssec.fr) -  

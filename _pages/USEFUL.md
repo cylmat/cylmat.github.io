@@ -127,8 +127,8 @@ Shell
   
 
 ### Cheats & docs  
-* [Cylmat/Cheats](https://github.com/cylmat/cheats) - [Cylmat/Docs](https://github.com/cylmat/docs) - [Cylmat/Install](https://github.com/cylmat/docs/tree/main/install)
-* [Cylmat/GIT](https://github.com/cylmat/cheats/blob/main/GIT-cheats.md) - [Cylmat/GSA](https://github.com/cylmat/cheats/blob/main/GSA-cheats.md) - [Cylmat/VIM](https://github.com/cylmat/cheats/blob/main/VIM-cheats.md)
+* [Cylmat/Cheats](https://github.com/cylmat/cheats) - [Cylmat/Docs](https://github.com/cylmat/docs) - [Cylmat/Install](https://github.com/cylmat/docs/tree/main/install) - 
+* [GIT](https://github.com/cylmat/cheats/blob/main/GIT-cheats.md) - [GSA](https://github.com/cylmat/cheats/blob/main/GSA-cheats.md) - [VIM](https://github.com/cylmat/cheats/blob/main/VIM-cheats.md)
   
 ### Misc  
 * [Lists](https://cylmat.github.io/lists) - [Musics](https://cylmat.github.io/musics) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)

@@ -16,7 +16,8 @@ permalink: /train/
 - Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [guru99](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
 - TutorialPoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [dsa](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - [mng](https://www.tutorialspoint.com/management_tutorials.htm) -[hack](https://www.tutorialspoint.com/ethical_hacking) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
 - LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) - [Mkdown](https://learnxinyminutes.com/docs/markdown) - [Nix](https://learnxinyminutes.com/docs/nix) - [Perl](https://learnxinyminutes.com/docs/perl) - [Python](https://learnxinyminutes.com/docs/python) - [R](https://learnxinyminutes.com/docs/r) - [Rust](https://learnxinyminutes.com/docs/rust) - [Vim](https://learnxinyminutes.com/docs/vim) 
-
+  
+Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
 
 ### <center>Algorithms</center> 
 

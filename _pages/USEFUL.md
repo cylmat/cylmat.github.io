@@ -18,11 +18,11 @@ Cheatsheets
 
 **[Devhints.io](https://devhints.io)** | [Cheatography.com](https://cheatography.com) - [Cht.sh](https://cht.sh/) - [DevDocs.io](https://devdocs.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
 
-- Css [Sass (DevHints.io)](https://devhints.io/sass) - [Css (DevHints.io)](https://devhints.io/css)
-- Db [SQL.sh](https://sql.sh) 
-- ES6 [ES6 Quickref.me](https://quickref.me/es6.html) - [ES6 Devhints](https://devhints.io/es6) - [ES6 Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6)
-- JavaScript [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - [OverApi](https://overapi.com/javascript) 
-- React [React cheats (GfG.org)](https://www.geeksforgeeks.org/react-cheat-sheet) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) 
+- Css [Sass (devHints.io)](https://devhints.io/sass) - [Css (devHints.io)](https://devhints.io/css)
+- Db [SQL.sh](https://sql.sh) - [Mongodb.com](https://www.mongodb.com/developer/products/mongodb/cheat-sheet) - [Postgres (neon.com)](https://neon.com/postgresql/postgresql-cheat-sheet) - [Postgres Quickref.me](https://quickref.me/postgres.html) - [Postgres (tigerdata.com)](https://www.tigerdata.com/learn/postgres-cheat-sheet)
+- ES6 [ES6 Quickref.me](https://quickref.me/es6.html) - [ES6 Devhints.io](https://devhints.io/es6) - [ES6 Cheatography.com](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6)
+- JavaScript [JS Quickref.me](https://quickref.me/javascript.html) - [JS Shecodes.io](http://cheatsheets.shecodes.io/javascript) - [JS HtmlCheat.com](https://htmlcheatsheet.com/js) - [JS OverApi.com](https://overapi.com/javascript) 
+- React [React (GfG.org)](https://www.geeksforgeeks.org/react-cheat-sheet) - [React Devhints.com](https://devhints.io/react) - [React TS (netlify.app)](https://react-typescript-cheatsheet.netlify.app) 
 - TypeScript [TSlang.org](https://www.typescriptlang.org/cheatsheets) 
 
 Util

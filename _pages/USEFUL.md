@@ -47,12 +47,11 @@ Util
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
 * [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
-**Dev & data**  
-* [GetComposer.org](https://getcomposer.org/doc)   
+**Dev & data**   
 * Databases [db-engines.com](https://db-engines.com/en/articles) 
 * Editor [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) 
 * Git [Git-scm.com](https://git-scm.com/doc) - [GitBook alexgirard.com](https://alexgirard.com/git-book) 
-* Php [PHPtheRightWay.com](https://phptherightway.com) - [PhpQA.io](https://phpqa.io) 
+* Php [GetComposer.org](https://getcomposer.org/doc) - [PHPtheRightWay.com](https://phptherightway.com) - [PhpQA.io](https://phpqa.io) 
 * Protocol [HTTP/mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI/wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [Mercure.rocks](https://mercure.rocks) - [RESTfulapi.net](https://restfulapi.net/hateoas) 
  
 - JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) - [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) - [Ecmascript Darwin (medium.com)](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c)

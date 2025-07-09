@@ -10,23 +10,20 @@ permalink: /useful/
 ## <center>USEFUL</center>
 ---
 
-Cheatsheets
-
-**[Devhints.io](https://devhints.io)** | [DevDocs.io](https://devdocs.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
-
 Ai  
 
 [ChatGPT](https://chatgpt.com) - [Claude.ai](https://claude.ai) - [Mistral.ai](https://mistral.ai) - [Perplexity.ai](https://www.perplexity.ai)  
 
-Lang
+Cheatsheets
 
-- Css [Sass/DevHints.io](https://devhints.io/sass) - [Sass/DevHints.io](https://devhints.io/css)
+**[Devhints.io](https://devhints.io)** | [Cheatography.com](https://cheatography.com) - [Cht.sh](https://cht.sh/) - [DevDocs.io](https://devdocs.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
+
+- Css [Sass (DevHints.io)](https://devhints.io/sass) - [Css (DevHints.io)](https://devhints.io/css)
 - Db [SQL.sh](https://sql.sh) 
-- ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6) - [Medium blog Darwin](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c) 
-- Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet) 
-- JS [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - [OverApi](https://overapi.com/javascript) 
-- React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) 
-- Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) 
+- ES6 [ES6 Quickref.me](https://quickref.me/es6.html) - [ES6 Devhints](https://devhints.io/es6) - [ES6 Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6)
+- JavaScript [Quickref](https://quickref.me/javascript.html) - [Shecodes](http://cheatsheets.shecodes.io/javascript) - [HTMLCheat](https://htmlcheatsheet.com/js) - [OverApi](https://overapi.com/javascript) 
+- React [React cheats (GfG.org)](https://www.geeksforgeeks.org/react-cheat-sheet) - [Devhint](https://devhints.io/react) - [Netlify.app](https://react-typescript-cheatsheet.netlify.app) 
+- TypeScript [TSlang.org](https://www.typescriptlang.org/cheatsheets) 
 
 Util
 
@@ -44,7 +41,7 @@ Util
 
 
 ---
-### <center>INFOS & LINKS</center>
+### <center>INFOS & REFS</center>
 
 **Architecture**    
 * [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
@@ -58,9 +55,11 @@ Util
 * Php [PHPtheRightWay.com](https://phptherightway.com) - [PhpQA.io](https://phpqa.io) 
 * Protocol [HTTP/mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI/wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [Mercure.rocks](https://mercure.rocks) - [RESTfulapi.net](https://restfulapi.net/hateoas) 
  
-- JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) - [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) 
-- Php [Migrations changelog](https://www.php.net/manual/en/doc.changelog.php) - [8](https://www.php.net/releases/8.4) 
-- Symfony [BestPractice](https://symfony.com/doc/current/best_practices.html) - [LivingOnTheEdge](https://symfony.com/blog/category/living-on-the-edge) - [Releases](https://symfony.com/releases)   
+- JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) - [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) - [Ecmascript Darwin (medium.com)](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c)
+- Php [Migrations changelog](https://www.php.net/manual/en/doc.changelog.php) - [8](https://www.php.net/releases/8.4) - [Php.watch](https://php.watch/versions) - [PSR (php-fig.org)](https://www.php-fig.org/psr)
+- Symfony [BestPractice (Sym.com)](https://symfony.com/doc/current/best_practices.html) - [LivingOnTheEdge (Sym.com)](https://symfony.com/blog/category/living-on-the-edge) - [Releases (Sym.com)](https://symfony.com/releases) - [Blog Sensiolabs.com](https://blog.sensiolabs.com) - [Blog Symfony.com](https://symfony.com/blog)
+
+- Web [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3.org](https://www.w3.org)  
 
 **Project**  
 * [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)  
@@ -78,12 +77,6 @@ Util
 **Shell & OS**  
 * Apache [apache.org](https://apache.org) - [Content](https://projects.apache.org/projects.html?category#content) - [DB](https://projects.apache.org/projects.html?category#database)  
 * Tips [Ubuntu-fr.org](https://doc.ubuntu-fr.org) - [Linuxhint.com](https://linuxhint.com) - [Shell-tips.com](https://www.shell-tips.com) - [AZlinux.fr](https://azlinux.fr) 
-
-**Spec**  
-* Php [Php.watch](https://php.watch/versions) - [Php8.net](https://www.php.net/releases/8.0/en.php) - 
-[Sensiolabs.com blog](https://blog.sensiolabs.com) - [Symfony.com blog](https://symfony.com/blog) -  [PSR php-fig.org](https://www.php-fig.org/psr) -
-* Java [Oracle.com Doc](https://docs.oracle.com/en/java) - [Oracle.com Java convention](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) - [Javastyle Geosoft.no](https://geosoft.no/javastyle.html) - 
-* Web [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3.org](https://www.w3.org) -  
 
 
 

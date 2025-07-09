@@ -12,7 +12,7 @@ permalink: /useful/
 
 Cheatsheets
 
-**[Devhints.io](https://devhints.io)** - [DevDocs.io](https://devdocs.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
+**[Devhints.io](https://devhints.io)** | [DevDocs.io](https://devdocs.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
 
 Ai  
 

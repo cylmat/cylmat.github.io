@@ -12,7 +12,7 @@ permalink: /useful/
 
 Cheatsheets
 
-[DevDocs.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
+**[Devhints.io](https://devhints.io)** - [DevDocs.io](https://devdocs.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
 
 Ai  
 
@@ -20,7 +20,7 @@ Ai
 
 Lang
 
-- Css [Dev Sass](https://devhints.io/sass)
+- Css [Sass/DevHints.io](https://devhints.io/sass) - [Sass/DevHints.io](https://devhints.io/css)
 - Db [SQL.sh](https://sql.sh) 
 - ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6) - [Medium blog Darwin](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c) 
 - Java [Gfg.org](https://www.geeksforgeeks.org/java-cheat-sheet) - [Princeton.edu](https://introcs.cs.princeton.edu/java/11cheatsheet/) - [Edureka.co](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet) 

@@ -119,23 +119,16 @@ Shell
 * [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev)  
 * [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - [Zellij.dev](https://zellij.dev) 
 
-
-### Tools 
-
+Tools 
 * Tools [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)   
 * Toys [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Dev-box](https://www.dev-box.app)   
 - Api [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) 
 - Apps [Opensourcealternative.to](https://www.opensourcealternative.to)  
-  
 
-### Cheats & docs  
-* [Cylmat/Cheats](https://github.com/cylmat/cheats) - [Cylmat/Docs](https://github.com/cylmat/docs) - [Cylmat/Install](https://github.com/cylmat/docs/tree/main/install) - 
-* [GIT](https://github.com/cylmat/cheats/blob/main/GIT-cheats.md) - [GSA](https://github.com/cylmat/cheats/blob/main/GSA-cheats.md) - [VIM](https://github.com/cylmat/cheats/blob/main/VIM-cheats.md)
+---
+
+Cheats & docs 
+
+* [Cylmat/Cheats](https://github.com/cylmat/cheats) ([GIT](https://github.com/cylmat/cheats/blob/main/GIT-cheats.md) - [GSA](https://github.com/cylmat/cheats/blob/main/GSA-cheats.md) - [VIM](https://github.com/cylmat/cheats/blob/main/VIM-cheats.md)) - [Cylmat/Docs](https://github.com/cylmat/docs) - [Cylmat/Install](https://github.com/cylmat/docs/tree/main/install) 
   
-### Misc  
 * [Lists](https://cylmat.github.io/lists) - [Musics](https://cylmat.github.io/musics) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)
-
-### Daily
-* [Apache.org](https://projects.apache.org) - [AWS](https://aws.amazon.com) - [Doctrine](https://www.doctrine-project.org) - [React](https://react.dev/) - [Symfony](https://symfony.com)
-
-

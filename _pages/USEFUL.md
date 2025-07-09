@@ -14,7 +14,8 @@ Cheatsheets
 
 [DevDocs.io](https://devdocs.io) - [Devhints.io](https://devhints.io) - [LearnXinY.com](https://learnxinyminutes.com) - [Overapi.com](https://overapi.com/javascript) - [Quickref.me](https://quickref.me) - [Shecodes.io](http://cheatsheets.shecodes.io)  
 
-Ai
+Ai  
+
 [ChatGPT](https://chatgpt.com) - [Claude.ai](https://claude.ai) - [Mistral.ai](https://mistral.ai) - [Perplexity.ai](https://www.perplexity.ai)  
 
 Lang

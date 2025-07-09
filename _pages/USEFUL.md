@@ -20,23 +20,27 @@ Cheatsheets
 
 - Css [Sass (devHints.io)](https://devhints.io/sass) - [Css (devHints.io)](https://devhints.io/css)
 - Db [SQL.sh](https://sql.sh) - [Mongodb.com](https://www.mongodb.com/developer/products/mongodb/cheat-sheet) - [Postgres (neon.com)](https://neon.com/postgresql/postgresql-cheat-sheet) - [Postgres Quickref.me](https://quickref.me/postgres.html) - [Postgres (tigerdata.com)](https://www.tigerdata.com/learn/postgres-cheat-sheet)
-- ES6 [ES6 Quickref.me](https://quickref.me/es6.html) - [ES6 Devhints.io](https://devhints.io/es6) - [ES6 Cheatography.com](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6)
-- JavaScript [JS Quickref.me](https://quickref.me/javascript.html) - [JS Shecodes.io](http://cheatsheets.shecodes.io/javascript) - [JS HtmlCheat.com](https://htmlcheatsheet.com/js) - [JS OverApi.com](https://overapi.com/javascript) 
-- React [React (GfG.org)](https://www.geeksforgeeks.org/react-cheat-sheet) - [React Devhints.com](https://devhints.io/react) - [React TS (netlify.app)](https://react-typescript-cheatsheet.netlify.app) 
+- ES6 [Quickref.me](https://quickref.me/es6.html) - [Devhints.io](https://devhints.io/es6) - [Cheatography.com](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6)
+- JavaScript [Quickref.me](https://quickref.me/javascript.html) - [Shecodes.io](http://cheatsheets.shecodes.io/javascript) - [HtmlCheat.com](https://htmlcheatsheet.com/js) - [OverApi.com](https://overapi.com/javascript) 
+- React [GfG.org](https://www.geeksforgeeks.org/react-cheat-sheet) - [React Devhints.com](https://devhints.io/react) - [React TS (netlify.app)](https://react-typescript-cheatsheet.netlify.app) 
 - TypeScript [TSlang.org](https://www.typescriptlang.org/cheatsheets) 
 
-Util
+*
 
-- Bash [devhints.io](https://devhints.io/bash) - [RehanSaeed](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [hostinger 40best](https://www.hostinger.fr/tutoriels/commandes-linux) 
-  + [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
-- Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) 
-- Linux [Art of command line](https://github.com/jlevy/the-art-of-command-line) - [Commandes malekal.com](https://www.malekal.com/liste-des-commandes-linux) - [goffinet.org admin-net](https://linux.goffinet.org/administration/configuration-du-reseau/outils-linux-reseau/) - [Shellcheck.net](https://www.shellcheck.net)
-  + GSAwk [shellunix.com](https://www.shellunix.com) - [Corporesano SedAwk](http://www.corporesano.org/doc-site/grepawksed.html) - [Everythingcli find xargs](https://www.everythingcli.org/find-exec-vs-find-xargs)  
-- OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) 
-- Regex [Regexone.com](https://regexone.com) - [Regex visual build - regex101.com](https://regex101.com) - [Regex with AI - rgx.tools](https://rgx.tools)
-   + [Regex lumadis.be](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) 
-- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimemo nmesnier.free.fr](http://nmesnier.free.fr/vim.html) - [Vim quickref.me](https://quickref.me/vim) 
+- Bash [Devhints.io](https://devhints.io/bash) - [Bash (github.com/rehanSaeed)](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [40best (hostinger.fr)](https://www.hostinger.fr/tutoriels/commandes-linux) - [Bash-Oneliner (github.com/onceupon)](https://github.com/onceupon/Bash-Oneliner)
+- Linux [Art of command line (github.com/jlevy)](https://github.com/jlevy/the-art-of-command-line) - [Commandes (malekal.com)](https://www.malekal.com/liste-des-commandes-linux) - [Admin network (goffinet.org)](https://linux.goffinet.org/administration/configuration-du-reseau/outils-linux-reseau) - [Shellcheck.net](https://www.shellcheck.net)
+- GrepSedAwk [shellunix.com](https://www.shellunix.com) - [GrepSedAwk (corporesano.org)](http://www.corporesano.org/doc-site/grepawksed.html) - [Find-Xargs (everythingcli.org)](https://www.everythingcli.org/find-exec-vs-find-xargs)
+
+*
+
+- Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml (quickref.me)](https://quickref.me/yaml.html) 
+- Regex [Regexone.com](https://regexone.com) - [Regex visual build (regex101.com)](https://regex101.com) - [Regex with AI - (rgx.tools)](https://rgx.tools) - [Regex (lumadis.be)](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) 
+- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimemo (nmesnier.fr)](http://nmesnier.free.fr/vim.html) - [Vim (quickref.me)](https://quickref.me/vim) 
+
+*
+
 - Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)   
+- OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) 
 
 
 

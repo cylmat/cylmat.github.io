@@ -19,6 +19,7 @@ Ai
 [ChatGPT](https://chatgpt.com) - [Claude.ai](https://claude.ai) - [Mistral.ai](https://mistral.ai) - [Perplexity.ai](https://www.perplexity.ai)  
 
 Lang
+
 - Css [Dev Sass](https://devhints.io/sass)
 - Db [SQL.sh](https://sql.sh) 
 - ES6 [Quickref](https://quickref.me/es6.html) - [Devhints](https://devhints.io/es6) - [Cheatography](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6) - [Medium blog Darwin](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c) 
@@ -28,6 +29,7 @@ Lang
 - Typescript [TSlang.org](https://www.typescriptlang.org/cheatsheets) 
 
 Util
+
 - Bash [devhints.io](https://devhints.io/bash) - [RehanSaeed](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [hostinger 40best](https://www.hostinger.fr/tutoriels/commandes-linux) 
   + [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml quickref.me](https://quickref.me/yaml.html) 

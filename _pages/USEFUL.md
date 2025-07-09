@@ -65,11 +65,10 @@ Cheatsheets
 - Web [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3.org](https://www.w3.org)  
 
 **Project**  
-* [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)  
-[12factor.net](https://12factor.net) - [extremeprogramming.org](http://www.extremeprogramming.org)  
+* [12 Agile agilealliance.org](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto) - [12factor.net](https://12factor.net) - [Extremeprogramming.org](http://www.extremeprogramming.org)  
 * [BDD cucumber.io](https://cucumber.io/docs/bdd) - [TDD agiledata.org](http://agiledata.org/essays/tdd.html) 
 * [DDD alexsoyes.com](https://alexsoyes.com/ddd-domain-driven-design) - [domainlanguage.com](https://www.domainlanguage.com)  
-* [DevOps gitlab.com](https://about.gitlab.com/topics/devops) - [microservices.io](https://microservices.io)
+* [DevOps gitlab.com](https://about.gitlab.com/topics/devops) - [Microservices.io](https://microservices.io)
   
 **Quality & Security**  
 * Quality [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 

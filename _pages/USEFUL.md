@@ -31,7 +31,7 @@ Cheatsheets
 - Linux [Art of command line (github.com/jlevy)](https://github.com/jlevy/the-art-of-command-line) - [Unix commands (belaran.github.io)](https://belaran.github.io/free-docs/unix-initiation/node277.html) - [Commandes (malekal.com)](https://www.malekal.com/liste-des-commandes-linux) - [Admin network (goffinet.org)](https://linux.goffinet.org/administration/configuration-du-reseau/outils-linux-reseau) - [Shellcheck.net](https://www.shellcheck.net)
 - GrepSedAwk [shellunix.com](https://www.shellunix.com) - [GrepSedAwk (corporesano.org)](http://www.corporesano.org/doc-site/grepawksed.html) - [Find-Xargs (everythingcli.org)](https://www.everythingcli.org/find-exec-vs-find-xargs)
 
-Other : [Expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-in-linux-with-examples), IFS, Locate, Read, Set, Shift, [Shred (ubuntu.fr)](https://doc.ubuntu-fr.org/shred), Tac..
+Other : [expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-in-linux-with-examples), IFS, locate, read, set, shift, [shred (ubuntu.fr)](https://doc.ubuntu-fr.org/shred), tac, zgrep..
 
 *
 

@@ -27,7 +27,7 @@ Cheatsheets
 
 *
 
-- Bash [Devhints.io](https://devhints.io/bash) - [Bash (github.com/rehanSaeed)](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [40best (hostinger.fr)](https://www.hostinger.fr/tutoriels/commandes-linux) - [Bash-Oneliner (github.com/onceupon)](https://github.com/onceupon/Bash-Oneliner) - [Explainshell.com](https://explainshell.com)
+- Bash [Devhints.io](https://devhints.io/bash) - [Bash (github.com/rehanSaeed)](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - [60 best (hostinger.fr)](https://www.hostinger.fr/tutoriels/commandes-linux) - [Bash-Oneliner (github.com/onceupon)](https://github.com/onceupon/Bash-Oneliner) - [Explainshell.com](https://explainshell.com)
 - Linux [Art of command line (github.com/jlevy)](https://github.com/jlevy/the-art-of-command-line) - [Commandes (malekal.com)](https://www.malekal.com/liste-des-commandes-linux) - [Admin network (goffinet.org)](https://linux.goffinet.org/administration/configuration-du-reseau/outils-linux-reseau) - [Shellcheck.net](https://www.shellcheck.net)
 - GrepSedAwk [shellunix.com](https://www.shellunix.com) - [GrepSedAwk (corporesano.org)](http://www.corporesano.org/doc-site/grepawksed.html) - [Find-Xargs (everythingcli.org)](https://www.everythingcli.org/find-exec-vs-find-xargs)
 

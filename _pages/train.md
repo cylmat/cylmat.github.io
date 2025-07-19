@@ -19,14 +19,15 @@ permalink: /train/
   
 Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
 
+
 ### <center>Algorithms</center> 
 
 * Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codewars](https://www.codewars.com) - [Codechef.com certif](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) - [Techiedelight](https://www.techiedelight.com) - [Codecademy.com](https://www.codecademy.com) - [Codingame.com](https://www.codingame.com) - 
-* DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) -
+* DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
-* Contest [Isograd.com solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Hackerearth.com Competitive](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [Tryalgo.org](https://tryalgo.org/problems) - [Prologin.org](https://prologin.org/archives/) - 
+* Contest [Isograd.com solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Hackerearth.com Competitive](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [Tryalgo.org](https://tryalgo.org/problems) - [Prologin.org](https://prologin.org/archives/) 
 * [RosettaCode](https://rosettacode.org) : [Classics](https://rosettacode.org/wiki/Category:Classic_CS_problems_and_programs) - [Games](https://rosettacode.org/wiki/Category:Games) - [Expensives](https://rosettacode.org/wiki/Category:Pages_with_too_many_expensive_parser_function_calls) - [PhpCategory](https://rosettacode.org/wiki/Category:PHP) - [JsCategory](https://rosettacode.org/wiki/Category:JavaScript) -
-* Games [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) - [Démineur](https://fr.wikipedia.org/wiki/D%C3%A9mineur_(genre_de_jeu_vid%C3%A9o)) - [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o)) -
+* Games [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) - [Démineur](https://fr.wikipedia.org/wiki/D%C3%A9mineur_(genre_de_jeu_vid%C3%A9o)) - [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o))
 
 
 ### <center>Tutos</center>
@@ -49,16 +50,14 @@ Linux
 - [Catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [Catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [Catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [Catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one) -
 - Git [Comprendre-git.com](https://comprendre-git.com)
 
-+ Linux [Explainshell](https://explainshell.com) - [Guru99.com Unix](https://www.guru99.com/fr/unix-linux-tutorial.html) - [Cmd-Challenge.com](https://cmdchallenge.com) - [Baeldung.com](https://www.baeldung.com/linux)
-  + [GfGeeks](https://www.geeksforgeeks.org/linux-tutorial/) - [linux.org](https://www.linux.org/forums/#linux-tutorials.122) - [tuxcademy.org advanced](https://www.tuxcademy.org/product/grd2/) -
-  + Rocky [Grep sed awk](https://docs.rockylinux.org/books/sed_awk_grep) - [Grep Sed Awk avancé - gitlab.mbb.cnrs.fr](https://gitlab.mbb.cnrs.fr/f/site/form1/ttext/) - [Admin](https://docs.rockylinux.org/books/admin_guide/00-toc) - [Bash](https://docs.rockylinux.org/books/learning_bash/00-toc) - [Linuxtrainingacademy](https://www.linuxtrainingacademy.com/) -
++ Linux [Baeldung.com](https://www.baeldung.com/linux) - [CmdChallenge.com](https://cmdchallenge.com) - [Guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfG.org](https://www.geeksforgeeks.org/linux-tutorial) - [GSA Adv - gitlab.mbb.cnrs.fr](https://gitlab.mbb.cnrs.fr/f/site/form1/ttext) -[Labex.io](https://labex.io/skilltrees/linux) - [Linux.org](https://www.linux.org/forums/#linux-tutorials.122) -  [Linuxtrainingacademy](https://www.linuxtrainingacademy.com) - [Tuxcademy.org](https://www.tuxcademy.org/product/grd2)
 
 Vim  
-+ Vim [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [LearnVim irian.to](https://learnvim.irian.to) - [Vimcasts.org](http://vimcasts.org) - [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference)
++ Vim [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference) - [LearnVim irian.to](https://learnvim.irian.to) - [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) -   [Vimcasts.org](http://vimcasts.org)
  
 Ops
-+ Devops [Devopssec](https://devopssec.fr) -  
-+ K8s [k8s.io](https://kubernetes.io/docs/tutorials) -
++ DevOps [Devopssec.fr](https://devopssec.fr) - [Labex.io](https://labex.io/skilltrees/devops)
++ K8s [k8s.io](https://kubernetes.io/docs/tutorials)
 
 ---
 

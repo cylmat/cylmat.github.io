@@ -49,7 +49,7 @@ Specific
 
 + JS
 + [Developpez.com (Js)](https://javascript.developpez.com)
-+ [This week in React](https://thisweekinreact.com/articles)
++ [ThisWeekInReact.com](https://thisweekinreact.com/articles)
 
 * Misc
 * [Architect.io](https://www.architect.io/blog)

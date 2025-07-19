@@ -56,7 +56,7 @@ Other : [expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-i
 **Dev & data**   
 * Databases [db-engines.com](https://db-engines.com/en/articles) 
 * Editor [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) 
-* Git [Git-scm.com](https://git-scm.com/doc) - [GitBook (alexgirard.com)](https://alexgirard.com/git-book) - [Git Trunk-workflow (medium.com)](https://medium.com/takima/d%C3%A9couverte-du-trunk-based-development-alternative-%C3%A0-gitflow-42f81f0a8cf1)
+* Git [Git-scm.com](https://git-scm.com/doc) - [GitBook (alexgirard.com)](https://alexgirard.com/git-book) - [Gitflow-Trunkflow (medium.com)](https://medium.com/takima/d%C3%A9couverte-du-trunk-based-development-alternative-%C3%A0-gitflow-42f81f0a8cf1)
 * Php [GetComposer.org](https://getcomposer.org/doc) - [PHPtheRightWay.com](https://phptherightway.com) - [PhpQA.io](https://phpqa.io) 
 * Protocol [HTTP/mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI/wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [Mercure.rocks](https://mercure.rocks) - [RESTfulapi.net](https://restfulapi.net/hateoas) 
  

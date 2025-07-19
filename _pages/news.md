@@ -19,7 +19,7 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 
 ---
 
-### <center>Dev</center>
+### <center>DEV</center>
 
 - [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))
 - [Elevenlabs blog](https://blog.eleven-labs.com)
@@ -54,11 +54,17 @@ Specific
 * [Architect.io](https://www.architect.io/blog)
 * [Console.dev](https://console.dev)
 * [LeBigData](https://www.lebigdata.fr)
-* [Linuxfr](https://linuxfr.org)
-* [VimTricks](https://vimtricks.com)
+* [Linuxfr.org](https://linuxfr.org)
+* [VimTricks.com](https://vimtricks.com)
 
 [_others_](https://github.com/cylmat/docs/blob/main/News.md)
 [_quizz_](https://github.com/cylmat/docs/blob/main/Quizz.md)
+
+---
+  
+### <center>SCIENCES</center>
+
+- [Innovant.fr](https://www.innovant.fr)
 
 ---
   

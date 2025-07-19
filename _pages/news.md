@@ -31,11 +31,22 @@ Blog
 - [Delicious-insights.com](https://delicious-insights.com/fr/articles-et-tutos)
 - [Dev.to](https://dev.to)
 - [Devconnected.com](https://devconnected.com)
-- [Grafikart.fr blog](https://grafikart.fr/blog) 
+- [Grafikart.fr blog](https://grafikart.fr/blog)
+- [Ippon.fr (full)](https://blog.ippon.fr)
 - [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
-- [Programmingly.dev JS](https://programmingly.dev)
+- [Programmingly.dev (JS)](https://programmingly.dev)
 - [Refactoring.fm](https://refactoring.fm)
 - [Thevaluable.dev](https://thevaluable.dev)
+- [Tldr.tech](https://tldr.tech)
+- [Tldrsec.com](https://tldrsec.com)
+
++ [Daily.dev](https://daily.dev) - [Medium.com](https://medium.com)
+
+Newsletter
+- [Aisecret.us](https://aisecret.us)
+- [Javascriptweekly.com](https://javascriptweekly.com)
+- [Frontendfoc.us](https://frontendfoc.us)
+- [Webtoolsweekly.com](https://webtoolsweekly.com)
 
 Specific
 - PHP
@@ -54,6 +65,7 @@ Specific
 * Misc
 * [Architect.io](https://www.architect.io/blog)
 * [Console.dev](https://console.dev)
+* [Github.com (tendances)](https://github.com/trending)
 * [LeBigData](https://www.lebigdata.fr)
 * [Linuxfr.org](https://linuxfr.org)
 * [VimTricks.com](https://vimtricks.com)
@@ -132,3 +144,8 @@ Crypto
 - [Cryptoast](https://cryptoast.fr)
 
 [_feedly_](https://feedly.com)
+
+### Tabs tools
+
+- https://www.gettoby.com
+- https://raindrop.io

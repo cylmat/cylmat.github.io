@@ -44,7 +44,7 @@ Specific
 - [Sensiolabs.com blog](https://blog.sensiolabs.com/fr)
 - [Strangebuzz](https://www.strangebuzz.com/fr)
 - [Stitcher.io](https://stitcher.io)
-- [Symfony blog](https://symfony.com/blog)
+- [Symfony blog](https://symfony.com/blog) - [A-week-of-symfony](https://symfony.com/blog/category/a-week-of-symfony)
 - [Symfony living-edge](https://symfony.com/blog/category/living-on-the-edge)
 
 + JS

@@ -60,7 +60,6 @@ Specific
 
 **JS**
 + [Developpez.com (Js)](https://javascript.developpez.com)
-+ [Javascript.info](https://fr.javascript.info)
 + [ThisWeekInReact.com](https://thisweekinreact.com/articles)
 
 **Misc**

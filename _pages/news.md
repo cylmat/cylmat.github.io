@@ -49,7 +49,7 @@ Newsletter
 - [Webtoolsweekly.com](https://webtoolsweekly.com)
 
 Specific
-- PHP
+**PHP**
 - [Developpez.com (Php)](https://php.developpez.com)
 - [Php.watch](https://php.watch)
 - [Sensiolabs.com blog](https://blog.sensiolabs.com/fr)
@@ -58,11 +58,12 @@ Specific
 - [Symfony blog](https://symfony.com/blog) - [A-week-of-symfony](https://symfony.com/blog/category/a-week-of-symfony)
 - [Symfony living-edge](https://symfony.com/blog/category/living-on-the-edge)
 
-+ JS
+**JS**
 + [Developpez.com (Js)](https://javascript.developpez.com)
++ [Javascript.info](https://fr.javascript.info)
 + [ThisWeekInReact.com](https://thisweekinreact.com/articles)
 
-* Misc
+**Misc**
 * [Architect.io](https://www.architect.io/blog)
 * [Console.dev](https://console.dev)
 * [Github.com (tendances)](https://github.com/trending)

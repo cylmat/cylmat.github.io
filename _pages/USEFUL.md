@@ -36,13 +36,13 @@ Other : [expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-i
 *
 
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml (quickref.me)](https://quickref.me/yaml.html) 
-- Regex [Regexone.com](https://regexone.com) - [Regex visual build (regex101.com)](https://regex101.com) - [Regex with AI - (rgx.tools)](https://rgx.tools) - [Regex (lumadis.be)](https://lumadis.be/regex) - [Regular-exp.info](https://www.regular-expressions.info) 
+- Regex [Regexone.com](https://regexone.com) - [Regex visual build (regex101.com)](https://regex101.com) - [Regex with AI - (rgx.tools)](https://rgx.tools) - [Regular-exp.info](https://www.regular-expressions.info) 
 - Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimemo (nmesnier.fr)](http://nmesnier.free.fr/vim.html) - [Vim (quickref.me)](https://quickref.me/vim) 
 
 *
 
-- Win [Win malekal.com](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)   
-- OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html) 
+- Win [Win (malekal.com)](https://www.malekal.com/liste-commandes-invite-de-commandes-windows)   
+- OWASP [Owasp.org](https://cheatsheetseries.owasp.org/Glossary.html)  
 
 
 
@@ -50,8 +50,8 @@ Other : [expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-i
 ### <center>INFOS & REFS</center>
 
 **Architecture**    
-* [Architecture hexagonale herbertograca.com](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
-* [Design Patterns refactoring.guru](https://refactoring.guru/fr/design-patterns) - [GoF springf.guru](https://springframework.guru/gang-of-four-design-patterns) - [DPphp.rtd.io](https://designpatternsphp.readthedocs.io) - [Architecture pattern wikipedia.org](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA martinfowler.com](https://martinfowler.com/eaaCatalog) - [10 archi patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+* [Architecture hexagonale (herbertograca.com)](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together) - [Architecture logicielle (wikipedia.org)](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
+* [Design Patterns (refactoring.guru)](https://refactoring.guru/fr/design-patterns) - [GoF (springf.guru)](https://springframework.guru/gang-of-four-design-patterns) - [DP (php.rtd.io)](https://designpatternsphp.readthedocs.io) - [Architecture pattern (wikipedia.org)](https://en.wikipedia.org/wiki/Architectural_pattern) - [EAA (martinfowler.com)](https://martinfowler.com/eaaCatalog) - [10 archi patterns (towardsdatascience.com)](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 **Dev & data**   
 * Databases [db-engines.com](https://db-engines.com/en/articles) 

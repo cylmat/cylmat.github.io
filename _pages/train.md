@@ -13,9 +13,8 @@ permalink: /train/
 * Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) 
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
 
-- Tech [Google](https://developers.google.com/learn) - [GTechdevguide](https://techdevguide.withgoogle.com) - [guru99](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
-- TutorialPoints ([big](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [dsa](https://www.tutorialspoint.com/data_structures_algorithms/index.htm) - [mng](https://www.tutorialspoint.com/management_tutorials.htm) -[hack](https://www.tutorialspoint.com/ethical_hacking) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
-- LearnXinY [Bash](https://learnxinyminutes.com/docs/bash) - [Mkdown](https://learnxinyminutes.com/docs/markdown) - [Nix](https://learnxinyminutes.com/docs/nix) - [Perl](https://learnxinyminutes.com/docs/perl) - [Python](https://learnxinyminutes.com/docs/python) - [R](https://learnxinyminutes.com/docs/r) - [Rust](https://learnxinyminutes.com/docs/rust) - [Vim](https://learnxinyminutes.com/docs/vim) 
+- Tech [Google.com learn](https://developers.google.com/learn) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [Guru99.com](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
+- TutorialPoints ([BigData](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [mng](https://www.tutorialspoint.com/management_tutorials.htm) -[hack](https://www.tutorialspoint.com/ethical_hacking) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
   
 Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
 
@@ -23,7 +22,7 @@ Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_we
 ### <center>Algorithms</center> 
 
 * Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codewars](https://www.codewars.com) - [Codechef.com certif](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) - [Techiedelight](https://www.techiedelight.com) - [Codecademy.com](https://www.codecademy.com) - [Codingame.com](https://www.codingame.com) 
-* DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutopoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+* DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutospoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 * Contest [Isograd.com solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Hackerearth.com Competitive](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [Tryalgo.org](https://tryalgo.org/problems) - [Prologin.org](https://prologin.org/archives/) 
 * [RosettaCode](https://rosettacode.org) : [Classics](https://rosettacode.org/wiki/Category:Classic_CS_problems_and_programs) - [Games](https://rosettacode.org/wiki/Category:Games) - [Expensives](https://rosettacode.org/wiki/Category:Pages_with_too_many_expensive_parser_function_calls) - [PhpCategory](https://rosettacode.org/wiki/Category:PHP) - [JsCategory](https://rosettacode.org/wiki/Category:JavaScript) 
@@ -32,17 +31,18 @@ Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_we
 
 ### <center>Tutos</center>
 
+Dev
 * Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [Javascript.info](https://fr.javascript.info) - [W3S ES6](https://www.w3schools.com/js/js_es6.asp)
   + [Typescript-lang.org](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
   + [Delicious-insights.com JS Es6](https://delicious-insights.com/fr/articles-et-tutos)
-* Java [Java Programiz](https://www.programiz.com/java-programming) - [Jmd.fr](https://www.jmdoudoux.fr/accueil_java.htm) 
 * Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) 
-* React [React.dev](https://react.dev/learn) - [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm) 
+* React [React.dev](https://react.dev/learn) - [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm)
+* Symfony [Tutorialspoint.com](https://www.tutorialspoint.com/symfony/index.htm)
 
 Database  
 * MongoDb [MongoUniversity](https://learn.mongodb.com) - [Tutospoint](https://www.tutorialspoint.com/mongodb) 
 * Redis [redis.io](https://redis.io/learn) - [Tutospoint](https://www.tutorialspoint.com/redis) 
-* [Doctrine](https://www.doctrine-project.org) 
+* Doctrine [Doctrine](https://www.doctrine-project.org) 
 
 Linux  
 + Bash [freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - [linuxconfig](https://linuxconfig.org/bash-scripting-tutorial) - [ubuntu shell](https://doc.ubuntu-fr.org/tutoriel/script_shell) 
@@ -53,7 +53,7 @@ Linux
 + Linux [Baeldung.com](https://www.baeldung.com/linux) - [CmdChallenge.com](https://cmdchallenge.com) - [Guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfG.org](https://www.geeksforgeeks.org/linux-tutorial) - [GSA Adv - gitlab.mbb.cnrs.fr](https://gitlab.mbb.cnrs.fr/f/site/form1/ttext) -[Labex.io](https://labex.io/skilltrees/linux) - [Linux.org](https://www.linux.org/forums/#linux-tutorials.122) -  [Linuxtrainingacademy](https://www.linuxtrainingacademy.com) - [Tuxcademy.org](https://www.tuxcademy.org/product/grd2)
 
 Vim  
-+ Vim [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference) - [LearnVim irian.to](https://learnvim.irian.to) - [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) -   [Vimcasts.org](http://vimcasts.org)
++ Vim [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference) - [LearnVim irian.to](https://learnvim.irian.to) - [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Vimcasts.org](http://vimcasts.org)
  
 Ops
 + DevOps [Devopssec.fr](https://devopssec.fr) - [Labex.io](https://labex.io/skilltrees/devops)

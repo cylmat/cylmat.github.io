@@ -13,20 +13,17 @@ permalink: /train/
 * Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) 
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
 
-- Tech [Google.com learn](https://developers.google.com/learn) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [Guru99.com](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
-- TutorialPoints ([BigData](https://www.tutorialspoint.com/big_data_tutorials.htm) - [db](https://www.tutorialspoint.com/database_tutorials.htm) - [mng](https://www.tutorialspoint.com/management_tutorials.htm) -[hack](https://www.tutorialspoint.com/ethical_hacking) - [ops](https://www.tutorialspoint.com/devops_tutorials.htm) - [prog](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [web](https://www.tutorialspoint.com/web_development_tutorials.htm))
+* Tech [Google.com learn](https://developers.google.com/learn) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [Guru99.com](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
+* TutorialPoints ([Big Data](https://www.tutorialspoint.com/big_data_tutorials.htm) - [Database](https://www.tutorialspoint.com/database_tutorials.htm) - [Management](https://www.tutorialspoint.com/management_tutorials.htm) -[Hack](https://www.tutorialspoint.com/ethical_hacking) - [DevOps](https://www.tutorialspoint.com/devops_tutorials.htm) - [Programming](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [Web](https://www.tutorialspoint.com/web_development_tutorials.htm))
   
-Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
+* Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
 
 
 ### <center>Algorithms</center> 
 
 * Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codewars](https://www.codewars.com) - [Codechef.com certif](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) - [Techiedelight](https://www.techiedelight.com) - [Codecademy.com](https://www.codecademy.com) - [Codingame.com](https://www.codingame.com) 
 * DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutospoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
-
 * Contest [Isograd.com solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Hackerearth.com Competitive](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [Tryalgo.org](https://tryalgo.org/problems) - [Prologin.org](https://prologin.org/archives/) 
-* [RosettaCode](https://rosettacode.org) : [Classics](https://rosettacode.org/wiki/Category:Classic_CS_problems_and_programs) - [Games](https://rosettacode.org/wiki/Category:Games) - [Expensives](https://rosettacode.org/wiki/Category:Pages_with_too_many_expensive_parser_function_calls) - [PhpCategory](https://rosettacode.org/wiki/Category:PHP) - [JsCategory](https://rosettacode.org/wiki/Category:JavaScript) 
-* Games [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) - [Démineur](https://fr.wikipedia.org/wiki/D%C3%A9mineur_(genre_de_jeu_vid%C3%A9o)) - [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o))
 
 
 ### <center>Tutos</center>
@@ -90,8 +87,8 @@ Ops
 ---
 ### Videos
 
-- [VimCasts.org](http://vimcasts.org)
-
+[@AfupPhp](https://www.youtube.com/@afupPHP) - [@AtomicReact](https://www.youtube.com/@atomicreact) 
+  
 [@BeautyinCode](https://www.youtube.com/@BeautyinCode) - 
 [@Computerphile](https://www.youtube.com/@Computerphile) - 
 [@CoopTilleuls](https://www.youtube.com/@coopTilleuls) - 
@@ -99,19 +96,13 @@ Ops
 [@DDD_eu](https://www.youtube.com/@ddd_eu) - 
 [@DevTernity](https://www.youtube.com/@DevTernity) - 
 [@Micode](https://www.youtube.com/@Micode) -   
-*  
-[@CodeCampaign](https://www.youtube.com/@CodeCampaign) - 
 [@Simplilearn](https://www.youtube.com/@SimplilearnOfficial) -
-[@techdose4u](https://www.youtube.com/@techdose4u) -
-*  
-[@AfupPhp](https://www.youtube.com/@afupPHP) - 
-[@AtomicReact](https://www.youtube.com/@atomicreact) - 
-[@Java](https://www.youtube.com/@java) - 
-[@YoanDev](https://m.youtube.com/@yoandevco)
+[@Techdose4u](https://www.youtube.com/@techdose4u) -
+[@YoanDev](https://youtube.com/@yoandevco) 
 
 ---
 ### Boilerplate
 
 - Symfony [Symfony setup](https://symfony.com/doc/current/setup.html) - [Thecodingmachine.github](https://thecodingmachine.github.io/symfony-boilerplate)
-- ViteJs [Vite-react.github](https://github.com/RicardoValdovinos/vite-react-boilerplate) - 
-- Stacks: [Devilbox](http://devilbox.org) - [MeanJs.org](http://meanjs.org) - [Openresty.org](https://openresty.org) - [PhpDocker.io](https://phpdocker.io) - 
+- ViteJs [Vite-react.github](https://github.com/RicardoValdovinos/vite-react-boilerplate) 
+- Stacks: [Devilbox](http://devilbox.org) - [MeanJs.org](http://meanjs.org) - [Openresty.org](https://openresty.org) - [PhpDocker.io](https://phpdocker.io) 

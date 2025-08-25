@@ -14,17 +14,18 @@ permalink: /train/
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
 
 * Tech [Google.com learn](https://developers.google.com/learn) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [Guru99.com](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
-* TutorialPoints ([Big Data](https://www.tutorialspoint.com/big_data_tutorials.htm) - [Database](https://www.tutorialspoint.com/database_tutorials.htm) - [Management](https://www.tutorialspoint.com/management_tutorials.htm) -[Hack](https://www.tutorialspoint.com/ethical_hacking) - [DevOps](https://www.tutorialspoint.com/devops_tutorials.htm) - [Programming](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [Web](https://www.tutorialspoint.com/web_development_tutorials.htm))
+* TutorialPoints ([Big Data](https://www.tutorialspoint.com/big_data_tutorials.htm) - [Database](https://www.tutorialspoint.com/database_tutorials.htm) - [DevOps](https://www.tutorialspoint.com/devops_tutorials.htm) - [Hack](https://www.tutorialspoint.com/ethical_hacking) - [Management](https://www.tutorialspoint.com/management_tutorials.htm) - [Programming](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [Web](https://www.tutorialspoint.com/web_development_tutorials.htm))
   
 * Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
 
 
 ### <center>Algorithms</center> 
 
-* Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Freecodecamp.org](https://www.freecodecamp.org/learn) - [Leetcode.com](https://leetcode.com/explore) - [Codewars](https://www.codewars.com) - [Codechef.com certif](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) - [Techiedelight](https://www.techiedelight.com) - [Codecademy.com](https://www.codecademy.com) - [Codingame.com](https://www.codingame.com) 
-* DSA [DSA gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental gfg.org](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [DSA codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - [DSA Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com DSA](https://www.learnsimpli.com/data-structures-and-algorithms/) - [Tutospoint DSA](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
-* Contest [Isograd.com solutions](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Hackerearth.com Competitive](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [Tryalgo.org](https://tryalgo.org/problems) - [Prologin.org](https://prologin.org/archives/) 
-
+* Train [Hackerrank.com](https://www.hackerrank.com) - [Interviewbit.com](https://www.interviewbit.com/courses/programming) - [Codewars](https://www.codewars.com)
+  * [Codecademy.com](https://www.codecademy.com) - [Codingame.com](https://www.codingame.com) - [Leetcode.com](https://leetcode.com/explore) - [Techiedelight](https://www.techiedelight.com) 
+* DSA [gfg.org](https://www.geeksforgeeks.org/data-structures) - [Fundamental (gfg.org)](https://www.geeksforgeeks.org/fundamentals-of-algorithms) - [Codelearn.io](https://codelearn.io/learning/data-structure-and-algorithms) - [Techdevguide (withhoogle.com)](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) - [Programiz.com](https://www.programiz.com/dsa) - [learnsimpli.com](https://www.learnsimpli.com/data-structures-and-algorithms) - [Tutorialspoint.com](https://www.tutorialspoint.com/data_structures_algorithms)
+* Contest [Hackerearth.com](https://www.hackerearth.com/fr/getstarted-competitive-programming) - [Isograd.com](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code) - [Prologin.org](https://prologin.org/archives)  - [Tryalgo.org](https://tryalgo.org/problems)
+- Certif [Codechef.com](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) 
 
 ### <center>Tutos</center>
 

@@ -11,11 +11,12 @@ permalink: /train/
 ---
 
 Tutorial
-* Dev [Learn (google.com)](https://developers.google.com/learn) - [Grafikart.fr](https://grafikart.fr/tutoriels) - [Dev (mozilla.org)](https://developer.mozilla.org/fr/docs/Learn_web_development) - [Guru99.com](https://www.guru99.com) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [W3Schools](https://www.w3schools.com)
+* Dev [Delicious-insights.com](https://delicious-insights.com/fr/articles-et-tutos) - [Google.com Learn](https://developers.google.com/learn) - [Grafikart.fr](https://grafikart.fr/tutoriels) - [Mozilla.org Dev](https://developer.mozilla.org/fr/docs/Learn_web_development) - [Guru99.com](https://www.guru99.com) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [W3Schools](https://www.w3schools.com)
 * TutorialsPoint ([Big Data](https://www.tutorialspoint.com/big_data_tutorials.htm) - [Database](https://www.tutorialspoint.com/database_tutorials.htm) - [DevOps](https://www.tutorialspoint.com/devops_tutorials.htm) - [Hack](https://www.tutorialspoint.com/ethical_hacking) - [Management](https://www.tutorialspoint.com/management_tutorials.htm) - [Programming](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [Web](https://www.tutorialspoint.com/web_development_tutorials.htm))
   
 Train
-* Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) 
+* Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
+* Linux [CmdChallenge.com](https://cmdchallenge.com) 
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) 
 
 Quizz
@@ -33,25 +34,25 @@ Quizz
 ### <center>Tutos</center>
 
 Dev
-* Javascript/Ts [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [Javascript.info](https://fr.javascript.info) - [W3S ES6](https://www.w3schools.com/js/js_es6.asp)
-  + [Typescript-lang.org](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
-  + [Delicious-insights.com JS Es6](https://delicious-insights.com/fr/articles-et-tutos)
-* Python [Learn python](https://www.learnpython.org) - [Realpython](https://realpython.com) 
-* React [React.dev](https://react.dev/learn) - [Tutospoint](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm)
-* Symfony [Tutorialspoint.com](https://www.tutorialspoint.com/symfony/index.htm)
+* JS [JavaScriptTuto.net](https://www.javascripttutorial.net) - [Javascript.info](https://fr.javascript.info) - [W3School.net JS](https://www.w3schools.com/js)
+  + TS [TypescriptLang.org](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
+  + ES6 [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [W3School.net ES6](https://www.w3schools.com/js/js_es6.asp)
+* Python [Learn python](https://www.learnpython.org) - [Realpython.com](https://realpython.com) 
+* React [React.dev](https://react.dev/learn) - [TutorialsPoint.com](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm)
+* Symfony [TutorialsPoint.com](https://www.tutorialspoint.com/symfony/index.htm)
 
 Database  
-* MongoDb [MongoUniversity](https://learn.mongodb.com) - [Tutospoint](https://www.tutorialspoint.com/mongodb) 
-* Redis [redis.io](https://redis.io/learn) - [Tutospoint](https://www.tutorialspoint.com/redis) 
-* Doctrine [Doctrine](https://www.doctrine-project.org) 
+* Doctrine [Doctrine-project.org](https://www.doctrine-project.org)
+* MongoDb [MongoUniversity](https://learn.mongodb.com) - [TutorialsPoint.com](https://www.tutorialspoint.com/mongodb) 
+* Redis [Redis.io](https://redis.io/learn) - [TutorialsPoint.com](https://www.tutorialspoint.com/redis) 
 
 Linux  
 + Bash [freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) - [linuxconfig](https://linuxconfig.org/bash-scripting-tutorial) - [ubuntu shell](https://doc.ubuntu-fr.org/tutoriel/script_shell) 
-+ Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) 
-- [Catonmat awk](https://catonmat.net/awk-one-liners-explained-part-one) - [Catonmat bash](https://catonmat.net/bash-one-liners-explained-part-one) - [Catonmat sed](https://catonmat.net/sed-one-liners-explained-part-one) - [Catonmat perl](https://catonmat.net/perl-one-liners-explained-part-one)
-- Git [Comprendre-git.com](https://comprendre-git.com)
+  + Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) 
++ Catonmat.net [Awk](https://catonmat.net/awk-one-liners-explained-part-one) - [Bash](https://catonmat.net/bash-one-liners-explained-part-one) - [Sed](https://catonmat.net/sed-one-liners-explained-part-one) - [Perl](https://catonmat.net/perl-one-liners-explained-part-one)
++ Git [Comprendre-git.com](https://comprendre-git.com)
 
-+ Linux [Baeldung.com](https://www.baeldung.com/linux) - [CmdChallenge.com](https://cmdchallenge.com) - [Guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfG.org](https://www.geeksforgeeks.org/linux-tutorial) - [GSA Adv - gitlab.mbb.cnrs.fr](https://gitlab.mbb.cnrs.fr/f/site/form1/ttext) -[Labex.io](https://labex.io/skilltrees/linux) - [Linux.org](https://www.linux.org/forums/#linux-tutorials.122) -  [Linuxtrainingacademy](https://www.linuxtrainingacademy.com) - [Tuxcademy.org](https://www.tuxcademy.org/product/grd2)
++ Linux [Baeldung.com](https://www.baeldung.com/linux) - [Guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfG.org](https://www.geeksforgeeks.org/linux-tutorial) - [Labex.io](https://labex.io/skilltrees/linux) - [TutorialsPoint.com](https://www.tutorialspoint.com/unix/index.htm)
 
 Vim  
 + Vim [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference) - [LearnVim irian.to](https://learnvim.irian.to) - [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Vimcasts.org](http://vimcasts.org)

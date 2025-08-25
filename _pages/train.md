@@ -10,13 +10,16 @@ permalink: /train/
 ## <center>TRAIN</center>
 ---
 
-* Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) 
-* Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) - [Hackthebox.com](https://www.hackthebox.com) 
-
-* Tech [Google.com learn](https://developers.google.com/learn) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [Guru99.com](https://www.guru99.com) - [W3Schools](https://www.w3schools.com)
-* TutorialPoints ([Big Data](https://www.tutorialspoint.com/big_data_tutorials.htm) - [Database](https://www.tutorialspoint.com/database_tutorials.htm) - [DevOps](https://www.tutorialspoint.com/devops_tutorials.htm) - [Hack](https://www.tutorialspoint.com/ethical_hacking) - [Management](https://www.tutorialspoint.com/management_tutorials.htm) - [Programming](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [Web](https://www.tutorialspoint.com/web_development_tutorials.htm))
+Tutorial
+* Dev [Learn (google.com)](https://developers.google.com/learn) - [Grafikart.fr](https://grafikart.fr/tutoriels) - [Dev (mozilla.org)](https://developer.mozilla.org/fr/docs/Learn_web_development) - [Guru99.com](https://www.guru99.com) - [Techdevguide.withgoogle.com](https://techdevguide.withgoogle.com) - [W3Schools](https://www.w3schools.com)
+* TutorialsPoint ([Big Data](https://www.tutorialspoint.com/big_data_tutorials.htm) - [Database](https://www.tutorialspoint.com/database_tutorials.htm) - [DevOps](https://www.tutorialspoint.com/devops_tutorials.htm) - [Hack](https://www.tutorialspoint.com/ethical_hacking) - [Management](https://www.tutorialspoint.com/management_tutorials.htm) - [Programming](https://www.tutorialspoint.com/computer_programming_tutorials.htm) - [Web](https://www.tutorialspoint.com/web_development_tutorials.htm))
   
-* Quizz: [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
+Train
+* Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com) 
+* Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) 
+
+Quizz
+- [Cylmat/Quizz web](https://github.com/cylmat/docs/blob/main/quizz_tech_web.md)
 
 
 ### <center>Algorithms</center> 

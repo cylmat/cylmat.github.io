@@ -65,12 +65,12 @@ Ops
 
 ### <center>Playgrounds</center> 
 
-- Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [Rextester.com](https://rextester.com) - [Codapi.org](https://codapi.org)  
+- Ide: [Replit.com](https://replit.com/~) - [Onecompiler.com](https://onecompiler.com) - [Rextester.com](https://rextester.com) - [Codapi.org](https://codapi.org)
+  + [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev) 
+- Lang: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) 
 
 Dev  
 * Css: [CssDeck](https://cssdeck.com/) - [Playcode.io](https://playcode.io/css) - [Sassmeister](https://www.sassmeister.com) 
-* Dev: [OneCompiler.com](https://onecompiler.com) - [Paiza.io](https://paiza.io/en) - [Programiz.com](https://www.programiz.com/python-programming/online-compiler) - [Tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm) 
-* Ide others : [Github Codespace](https://github.com/codespaces) - [Paiza.cloud](https://paiza.cloud) - [VScode.dev](https://vscode.dev)
 * Java: [Dev.java](https://dev.java/playground) 
 * Javascript: [Onecompiler.com](https://onecompiler.com/javascript) - [HtmlCssJs](https://html-css-js.com) - [JsFiddle.net](https://jsfiddle.net) - [RunJs](https://runjs.co) - [BabylonJs](https://playground.babylonjs.com) - [Mozilla.org](https://developer.mozilla.org/en-US/play) - [JsComplete.com](https://jscomplete.com/playground) - [JsPlayground](https://www.jsplayground.dev) 
 * React: [Playcode.io](https://playcode.io/react) - [CodeSandbox.io](https://codesandbox.io/s) 

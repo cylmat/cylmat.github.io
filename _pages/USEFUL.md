@@ -117,8 +117,8 @@ Shell
 * [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - [Zellij.dev](https://zellij.dev) 
 
 Tools 
-* Tools [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [Devtoys.app](https://devtoys.app) - [It-tools.tech](https://it-tools.tech)   
-* Toys [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Dev-box](https://www.dev-box.app)   
+* Tools [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [It-tools.tech](https://it-tools.tech)   
+* Toys [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Devtoys.app](https://devtoys.app) 
 - Api [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) 
 - Apps [Opensourcealternative.to](https://www.opensourcealternative.to)  
 

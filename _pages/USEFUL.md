@@ -12,7 +12,7 @@ permalink: /useful/
 
 Ai  
 
-[ChatGPT](https://chatgpt.com) - [Claude.ai](https://claude.ai) - [Gemini](https://gemini.google.com) ([G-AiStudio](https://aistudio.google.com))- [Mistral.ai](https://mistral.ai) - [Perplexity.ai](https://www.perplexity.ai)  
+[ChatGPT](https://chatgpt.com) - [Claude.ai](https://claude.ai) - [Gemini](https://gemini.google.com) ([G-AiStudio](https://aistudio.google.com)) - [Mistral.ai](https://mistral.ai) - [Perplexity.ai](https://www.perplexity.ai)  
 
 Cheatsheets
 

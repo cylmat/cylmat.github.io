@@ -118,7 +118,7 @@ Shell
 
 Tools 
 * Tools [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [It-tools.tech](https://it-tools.tech)   
-* Toys [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) - [Devtoys.app](https://devtoys.app) 
+* Toys [Windows Powertoys](https://learn.microsoft.com/en-us/windows/powertoys) 
 - Api [Jsonplaceholder](https://jsonplaceholder.typicode.com/users) - [Opendatasoft](https://data.opendatasoft.com/api/explore/v2.1/console) 
 - Apps [Opensourcealternative.to](https://www.opensourcealternative.to)  
 

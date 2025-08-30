@@ -95,7 +95,9 @@ Development
 * [Visual Studio.com](https://code.visualstudio.com/docs) - [Intelephense.com](https://intelephense.com)  
 
 Front  
-* [GetBootstrap.com](https://getbootstrap.com/docs) - [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptlang.org](https://www.typescriptlang.org/docs)
+* [GetBootstrap.com](https://getbootstrap.com/docs) - [Tailwindcss.com](https://tailwindcss.com)
+*
+* [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptLang.org](https://www.typescriptlang.org/docs)
 * [React.dev](https://react.dev) - [Vuejs](https://vuejs.org)
 *
 * [CreateJs.org](https://create-project.js.org) - [NextJs](https://nextjs.org) - [ViteJs](https://vitejs.fr)

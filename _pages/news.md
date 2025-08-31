@@ -48,7 +48,7 @@ Newsletter
 - [Frontendfoc.us](https://frontendfoc.us)
 - [Webtoolsweekly.com](https://webtoolsweekly.com)
 
-Specific
+Specific  
 **PHP**
 - [Developpez.com (Php)](https://php.developpez.com)
 - [Php.watch](https://php.watch)

@@ -20,8 +20,8 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 ### <center>DEV</center>
 
 [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))  
-[Elevenlabs blog](https://blog.eleven-labs.com) - [Korben.info](https://korben.info)   
-[La ferme du web.net](https://www.lafermeduweb.net) - [Sitepoint.com blog](https://www.sitepoint.com/blog)  
+- [Korben.info](https://korben.info)   
+- [La ferme du web.net](https://www.lafermeduweb.net)   
 
 Blog
 - [Delicious-insights.com](https://delicious-insights.com/fr/articles-et-tutos)
@@ -31,6 +31,7 @@ Blog
 - [Ippon.fr (full)](https://blog.ippon.fr)
 - [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
 - [Refactoring.fm](https://refactoring.fm)
+- [Sitepoint.com](https://www.sitepoint.com/blog)
 - [Thevaluable.dev](https://thevaluable.dev)
 - [Tldr.tech](https://tldr.tech)
 - [Tldrsec.com](https://tldrsec.com)
@@ -46,6 +47,7 @@ Newsletter
 Specific  
 **PHP**
 - [Developpez.com (Php)](https://php.developpez.com)
+- [Elevenlabs blog](https://blog.eleven-labs.com) 
 - [Php.watch](https://php.watch)
 - [Sensiolabs.com blog](https://blog.sensiolabs.com/fr)
 - [Strangebuzz](https://www.strangebuzz.com/fr)

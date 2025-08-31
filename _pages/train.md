@@ -39,7 +39,7 @@ Dev
   + ES6 [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [W3School.net ES6](https://www.w3schools.com/js/js_es6.asp)
 * Python [Learn python](https://www.learnpython.org) - [Realpython.com](https://realpython.com) 
 * React [React.dev](https://react.dev/learn) - [TutorialsPoint.com](https://www.tutorialspoint.com/reactjs/reactjs_installation.htm)
-* Symfony [TutorialsPoint.com](https://www.tutorialspoint.com/symfony/index.htm)
+* Symfony [Eleven-labs.com](https://blog.eleven-labs.com/fr/categories/tutorial) - [TutorialsPoint.com](https://www.tutorialspoint.com/symfony/index.htm)
 
 Database  
 * Doctrine [Doctrine-project.org](https://www.doctrine-project.org)

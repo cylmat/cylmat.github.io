@@ -20,16 +20,16 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 ### <center>DEV</center>
 
 [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))  
-- [Korben.info](https://korben.info)   
-- [La ferme du web.net](https://www.lafermeduweb.net)   
+- [Korben.info](https://korben.info)     
 
-Blog
+General
 - [Delicious-insights.com](https://delicious-insights.com/fr/articles-et-tutos)
 - [Dev.to](https://dev.to)
 - [Devconnected.com](https://devconnected.com)
 - [Grafikart.fr blog](https://grafikart.fr/blog)
 - [Ippon.fr (full)](https://blog.ippon.fr)
 - [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
+- [La ferme du web.net](https://www.lafermeduweb.net) 
 - [Refactoring.fm](https://refactoring.fm)
 - [Sitepoint.com](https://www.sitepoint.com/blog)
 - [Thevaluable.dev](https://thevaluable.dev)

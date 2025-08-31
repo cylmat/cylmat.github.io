@@ -75,10 +75,11 @@ Specific
   
 ### <center>CULTURE</center>
 
-- [Autojournal](https://www.autojournal.fr)
+- [Autojournal.fr](https://www.autojournal.fr)
 - [L'Argus.fr](https://www.largus.fr/actualite-automobile/economie)
-- [L'Histoire.fr](https://www.lhistoire.fr)
 - [Encyclopédia Universalis.fr](https://www.universalis.fr)
+- [Geo.fr](https://www.geo.fr)
+- [L'Histoire.fr](https://www.lhistoire.fr)
 - [LaCultureGénérale.com](https://www.laculturegenerale.com)
 - [Vie-publique.fr](https://www.vie-publique.fr)
 

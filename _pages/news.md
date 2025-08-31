@@ -30,7 +30,6 @@ Blog
 - [Grafikart.fr blog](https://grafikart.fr/blog)
 - [Ippon.fr (full)](https://blog.ippon.fr)
 - [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
-- [Programmingly.dev (JS)](https://programmingly.dev)
 - [Refactoring.fm](https://refactoring.fm)
 - [Thevaluable.dev](https://thevaluable.dev)
 - [Tldr.tech](https://tldr.tech)
@@ -56,6 +55,7 @@ Specific
 
 **JS**
 + [Developpez.com (Js)](https://javascript.developpez.com)
++ [Programmingly.dev (JS)](https://programmingly.dev)
 + [ThisWeekInReact.com](https://thisweekinreact.com/articles)
 
 **Misc**

@@ -35,7 +35,6 @@ General
 - [Sitepoint.com](https://www.sitepoint.com/blog)
 - [Thevaluable.dev](https://thevaluable.dev)
 - [Tldr.tech](https://tldr.tech)
-- [Tldrsec.com](https://tldrsec.com)
 
 + [Daily.dev](https://daily.dev) - [Medium.com](https://medium.com)
 

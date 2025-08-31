@@ -12,15 +12,15 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 
 ### <center>Web & Tech</center>
 
-- [Journal du geek](https://www.journaldugeek.com/category/sur-le-web) - [Journal du net](https://www.journaldunet.com/web-tech)   
-- [Le Monde Informatique](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [ZdNet](https://www.zdnet.fr/actualites/php-4000000130q.htm)
+[Journal du geek](https://www.journaldugeek.com/category/sur-le-web) - [Journal du net](https://www.journaldunet.com/web-tech)   
+[Le Monde Informatique](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [ZdNet](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 
 ---
 
 ### <center>DEV</center>
 
-- [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))  
-- [Elevenlabs blog](https://blog.eleven-labs.com) - [Korben.info](https://korben.info) 
+[Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))  
+[Elevenlabs blog](https://blog.eleven-labs.com) - [Korben.info](https://korben.info)   
 - [La ferme du web.net](https://www.lafermeduweb.net) - [Sitepoint.com blog](https://www.sitepoint.com/blog)  
 
 Blog

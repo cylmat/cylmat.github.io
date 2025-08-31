@@ -21,7 +21,7 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 
 [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))  
 [Elevenlabs blog](https://blog.eleven-labs.com) - [Korben.info](https://korben.info)   
-- [La ferme du web.net](https://www.lafermeduweb.net) - [Sitepoint.com blog](https://www.sitepoint.com/blog)  
+[La ferme du web.net](https://www.lafermeduweb.net) - [Sitepoint.com blog](https://www.sitepoint.com/blog)  
 
 Blog
 - [Delicious-insights.com](https://delicious-insights.com/fr/articles-et-tutos)

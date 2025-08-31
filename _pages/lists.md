@@ -20,13 +20,13 @@ permalink: /lists/
 
 - [Modèles de Voiture - voiturefacile.fr](https://voiturefacile.fr/marques)
 - [Paris - monumentsdeparis.net](http://monumentsdeparis.net)
-- [Patrimoine - Unesco.org](https://whc.unesco.org/fr/list)
-- [Statistiques - Insee.fr](https://www.insee.fr)
+- [Patrimoine - unesco.org](https://whc.unesco.org/fr/list)
+- [Statistiques - insee.fr](https://www.insee.fr)
 
 ## Finance
 
 - [CAC40 - boursier.com](https://www.boursier.com/indices/composition/cac-40-FR0003500008,FR.html)
-- [Crypto.com](https://crypto.com/price)
+- [Classements divers - forbes.fr](https://www.forbes.fr/classements)
+- [Crypto - crypto.com](https://crypto.com/price)
 - [ETF - marketwatch.com](https://www.marketwatch.com/tools/top-25-etfs)
-- [Forbes - Classement](https://www.forbes.fr/classements)
 - [Fortune500 - wikipedia.org](https://fr.m.wikipedia.org/wiki/Fortune_Global_500)

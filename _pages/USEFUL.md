@@ -104,22 +104,24 @@ Front
 * [RollupJs.org](https://rollupjs.org) - [Webpack.js](https://webpack.js.org) 
 
 Model  
-* [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) -  
+* [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) 
 * [Markdownguide.org](https://www.markdownguide.org) - [Mermaid.js](https://mermaid.js.org) - [Yaml.org](https://yaml.org)
 
 Project 
-- [Wordreference.com](https://www.wordreference.com/fr) - [Draw.io](https://draw.io)
+- Model [Draw.io](https://draw.io) - [Wordreference.com](https://www.wordreference.com/fr) 
 - Share code [Codefile.io](https://codefile.io) - [Framapad.org](https://hebdo.framapad.org)
 - Rest [Insomnia.rest](https://insomnia.rest) - [Postman.com](https://www.postman.com)   
 
 Server & Security  
-* [Alpine](https://www.alpinelinux.org) - [Ansible.com](https://www.ansible.com) - [Apache.org](https://httpd.apache.org) - [Docker.com](https://docs.docker.com) - [Helm](https://helm.sh) - [K8s](https://kubernetes.io) - [Nginx.com](https://docs.nginx.com) - [NixOs](https://nixos.org) - 
-* Suite [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org) -
+* Container [Docker.com](https://docs.docker.com) - [Helm](https://helm.sh) - [K8s](https://kubernetes.io)
+* Provision [Ansible.com](https://www.ansible.com) - [Puppet](https://www.puppet.com)
+* Server [Alpine](https://www.alpinelinux.org) - [Apache.org](https://httpd.apache.org) - [Nginx.com](https://docs.nginx.com) 
+* Suite [BurpSuite.net](https://portswigger.net/burp) - [Wireshark.org](https://www.wireshark.org) 
 
-Shell
-* [NuShell](https://nushell.sh) - [Zsh](https://zsh.sourceforge.io/Doc) - [Zsh guide](https://zsh.sourceforge.io/Guide)
-* [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev)  
-* [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - [Zellij.dev](https://zellij.dev) 
+Terminal
+* Shell [NixOs](https://nixos.org) - [NuShell](https://nushell.sh) - [Zsh](https://zsh.sourceforge.io/Doc) ([Zsh guide](https://zsh.sourceforge.io/Guide))
+* Prompt [Starship](https://starship.rs) - [OhMyPosh](https://ohmyposh.dev)  
+* Screen [Tmux](https://doc.ubuntu-fr.org/tmux) - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - [Zellij.dev](https://zellij.dev) 
 
 Tools 
 * Tools [Coderstoolbox](https://coderstoolbox.online) - [CyberChef](https://gchq.github.io/CyberChef) - [It-tools.tech](https://it-tools.tech)   

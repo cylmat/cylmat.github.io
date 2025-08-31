@@ -12,7 +12,7 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 
 ### <center>Web & Tech</center>
 
-- [Journal du geek / Web](https://www.journaldugeek.com/category/sur-le-web) - [Journal du net / Web](https://www.journaldunet.com/web-tech) - [Le Monde Informatique / Web](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [ZdNet](https://www.zdnet.fr) ([Php](https://www.zdnet.fr/actualites/php-4000000130q.htm))
+- [Journal du geek](https://www.journaldugeek.com/category/sur-le-web) - [Journal du net](https://www.journaldunet.com/web-tech) - [Le Monde Informatique](https://www.lemondeinformatique.fr/internet-et-e-business-11.html) - [ZdNet](https://www.zdnet.fr/actualites/php-4000000130q.htm)
 
 ---
 

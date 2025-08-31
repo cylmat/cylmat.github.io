@@ -29,4 +29,4 @@ permalink: /lists/
 - [Classements divers - forbes.fr](https://www.forbes.fr/classements)
 - [Crypto - crypto.com](https://crypto.com/price)
 - [ETF - marketwatch.com](https://www.marketwatch.com/tools/top-25-etfs)
-- [Fortune500 - wikipedia.org](https://fr.m.wikipedia.org/wiki/Fortune_Global_500)
+- [Fortune 500 - wikipedia.org](https://fr.m.wikipedia.org/wiki/Fortune_Global_500)

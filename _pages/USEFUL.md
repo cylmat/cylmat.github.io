@@ -133,6 +133,6 @@ Tools
 
 Cheats & docs 
 
-* [Cylmat/Cheats](https://github.com/cylmat/cheats) ([GIT](https://github.com/cylmat/cheats/blob/main/GIT-cheats.md) - [GSA](https://github.com/cylmat/cheats/blob/main/GSA-cheats.md) - [VIM](https://github.com/cylmat/cheats/blob/main/VIM-cheats.md)) - [Cylmat/Docs](https://github.com/cylmat/docs) - [Cylmat/Install](https://github.com/cylmat/docs/tree/main/install) 
+* [Cylmat/Cheats](https://github.com/cylmat/cheats) ([GIT](https://github.com/cylmat/cheats/blob/main/GIT-cheats.md) - [GSA](https://github.com/cylmat/cheats/blob/main/GSA-cheats.md) - [VIM](https://github.com/cylmat/cheats/blob/main/VIM-cheats.md)) - [Cylmat/Docs](https://github.com/cylmat/docs) ([Install](https://github.com/cylmat/docs/tree/main/install))  
   
 * [Lists](https://cylmat.github.io/lists) - [Musics](https://cylmat.github.io/musics) - [Perso](https://cylmat.github.io/personnalite) - [Tricks](https://cylmat.github.io/tricks)

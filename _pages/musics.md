@@ -73,3 +73,5 @@ permalink: /musics/
 - [Richard Cocciante - Le Coup de soleil](https://www.youtube.com/watch?v=CIjqKL33TTE)
 - [The Buggles - Video Killed The Radio Star](https://www.youtube.com/watch?v=W8r-tXRLazs)
 
+## Zen
+- [Gayatri Mantra 1008 Times](https://www.youtube.com/watch?v=dTaChOdz0y4)

@@ -55,7 +55,7 @@ Linux
 + Linux [Baeldung.com](https://www.baeldung.com/linux) - [Guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfG.org](https://www.geeksforgeeks.org/linux-tutorial) - [Labex.io](https://labex.io/skilltrees/linux) - [TutorialsPoint.com](https://www.tutorialspoint.com/unix/index.htm)
 
 Vim  
-+ Vim [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference) - [LearnVim irian.to](https://learnvim.irian.to) - [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Vimcasts.org](http://vimcasts.org)
++ Vim [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference) - [LearnVim irian.to](https://learnvim.irian.to) - [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Vimcasts.org](http://vimcasts.org) - [Vimtricks.com](https://vimtricks.com)
  
 Ops
 + DevOps [Devopssec.fr](https://devopssec.fr) - [Labex.io](https://labex.io/skilltrees/devops)

@@ -46,6 +46,8 @@ Newsletter
 - [Webtoolsweekly.com](https://webtoolsweekly.com)
 
 Specific  
+- [ActuIA](https://www.actuia.com]
+
 **PHP**
 - [Developpez.com (Php)](https://php.developpez.com)
 - [Elevenlabs blog](https://blog.eleven-labs.com) 

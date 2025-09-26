@@ -96,12 +96,11 @@ Development
 
 Front  
 * [GetBootstrap.com](https://getbootstrap.com/docs) - [Tailwindcss.com](https://tailwindcss.com)
-*
 * [Jquery.com](https://api.jquery.com) - [Nodejs.org](https://nodejs.org/en/docs) - [TypeScriptLang.org](https://www.typescriptlang.org/docs)
 * [React.dev](https://react.dev) - [Vuejs](https://vuejs.org)
-*
 * [CreateJs.org](https://create-project.js.org) - [NextJs](https://nextjs.org) - [ViteJs](https://vitejs.fr)
-* [RollupJs.org](https://rollupjs.org) - [Webpack.js](https://webpack.js.org) 
+* [RollupJs.org](https://rollupjs.org) - [Webpack.js](https://webpack.js.org)
+* [Jestjs.io](https://jestjs.io)
 
 Model  
 * [GraphQL.org](https://graphql.org) - [Json.org](https://www.json.org) - [JsonApi.org](https://jsonapi.org) - [Jwt.io](https://jwt.io) - [Unicode.org](https://home.unicode.org) - [Swagger.io](https://swagger.io) 

@@ -50,6 +50,7 @@ permalink: /tricks/
 
 - https://www.youtube.com/watch?v=VZ-3UO2rbdM&list=PLpcCY6v8LngEAdhlTZf0SbQF3O3marXoo : Broad sword basics
 - https://www.youtube.com/watch?v=rzBFq2tu6HA&list=PLpcCY6v8LngEAdhlTZf0SbQF3O3marXoo : Staff basics
+- https://www.youtube.com/watch?v=u0jBFgTxCm0&list=PLf8pNFx2O8WOhwauXSoidjSCY2lKznIxh : Short staff workout
 
 Sword
 - https://www.facebook.com/shaolinsi495/videos/1285809272561218 : Double maces

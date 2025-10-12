@@ -46,6 +46,17 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=RhS9hFLQnu8 : World’s “MOST USEFUL” Knot!
 - https://www.youtube.com/watch?v=OTofaXJb3OI : 12 Beginner's Knots
 
+### Juggle
+
+Sword
+- https://www.facebook.com/shaolinsi495/videos/1285809272561218 : Double maces
+- https://www.youtube.com/watch?v=2YhCnusqiFc : YJM drills
+
+Staff
+- https://www.youtube.com/watch?v=XZn8-lO-em0 : Staff basics drills
+- https://www.youtube.com/watch?v=V4Yh3Hk2YoE : Spear form Zhi Wu Qiang
+- https://www.youtube.com/watch?v=vAp--a1GFNE : Yin shou gun 
+
 ### Magic
 
 - https://www.youtube.com/watch?v=uazjOSE9vgE : Expert Coin Magic Made Easy par David Roth

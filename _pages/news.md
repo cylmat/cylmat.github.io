@@ -30,7 +30,6 @@ General
 - [Ippon.fr (full)](https://blog.ippon.fr)
 - [Knowledgehut.com blog](https://www.knowledgehut.com/blog)
 - [Korben.info](https://korben.info)
-- [La ferme du web.net](https://www.lafermeduweb.net)
 - [Octo.com](https://blog.octo.com)
 - [Refactoring.fm](https://refactoring.fm)
 - [Sitepoint.com](https://www.sitepoint.com/blog)

@@ -48,8 +48,12 @@ permalink: /tricks/
 
 ### Juggle
 
+- https://www.youtube.com/watch?v=VZ-3UO2rbdM&list=PLpcCY6v8LngEAdhlTZf0SbQF3O3marXoo : Broad sword basics
+- https://www.youtube.com/watch?v=rzBFq2tu6HA&list=PLpcCY6v8LngEAdhlTZf0SbQF3O3marXoo : Staff basics
+
 Sword
 - https://www.facebook.com/shaolinsi495/videos/1285809272561218 : Double maces
+- https://www.youtube.com/watch?v=J9yuL9m3HuA : Broad sword form
 - https://www.youtube.com/watch?v=R1W-d4rp78A : Sword Taiji Quan
 - https://www.youtube.com/watch?v=2YhCnusqiFc : YJM drills
 

@@ -50,12 +50,18 @@ permalink: /tricks/
 
 Sword
 - https://www.facebook.com/shaolinsi495/videos/1285809272561218 : Double maces
+- https://www.youtube.com/watch?v=R1W-d4rp78A : Sword Taiji Quan
 - https://www.youtube.com/watch?v=2YhCnusqiFc : YJM drills
 
 Staff
+- https://www.youtube.com/watch?v=p3JSMH4c2c0 : Short staff basics
 - https://www.youtube.com/watch?v=XZn8-lO-em0 : Staff basics drills
+
+- https://www.youtube.com/watch?v=Tg1yhTG8X6E : Halberd form
 - https://www.youtube.com/watch?v=V4Yh3Hk2YoE : Spear form Zhi Wu Qiang
-- https://www.youtube.com/watch?v=vAp--a1GFNE : Yin shou gun 
+- https://www.youtube.com/watch?v=881GyY3JKvI : Yin-hand staff
+- https://www.youtube.com/watch?v=vAp--a1GFNE : Yin shou gun
+- https://www.youtube.com/watch?v=ohOmaAAkS3U : Qimei Cudgel (long version)
 
 ### Magic
 

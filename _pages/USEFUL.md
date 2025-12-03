@@ -37,7 +37,7 @@ Other : [expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-i
 
 - Format [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) - [Yaml (quickref.me)](https://quickref.me/yaml.html) 
 - Regex [Regexone.com](https://regexone.com) - [Regex visual build (regex101.com)](https://regex101.com) - [Regex with AI - (rgx.tools)](https://rgx.tools) - [Regular-exp.info](https://www.regular-expressions.info) 
-- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimemo (nmesnier.fr)](http://nmesnier.free.fr/vim.html) - [Vim (quickref.me)](https://quickref.me/vim) 
+- Vim [Vim rtorr.com](https://vim.rtorr.com) - [Vimemo (nmesnier.fr)](http://nmesnier.free.fr/vim.html) - [Vim (quickref.me)](https://quickref.me/vim) - [Vim.fandom.com](https://vim.fandom.com)
 
 *
 

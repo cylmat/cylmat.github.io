@@ -46,16 +46,18 @@ permalink: /musics/
 
 ## Cool
 
-- [A-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
+
 - [BENASSI BROS FEAT. SANDY - ILLUSION](https://www.youtube.com/watch?v=Hxvl6rVglLA)
 - [Bronski Beat - Smalltown Boy](https://www.youtube.com/watch?v=88sARuFu-tc)
 - [Fun. We Are Young ft. Janelle Monáe](https://www.youtube.com/watch?v=Sv6dMFF_yts)
 - [Genesis - I Can't Dance](https://www.youtube.com/watch?v=hGI2d31M7Ns)
 - [Guem percussion : le serpent](https://www.youtube.com/watch?v=uvLdJ2X7bp4)
+- [Home Free - Sea Shanty Medley](https://www.youtube.com/watch?v=lLGLUSzzuWU)
 - [Irma - I know](https://www.youtube.com/watch?v=Mus0XbaGx0M)
 - [Josef Salvat - Une Autre Saison](https://www.youtube.com/watch?v=X1yS8sDj9v4)
 - [Josef Salvat - Open Season](https://www.youtube.com/watch?v=AXiMS5XW6kA)
 - [Milky Chance - Stolen Dance](https://www.youtube.com/watch?v=iX-QaNzd-0Y)
+- [Nathan Evans - Wellerman (Sea Shanty)](https://www.youtube.com/watch?v=qP-7GNoDJ5c)
 - [Prince & The Revolution - When Doves Cry](https://www.youtube.com/watch?v=UG3VcCAlUgE)
 - [Steal My Kisses](https://www.youtube.com/watch?v=NL6dIt0CHe0)
 - [Synapson Djon Maya](https://www.youtube.com/watch?v=883J6orWHYE)
@@ -64,6 +66,7 @@ permalink: /musics/
 
 ## Oldies
 
+- [A-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
 - [Daniel Balavoine - S.O.S. d'un terrien en détresse](https://www.youtube.com/watch?v=slCipWPDdHw)
 - [Evanescence - My Immortal](https://www.youtube.com/watch?v=5anLPw0Efmo)
 - [F.R David - Words](https://www.youtube.com/watch?v=PTsSk0r_Tq8)

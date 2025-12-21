@@ -14,6 +14,7 @@ permalink: /tricks/
 
 **Salsa**
 - https://www.youtube.com/watch?v=Bbtrd9rIi2U : Comment Danser la Salsa Cubana (@kostas_markadas)
+- https://www.youtube.com/watch?v=sWZ5vO4KLYs : Danser la Salsa Cubana : 20 Passes à connaitre absolument (@kostas_markadas)
 
 **Rock**   
 - https://www.youtube.com/watch?v=jJiS71yrnyk : Découvrez votre 1er Cours de Rock débutant ! - Rock en 4 temps (Anna et Igor)

@@ -68,6 +68,8 @@ Staff
 - https://www.youtube.com/watch?v=vAp--a1GFNE : Yin shou gun
 - https://www.youtube.com/watch?v=ohOmaAAkS3U : Qimei Cudgel (long version)
 
+- https://www.youtube.com/watch?v=SxPO6nwQvxY : dart
+
 ### Magic
 
 - https://www.youtube.com/watch?v=uazjOSE9vgE : Expert Coin Magic Made Easy par David Roth

@@ -17,7 +17,7 @@ permalink: /musics/
 - [Music for Deep Meditation Tamboura](https://www.youtube.com/watch?v=Z0p-wOk1JEM)
 - [Rone - Bye Bye Macadam](https://www.youtube.com/watch?v=PyapOW31ND4)
 - [Tamburas Meditation Yoga](https://www.youtube.com/watch?v=oCJdAHo2Djw)
-- [Time - Hans Zimmer (Pen Perry Remix)](https://www.youtube.com/watch?v=CAgpsLjKmHQ )
+- [Time - Hans Zimmer (Pen Perry Remix)](https://www.youtube.com/watch?v=Gdg5HqX_vZE)
 - [Vangelis - Conquest of Paradise Extended](https://www.youtube.com/watch?v=26dlYEzOtog)
 - [WORK MUSIC - 1 heure de musique de travail ultime](https://www.youtube.com/watch?v=j8L6IvuYGOQ)
 - [@SelectedBase](https://www.youtube.com/@SelectedBase)

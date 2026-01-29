@@ -60,6 +60,7 @@ Specific
 
 **JS**
 + [Developpez.com (Js)](https://javascript.developpez.com)
++ [Developerway.com](https://www.developerway.com)
 + [Programmingly.dev (JS)](https://programmingly.dev)
 + [ThisWeekInReact.com](https://thisweekinreact.com/articles)
 

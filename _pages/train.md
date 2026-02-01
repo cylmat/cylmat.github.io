@@ -16,7 +16,7 @@ Tutorial
   
 Train
 * Golf [Code.golf](https://code.golf) - [Vimgolf.com](https://www.vimgolf.com)
-* Linux [CmdChallenge.com](https://cmdchallenge.com) 
+* Linux [CmdChallenge.com](https://cmdchallenge.com) - [Learnshell.org](https://www.learnshell.org/)
 * Secu [Root-me.org](https://www.root-me.org) - [Tryhackme.com](https://tryhackme.com) - [Portswigger.net](https://portswigger.net/web-security) 
 
 Quizz

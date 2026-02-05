@@ -19,7 +19,12 @@ permalink: /musics/
 - [Tamburas Meditation Yoga](https://www.youtube.com/watch?v=oCJdAHo2Djw)
 - [Time - Hans Zimmer (Pen Perry Remix)](https://www.youtube.com/watch?v=Gdg5HqX_vZE)
 - [Vangelis - Conquest of Paradise Extended](https://www.youtube.com/watch?v=26dlYEzOtog)
+
+Long
 - [WORK MUSIC - 1 heure de musique de travail ultime](https://www.youtube.com/watch?v=j8L6IvuYGOQ)
+- [Deep Melodic Techno & Trance Journey- Hypnotic Mix](https://www.youtube.com/watch?v=ja2x4V76oW0)
+
+Account
 - [@SelectedBase](https://www.youtube.com/@SelectedBase)
 
 

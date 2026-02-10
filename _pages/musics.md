@@ -25,9 +25,9 @@ Long
 - [Deep Melodic Techno & Trance Journey- Hypnotic Mix](https://www.youtube.com/watch?v=ja2x4V76oW0)
 
 Account
-- [@SelectedBase](https://www.youtube.com/@SelectedBase)
 - [@DeepChillMusic](https://www.youtube.com/@DeepChillMusic-01)
-- [@LumaBeatsStreet](https://www.youtube.com/@LumaBeatsStreet]
+- [@LumaBeatsStreet](https://www.youtube.com/@LumaBeatsStreet)
+- [@SelectedBase](https://www.youtube.com/@SelectedBase)
 
 
 ## House

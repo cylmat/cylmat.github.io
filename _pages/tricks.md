@@ -15,10 +15,17 @@ permalink: /tricks/
 **Salsa**
 - https://www.youtube.com/watch?v=Bbtrd9rIi2U : Comment Danser la Salsa Cubana (@kostas_markadas)
 - https://www.youtube.com/watch?v=sWZ5vO4KLYs : Danser la Salsa Cubana : 20 Passes à connaitre absolument (@kostas_markadas)
+- https://www.youtube.com/watch?v=K9jNJCZ420E : Figuras de salsa cubana - Yant y Polina
+- https://www.youtube.com/watch?v=avmT5A9U9Wo : Passes de Salsa Cubaine Débutant - Chris Paggi
 - https://www.youtube.com/watch?v=7_3QWpEYqms&list=PLGjlHYF7a_WQHOpcAHt5XtLrAxpzmS94Z&index=1 : Niveau 1 - 10 figures (@danseecubaine9130)
 - https://www.youtube.com/watch?v=Buw6rFwQ5i8&list=PLzGRdLHrtfBzxj7lKHxBye-_HB8BI4Qwt&index=1 : Intermediate Salsa Steps (@thedancedojo)
 
 **Rock**   
+- https://www.youtube.com/watch?v=zPLB2QhmXAw : 10 passes de rock en 6 temps (@kostas_markadas)
+- https://www.youtube.com/watch?v=tstpwmd5AFo : 15 Passes de Rock à Maîtriser (@kostas_markadas)
+- https://www.youtube.com/watch?v=ZAtczv8QQto : Rock en 6 temps : 27 Passes pour enflammer la Dancefloor (@kostas_markadas)
+- https://www.youtube.com/watch?v=jgleJKqBILc : Blues du rose (@philvienne)
+
 - https://www.youtube.com/watch?v=jJiS71yrnyk : Découvrez votre 1er Cours de Rock débutant ! - Rock en 4 temps (Anna et Igor)
 - https://www.youtube.com/watch?v=JV9BmSJzDwk : Apprenez le Rock en 4 Temps Facilement 
 - https://www.youtube.com/watch?v=8NRE-GX5CFY : Apprendre à danser le rock moderne 4 temps - danseuse dans les bras
@@ -125,6 +132,12 @@ Grue
 Parrot
 - https://www.youtube.com/watch?v=VkXg84FfNbI - Origami Macaw Parrot
 - https://www.youtube.com/watch?v=yMsFq5V4CpE - how to make a paper parrot
+
+### Rubik's cube
+
+- https://www.youtube.com/watch?v=IWXpkfwimo0 : Rubik's Cube: 7 Tips For An Efficient Cross (@JPerm)
+- https://www.youtube.com/watch?v=x93VB_v5ATM : Rubik's Cube: Advanced Cross Tutorial (@JPerm)
+- https://www.youtube.com/watch?v=VWwj_HaPpYI : How To Solve the Cross FASTER (@JPerm)
 
 ### Pen spinning
 

@@ -147,6 +147,11 @@ Trade
 - [Lenouveleconomiste.fr](https://www.lenouveleconomiste.fr)
 - [Reuters.com](https://www.reuters.com)
 
++ [Youtube.com@Kasper](https://www.youtube.com/@KasperTrading)
++ [Youtube.com/@YoungTraderWealthFrance](https://www.youtube.com/@YoungTraderWealthFrance)
++ [Lesformationstrading.fr](https://www.lesformationstrading.fr)
++ [Whselfinvest.fr](https://www.whselfinvest.fr/)
+
 Crypto
 - [BeIn crypto](https://fr.beincrypto.com)
 - [Cryptonaute](https://cryptonaute.fr)

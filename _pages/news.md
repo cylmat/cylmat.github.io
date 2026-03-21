@@ -133,9 +133,19 @@ E-sport
 - [Café de la bourse](https://www.cafedelabourse.com)
 - [Economie.gouv](https://www.economie.gouv.fr)  
 - [Finance pour tous](https://www.lafinancepourtous.com)
-- [Investing](https://fr.investing.com)
 - [Les Echos](https://www.lesechos.fr)  
 - [La Tribune](https://www.latribune.fr)
+
+Trade
+- -> [Bloomberg.com](https://www.bloomberg.com)
+- -> [ForexFactory.com](https://www.forexfactory.com)
+- -> [Investing.com](https://fr.investing.com)
+
+- [FinancialTimes.com](https://www.ft.com)
+- [FxEmpire](https://www.fxempire.fr)
+- [FxStreet.com](https://www.fxstreet.com)
+- [Lenouveleconomiste.fr](https://www.lenouveleconomiste.fr)
+- [Reuters.com](https://www.reuters.com)
 
 Crypto
 - [BeIn crypto](https://fr.beincrypto.com)

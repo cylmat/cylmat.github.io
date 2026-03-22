@@ -111,7 +111,7 @@ Model
 * [Markdownguide.org](https://www.markdownguide.org) - [Mermaid.js](https://mermaid.js.org) - [Yaml.org](https://yaml.org)
 
 Project 
-- Model [Draw.io](https://draw.io) - [Wordreference.com](https://www.wordreference.com/fr) 
+- Model & chart [Draw.io](https://draw.io) - [Lucidchart.com](https://www.lucidchart.com) - [Wordreference.com](https://www.wordreference.com/fr) 
 - Share code [Codefile.io](https://codefile.io) - [Framapad.org](https://hebdo.framapad.org)
 - Rest [Insomnia.rest](https://insomnia.rest) - [Postman.com](https://www.postman.com)   
 

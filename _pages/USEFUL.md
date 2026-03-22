@@ -60,13 +60,14 @@ Other : [expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-i
 * Databases [db-engines.com](https://db-engines.com/en/articles) 
 * Editor [Vim Awesome.com](https://vimawesome.com) - [Vim Help.org](https://vimhelp.org) 
 * Git [Git-scm.com](https://git-scm.com/doc) - [GitBook (alexgirard.com)](https://alexgirard.com/git-book) - [Gitflow-Trunkflow (medium.com)](https://medium.com/takima/d%C3%A9couverte-du-trunk-based-development-alternative-%C3%A0-gitflow-42f81f0a8cf1) - [Git NoBs (maciejb2k.github.io)](https://maciejb2k.github.io/no-bs-git)
-* Php [GetComposer.org](https://getcomposer.org/doc) - [PHPtheRightWay.com](https://phptherightway.com) - [PhpQA.io](https://phpqa.io) 
-* Protocol [HTTP/mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI/wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [Mercure.rocks](https://mercure.rocks) - [RESTfulapi.net](https://restfulapi.net/hateoas) 
- 
-- JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) - [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html) - [Ecmascript Darwin (medium.com)](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c)
-- Php [Migrations changelog](https://www.php.net/manual/en/doc.changelog.php) - [8](https://www.php.net/releases/8.4) - [Php.watch](https://php.watch/versions) - [PSR (php-fig.org)](https://www.php-fig.org/psr)
+* Php [GetComposer.org](https://getcomposer.org/doc) - [PHPtheRightWay.com](https://phptherightway.com) - [PhpQA.io](https://phpqa.io)
+  + [Operator precedence php.net](https://www.php.net/manual/fr/language.operators.precedence.php)
+  + [Migrations changelog](https://www.php.net/manual/en/doc.changelog.php) - [8](https://www.php.net/releases/8.4) - [Php.watch](https://php.watch/versions) - [PSR (php-fig.org)](https://www.php-fig.org/psr)
 - Symfony [BestPractice (Sym.com)](https://symfony.com/doc/current/best_practices.html) - [LivingOnTheEdge (Sym.com)](https://symfony.com/blog/category/living-on-the-edge) - [Releases (Sym.com)](https://symfony.com/releases) - [Blog Sensiolabs.com](https://blog.sensiolabs.com) - [Blog Symfony.com](https://symfony.com/blog)
 
+- JS [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) - [RequireJs.org](https://requirejs.org) - [CommonJs nodejs.org](https://nodejs.org/api/modules.html)   + [Ecmascript Darwin (medium.com)](https://medium.com/edonec/ecmascript-cheatsheet-the-darwin-theory-of-javascript-90fabc23df4c)
+  + [Operator precedence mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence) 
+- Protocol [HTTP/mozilla.org](https://developer.mozilla.org/fr/docs/Web/HTTP) - [OSI/wikipedia.org](https://fr.wikipedia.org/wiki/Mod%C3%A8le_OSI) - [Mercure.rocks](https://mercure.rocks)    + [RESTfulapi.net](https://restfulapi.net/hateoas) 
 - Web [Ref mozilla.org](https://developer.mozilla.org/fr/docs/Web) - [W3.org](https://www.w3.org)  
 
 **Project**  

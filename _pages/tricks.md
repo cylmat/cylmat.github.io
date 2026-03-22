@@ -139,6 +139,11 @@ Parrot
 - https://www.youtube.com/watch?v=x93VB_v5ATM : Rubik's Cube: Advanced Cross Tutorial (@JPerm)
 - https://www.youtube.com/watch?v=VWwj_HaPpYI : How To Solve the Cross FASTER (@JPerm)
 
++ https://www.youtube.com/watch?v=v1cIf7Yb4Kc : Advanced OH Tips - Orienting Edges in F2L
++ https://www.youtube.com/watch?v=3B_oB2YrLvk : Advanced F2L Tutorial (CFOP)
++ https://www.youtube.com/watch?v=cZFvGHPcCac : 4 F2L Tricks to Instantly Improve Your Solves
++ https://www.youtube.com/watch?v=za9RvM1bS0k : A Faster F2L Look Ahead Technique (CFOP) 
+
 ### Pen spinning
 
 - https://www.youtube.com/watch?v=Vkxe8ExJpI4 : 5 TOURS FACILES AVEC UN STYLO

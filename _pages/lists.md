@@ -31,3 +31,8 @@ permalink: /lists/
 - [Crypto - crypto.com](https://crypto.com/price)
 - [ETF - marketwatch.com](https://www.marketwatch.com/tools/top-25-etfs)
 - [Fortune 500 - wikipedia.org](https://fr.m.wikipedia.org/wiki/Fortune_Global_500)
+
+## Astro
+
+- [Signes chinois - chinoistips.com](https://chinoistips.com/signes-chinois)
+- [Signes astro - tourisme-chine.com](https://tourisme-chine.com/signes-astrologiques-chinois)

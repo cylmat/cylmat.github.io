@@ -149,8 +149,9 @@ Trade
 
 + [Youtube.com@Kasper](https://www.youtube.com/@KasperTrading)
 + [Youtube.com/@YoungTraderWealthFrance](https://www.youtube.com/@YoungTraderWealthFrance)
++ [Youtube.com/@TradingView](https://www.youtube.com/@TradingView)
 + [Lesformationstrading.fr](https://www.lesformationstrading.fr)
-+ [Whselfinvest.fr](https://www.whselfinvest.fr/)
++ [Whselfinvest.fr](https://www.whselfinvest.fr)
 
 Crypto
 - [BeIn crypto](https://fr.beincrypto.com)

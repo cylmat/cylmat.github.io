@@ -150,6 +150,7 @@ Trade
 + [Youtube.com@Kasper](https://www.youtube.com/@KasperTrading)
 + [Youtube.com/@YoungTraderWealthFrance](https://www.youtube.com/@YoungTraderWealthFrance)
 + [Youtube.com/@TradingView](https://www.youtube.com/@TradingView)
++ [Youtube.com/@Craig_percoco](https://www.youtube.com/@craig_percoco)
 + [Lesformationstrading.fr](https://www.lesformationstrading.fr)
 + [Whselfinvest.fr](https://www.whselfinvest.fr)
 

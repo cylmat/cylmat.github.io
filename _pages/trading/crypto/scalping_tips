@@ -1,0 +1,110 @@
+
+🛠 Beginner Scalping Indicator Setup
+
+Chart Timeframes
+
+1-Minute (1M) → ultra-short scalping
+
+5-Minute (5M) → slightly slower trades, good for beginners
+
+
+
+---
+
+1️⃣ Trend Indicator: EMA Crossover
+
+EMA 9 (fast) → tracks very short-term price changes
+
+EMA 21 (slow) → confirms trend direction
+
+Signal:
+
+EMA 9 crosses above EMA 21 → potential buy
+
+EMA 9 crosses below EMA 21 → potential sell
+
+
+
+
+---
+
+2️⃣ Momentum Indicator: RSI (14)
+
+Settings: 14-period
+
+Signal:
+
+RSI 40–70 → trending market, safe entry
+
+RSI > 70 → overbought → avoid buying
+
+RSI < 30 → oversold → avoid selling
+
+
+
+
+---
+
+3️⃣ Confirmation Indicator: Volume
+
+Add Volume Bars
+
+Signal: Enter trade only if volume is higher than the last 2–3 candles
+
+Confirms that price movement is supported by strong trading activity
+
+
+
+---
+
+✅ Optional Extra (for more confirmation)
+
+MACD (12,26,9) → helps confirm trend strength
+
+Bollinger Bands (20,2) → identifies overbought/oversold in volatile markets
+
+
+
+---
+
+💡 How to Use This Setup (Step-by-Step)
+
+1. Check the trend → EMA 9/21 crossover
+
+
+2. Confirm momentum → RSI in safe zone (40–70 for long trades)
+
+
+3. Check volume → enter only if volume is rising
+
+
+4. Set stop-loss → just below recent candle low (for longs) or high (for shorts)
+
+
+5. Set take-profit → start with 0.5–1% on 1M charts, 1–3% on 5M charts
+
+
+
+
+---
+
+Best Pairs to Use This Setup
+
+Bitcoin / Tether (BTC/USDT)
+
+Ethereum / Tether (ETH/USDT)
+
+Solana / Tether (SOL/USDT)
+
+
+---
+
+⚠️ Important Beginner Tips
+
+Start small: $50–$200 per trade
+
+Never chase pumps → wait for EMA + RSI + Volume alignment
+
+Avoid trading low-liquidity coins on 1M charts → spreads are too wide
+
+

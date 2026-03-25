@@ -10,12 +10,14 @@ La bougie order block fait office de résistance / support
 
 ![ob1](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob1_resistance.png)
 
-
+![ob2](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob2_bottom.png)
 
 
 Quel avantage ?
 
 Un order block, c'est un fond d'investissmeent (BlackRock, JPMorgan, WarrenBuffet) qui vient se positioner, et annonce un mouvement futur
+
+![ob3](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob3_mouvement.png)
 
 ex: 
 
@@ -28,10 +30,15 @@ Order Block 5 étoiles (rentables)
 
     Doit créer un imbalance (le haut de la bougie OB ne touche pas le bas de la 3ème bougie)
 
+![ob4](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob4_imbalance.png)
 
     Liquidité déja chassée (le prix est aimanté par ces zones)
+    
+![ob5](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob5_liquidity.png)
 
 3. OB le plus bas/haut sur le mouvement
+
+![ob6](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob6_proba.png)
 
 4. l'Order Block ne doit jamais être touché
 (sinon c'est qu'une banque a déjà ouvert un trade dessus : Mitigation block)
@@ -39,6 +46,8 @@ Order Block 5 étoiles (rentables)
 Un Mitigation Block en trading est un order block qui se forme après un échec de continuation de la structure. Les traders particuliers l'utilisent souvent pour entrer en position lors du retest de ce bloc.
 
 https://tradingeducation.fr/trading/mitigation-block
+
+![ob7](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob7_mitigation.png)
 
 5. Doit être créé sur une session volatile (session USA, EU)  et non session asiatique (rangé, plat)
 Best entre 16h et 17h (chevauchement EU / USA -> forte volatilité)

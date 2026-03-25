@@ -1,0 +1,261 @@
+All core trading concepts.  exhaustive, actionable, and relevant for crypto/forex/stocks.
+  
+🧠 1. Price & Quotes
+Concept
+	
+Description
+Bid
+	
+Highest price a buyer is willing to pay
+Ask (Offer)
+	
+Lowest price a seller is willing to accept
+Mid-price
+	
+(Bid + Ask) / 2, often used in analytics
+Spread
+	
+Ask − Bid (transaction cost for immediate execution)
+Last price
+	
+Most recent executed trade
+Open / Close / High / Low
+	
+Standard OHLC used in charts
+🏷 2. Orders & Execution
+Concept
+	
+Description
+Market order
+	
+Execute immediately at best available price
+Limit order
+	
+Execute only at a specific price or better
+Stop order
+	
+Trigger a market order when price reaches a level
+Stop-limit order
+	
+Trigger a limit order at a specified price
+Fill or Kill (FOK)
+	
+Execute immediately in full or cancel
+Immediate or Cancel (IOC)
+	
+Execute any part immediately, cancel rest
+Good till canceled (GTC)
+	
+Limit order stays until executed or canceled
+Good till date/time (GTD)
+	
+Limit order expires at a set time
+Partial fill
+	
+Only part of the order is executed
+Slippage
+	
+Difference between expected price and executed price
+Execution price
+	
+The actual price at which an order fills
+⚡ 3. Costs & Fees
+Concept
+	
+Description
+Spread
+	
+Implicit cost of buying at ask / selling at bid
+Commission / Fee
+	
+Exchange charges for each trade
+Overnight / Financing fee
+	
+For leveraged positions held overnight
+Taxes / Regulatory fees
+	
+May apply depending on jurisdiction
+🏗 4. Risk & Leverage
+Concept
+	
+Description
+Leverage / Margin
+	
+Borrowed capital to amplify positions
+Margin call
+	
+Broker asks for more collateral if losses grow
+Liquidation
+	
+Broker closes your position to prevent negative balance
+Initial margin
+	
+Required to open a leveraged position
+Maintenance margin
+	
+Minimum balance to keep the position open
+Notional value
+	
+Total value of the leveraged position
+📈 5. Market Mechanics
+Concept
+	
+Description
+Liquidity
+	
+How easily an asset can be bought/sold without moving the price
+Volatility
+	
+Measure of price fluctuations
+Order book
+	
+List of open buy/sell orders at each price
+Depth of market (DOM)
+	
+Visualization of order book levels
+Market impact
+	
+How your order moves the market
+Tick size
+	
+Minimum price increment
+Lot size / Contract size
+	
+Minimum tradeable quantity
+🔁 6. Trading Types & Strategies
+Concept
+	
+Description
+Scalping
+	
+Very short-term trades, small profits per trade
+Day trading
+	
+Buy/sell within a single trading day
+Swing trading
+	
+Holding trades for days/weeks
+Position trading
+	
+Long-term holding
+Hedging
+	
+Reduce exposure to risk using offsetting trades
+Arbitrage
+	
+Exploiting price differences across markets
+CFD
+	
+Contract for Difference – trade on price movement without owning asset
+Knock-Out / Barrier products
+	
+Leveraged product with built-in stop-loss barrier
+🔒 7. Risk Metrics & Analysis
+Concept
+	
+Description
+PnL (Profit & Loss)
+	
+Total gain or loss of a trade
+Unrealized / Realized PnL
+	
+Open vs closed positions
+Drawdown
+	
+Maximum loss from peak capital
+Sharpe ratio
+	
+Risk-adjusted return metric
+Value at Risk (VaR)
+	
+Estimated maximum loss in normal conditions
+Beta
+	
+Volatility relative to market index
+Alpha
+	
+Performance above benchmark
+🧩 8. Order Types & Advanced Features (Optional/Pro)
+Concept
+	
+Description
+Iceberg orders
+	
+Large order split into small visible chunks
+Stop-loss order
+	
+Close position to limit loss
+Take-profit order
+	
+Close position to lock profit
+Trailing stop
+	
+Stop-loss that moves with price
+Good till triggered
+	
+Like GTC but activated by condition
+Bracket orders
+	
+Entry + stop-loss + take-profit in one
+OCO (One-Cancels-Other)
+	
+Two linked orders; execution of one cancels the other
+🌐 9. Market Types / Venues
+Concept
+	
+Description
+Spot market
+	
+Buying/selling actual assets
+Futures
+	
+Contract to buy/sell at a future date
+Options
+	
+Right but not obligation to buy/sell
+CFD
+	
+Price difference contract
+Derivatives
+	
+Contracts based on underlying asset
+Exchanges
+	
+Venue for trades (Binance, Coinbase, NYSE)
+Decentralized exchanges (DEX)
+	
+On-chain trading (Uniswap, PancakeSwap)
+🔄 10. Technical Concepts for Traders
+Concept
+	
+Description
+Support / Resistance
+	
+Price levels where markets reverse
+Trend / Uptrend / Downtrend
+	
+Direction of price movement
+Volatility measures
+	
+ATR, Bollinger Bands, etc.
+Indicators
+	
+RSI, MACD, EMA, SMA
+Candlestick patterns
+	
+Doji, hammer, engulfing, etc.
+Momentum / Mean reversion
+	
+Core trading logic
+🧠 Bonus: Developer-Specific Concepts for a Trading App
+
+    Slippage simulation
+    Spread modeling
+    Order book depth simulation
+    Latency & execution simulation
+    Concurrency / race conditions for orders
+    Backtesting engine
+    Position management / portfolio PnL tracking
+    Margin & liquidation calculation engine
+
+💡 Senior tip: order book + spread + slippage + margin + liquidation 

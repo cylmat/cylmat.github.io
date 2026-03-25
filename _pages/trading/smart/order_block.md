@@ -8,7 +8,7 @@ La bougie order block fait office de résistance / support
 
     temporalité (1h, 4h, 1j peu importe)
 
-
+![ob1](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob1_resistance.png)
 
 
 

@@ -55,3 +55,7 @@ Best entre 16h et 17h (chevauchement EU / USA -> forte volatilité)
 FINAL
 
 ![ob8](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/ob8_final.png)
+
+
+sources:
+ - [@KasperTrading](https://www.youtube.com/@KasperTrading)

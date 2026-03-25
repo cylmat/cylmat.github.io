@@ -1,0 +1,84 @@
+ ------------------
+---CLAUDE :---
+------------------
+
+- Timeframe
+15min / 5min (evite 70% de faux-setups)
+
+trade le 5min (execution) dans la direction du 15min (context)
+(pk pas 1min: trop de bruit, trop de faux-breakout)
+(pk pas 15min: trop peu opportunités en < 1h, pas de micro-structures exploitables)
+
+- PAIR
+eur/usd, gbp/usd, usd/jpy (mini spread, liquidité, tendance claire, swing day sur 5min)
+
+- INFO
+
+    demander annonces économiques
+
+
+- STRATEGY
+--------order block trading (identifier dernière bougie avant mouvement -> order block institutionel)
+attend retour de prix
+entrée: rejet violent de l'OB (mèche>60% de bougie)
+stop 5/10pips au dela de l'OB
+target: prochain OB ou liquidity swap
+(edge: banques défendent cette zone)
+
+------- liquidity sweep (stop hunt)
+repère swing high/low sur 15min = concentration de stops
+prix casse le niveau de 5-15pips (fake breakout)
+entrée :reversal immediat + clôture sous niveau initial
+stop: au dela du sweep +5 pips
+target: retour vers range ou zone opposée
+edge: institutions chassent la liquidité retail avant la vrai direction
+
+----- fair value gap
+gap entre 3 bougies consécutives 5min (mèche bougie 1 ne touche pas bougie 3)
+prix zone vide = inefficience INST
+entrée : quand prix revient combler 50% du gap
+stop: au dela du gap (+3pips)
+target: continuation initiale
+edge: marché revient toujours combler le gaps intraday
+
+-------asian range breakout
+note high/low asiatique (2h-8h Paris)
+entrée: cassure range à l'ouverture Londres (8h-9h)+retest
+stop: milieu du range asiatique
+target : 1.5x taille du range
+edge: liquidité Londres explose les range asiatiques 80% du temps
+
+-------imbalance 3-drive
+3 pushs consécutifs même direction sur 5min) sans retracement > 30%
+= exhaustion INST
+entrée: reversal après 3eme push (engulfing ou pin bar)
+stop: au delà du 3éme high/low (+5pips)
+target: retour vers 1er ou 2eme push
+edge: INST prennet profits après 3eme push
+
+----- combinaison optimale
+context 15min (identifier order blocks+liquidity pool)
+execution 5min (trade FVG ou sweep )
+= alignement multi-timeframe INST 
+
+Règles spécifiques INST
+trade uniquement overlap Londres/NY (14h-17h) max volume INST
+skip si news dans 30min = flow INST imprévisible
+taille position < 1% risk
+jamais de revenge trade après stop hunting
+
+Outils
+marque manuel OB sur 15min
+note high/low Asiatique avant 8h
+surveille zone liquidité évident (double tops/double bottoms, trendlines)
+
+Pièges retails:
+
+    acheter breakout sans retest=tu ES la liquidité ;)
+    vendre sur support évident = sweep incoming
+    indicateur RSI/MACD inutile, les INST ne les utilisent pas
+
+
+Optimisation:
+combne 1 (OB) + 2 (LSw): sweep qui échoue sur OB = setup 90% win rate
+exemple: prix sweep high, rejette, ET on est sur OB baissier 15min

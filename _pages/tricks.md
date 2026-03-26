@@ -143,6 +143,7 @@ Parrot
 + https://www.youtube.com/watch?v=3B_oB2YrLvk : Advanced F2L Tutorial (CFOP)
 + https://www.youtube.com/watch?v=cZFvGHPcCac : 4 F2L Tricks to Instantly Improve Your Solves
 + https://www.youtube.com/watch?v=za9RvM1bS0k : A Faster F2L Look Ahead Technique (CFOP)
++ https://www.youtube.com/watch?v=49Izh9ZnBog : Rubik's Cube: The Art of Pseudoslotting (F2L) 
 
 - [AdvancedF2LTutorial(CFOP)@JPerm](https://www.youtube.com/watch?v=3B_oB2YrLvk&list=PLI24ciRbl8BUTnnzmJIIn3Ts_6-mKMBP7)
 

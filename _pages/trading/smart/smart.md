@@ -1,5 +1,9 @@
 # I. Smart Money
 
+```
+https://tradingeducation.fr/trading/ict-trading/
+```
+
 Le Smart Money désigne l’argent investi ou déplacé par les investisseurs institutionnels et gros acteurs du marché, comme les banques, hedge funds, ou whales (gros investisseurs).   
 L’idée clé : ces acteurs ont plus d’informations, de capitaux et d’outils que les petits traders. Leurs mouvements influencent fortement le marché.
 

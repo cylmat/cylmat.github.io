@@ -1,7 +1,9 @@
-# I. Smart Money
+# I. Smart Money / ICT
 
+ref
 ```
-https://tradingeducation.fr/trading/ict-trading/
+https://tradingeducation.fr/trading/ict-trading
+https://forextester.com/blog/fr/ict-trading
 ```
 
 Le Smart Money désigne l’argent investi ou déplacé par les investisseurs institutionnels et gros acteurs du marché, comme les banques, hedge funds, ou whales (gros investisseurs).   

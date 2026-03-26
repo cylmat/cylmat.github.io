@@ -1,4 +1,9 @@
- Identifier une zone de liquidité en trading consiste à repérer les endroits du marché où il y a beaucoup d’ordres (stop loss, ordres en attente, prises de profit). Ces zones attirent souvent le prix, car les institutions cherchent à exécuter de gros volumes.
+# zone de liquidité
+
+Identifier une zone de liquidité en trading consiste à repérer les endroits du marché   
+où il y a beaucoup d’ordres (stop loss, ordres en attente, prises de profit).  
+Ces zones attirent souvent le prix, car les institutions cherchent à exécuter de gros volumes.  
+
 Voici comment les reconnaître concrètement :
 🔍 1. Les sommets et creux évidents (liquidité externe)
 
@@ -208,3 +213,5 @@ Combine avec :
 9. guette le sweep (cassure 5-15pips)
 10 trade le reversal 
 ```
+
+(ai generated)

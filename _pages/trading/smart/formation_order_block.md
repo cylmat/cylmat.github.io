@@ -65,19 +65,6 @@ toujours être en tendance (trend is your friend)
 toujours être sous 0.5 de fibo (entre bas du marché et haut du marché)
 ```
 
-other: trader la liquidité
-```
-1 ouvre gbp/usd en 15min
-2 regarde 4-8 dernières heures
-3 marque TOUS les swing high/low avec 3+ touches
-4. marque double tops/bottoms evidents
-5. note les nombres ronds proches (.000, .500)
-6. verifie confluence : zone touche 2+ patterns ?
-7. si confluence = liquidite pool haute qualité !
-8. attend que prix approche la zone sur 5min
-9. guette le sweep (cassure 5-15pips)
-10 trade le reversal 
-```
 
 sources:
  - [@KasperTrading](https://www.youtube.com/@KasperTrading)

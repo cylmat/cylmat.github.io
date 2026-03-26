@@ -72,7 +72,33 @@ exemple : order block -> chasse à la liquidité -> continue la tendence
 
 ![sm11](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart11_trend.png)
 
+
+---
+resume de trading
+---
+
+    - trouver la structure actuelle
+        contexte global: haussier/baissier (points bas et hauts en zigzag dans une même direction)
+        session US
+        actif: gold/bitcoin (volatil)
+        TimeFrame: 1mn, 5mn 15mn 
+    - trouver les zones d'achat de vente
+        tracer son equilibrium: fibo 0/0.5/1 (de haut en bas)
+        vendre au dessus des 0.5, acheter sous les 0.5
+    - trouver/ajouter une zone clé
+        order block
+        imbalance
+        bpr (Balanced Price Range) ->  zone dans laquelle les banques rééquilibrent l'offre et la demande avant de continuer leur mouvement
+        breaker
+    - placer des objectifs de gain (placer le trade)
+    - définir les objectifs zones clés (OB, zone $$$, imbalance)
+
+
 ---
 
   @kasper
 https://www.youtube.com/watch?v=9Gt1v3NoVDQ  guide complet SMC/ICT
+
+---
+ https://www.youtube.com/watch?v=GyHwIlljj3c  Meilleure Stratégie de Trading pour les Débutants
+https://www.youtube.com/watch?v=fXxhb8alRBE  Stratégie de Trading est la plus SIMPLE et RENTABLE

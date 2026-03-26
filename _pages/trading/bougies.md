@@ -246,6 +246,6 @@ Astuce pratique :
 ref:
 [@KasperTrading](https://www.youtube.com/@KasperTrading)
 
-[all candles](https://altfins.com/wp-content/uploads/2023/11/three-black-crows-pattern-7-1536x864.png)  
+[all candles.png](https://altfins.com/wp-content/uploads/2023/11/three-black-crows-pattern-7-1536x864.png)  
 
 https://www.youtube.com/watch?v=j9Fg3PaqVmk : Candle stick  

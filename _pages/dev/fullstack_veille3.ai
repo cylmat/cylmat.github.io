@@ -1,0 +1,83 @@
+Voici les 3 ressources complémentaires pour une veille très solide en full-stack Symfony / React :   
+blogs, chaînes YouTube et repositories GitHub à suivre.   
+
+---
+ 1. Les 20 meilleurs blogs techniques (Symfony / React / architecture)
+Backend / PHP / Symfony
+Blog officiel de Symfony
+Blog de Fabien Potencier
+PHP The Right Way
+Tideways blog (performance PHP)
+Laravel News (beaucoup de bonnes pratiques PHP)
+
+React / frontend
+Blog officiel de React
+Overreacted
+Josh W Comeau Blog
+Kent C Dodds Blog
+Smashing Magazine
+
+Architecture / software engineering
+Martin Fowler Blog
+High Scalability
+Netflix Tech Blog
+Uber Engineering Blog
+Airbnb Engineering Blog
+
+Général dev
+CSS-Tricks
+Dev.to
+SitePoint
+FreeCodeCamp
+A List Apart
+
+
+---
+ 2. Les 10 meilleures chaînes YouTube pour progresser
+React / JavaScript
+Fireship
+Jack Herrington
+Web Dev Simplified
+Theo Browne
+
+Architecture / carrière dev
+Fireship Jeff Delaney
+ByteByteGo
+TechWorld with Nana
+
+Backend / fullstack
+Traversy Media
+Academind
+Ben Awad
+
+ Beaucoup de développeurs regardent 1 ou 2 vidéos techniques par semaine pour rester à jour.
+
+---
+ 3. Les repositories GitHub que beaucoup de devs suivent
+Sur GitHub, certains projets sont devenus des références.
+JavaScript / React
+React
+Next.js
+Vite
+TanStack Query
+
+Backend / architecture
+NestJS
+Symfony
+Laravel
+
+Ressources dev
+Free Programming Books
+System Design Primer
+Awesome
+
+
+---
+ Astuce utilisée par beaucoup de devs seniors
+Créer 3 dossiers de veille dans ton lecteur RSS ou bookmarks :
+Frameworks (React, Symfony)
+Architecture / system design
+Tools / DevOps
+
+Cela permet de rester à jour sans être noyé par l’information.
+

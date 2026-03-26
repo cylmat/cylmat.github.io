@@ -1,4 +1,4 @@
-
+# smart money concept
 
 *** qu'est ce que SMC
 

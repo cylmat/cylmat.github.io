@@ -97,8 +97,7 @@ resume de trading
 ---
 
   @kasper
-https://www.youtube.com/watch?v=9Gt1v3NoVDQ  guide complet SMC/ICT
+https://www.youtube.com/watch?v=9Gt1v3NoVDQ  guide complet SMC/ICT  
 
----
- https://www.youtube.com/watch?v=GyHwIlljj3c  Meilleure Stratégie de Trading pour les Débutants
-https://www.youtube.com/watch?v=fXxhb8alRBE  Stratégie de Trading est la plus SIMPLE et RENTABLE
+ https://www.youtube.com/watch?v=GyHwIlljj3c  Meilleure Stratégie de Trading pour les Débutants  
+https://www.youtube.com/watch?v=fXxhb8alRBE  Stratégie de Trading est la plus SIMPLE et RENTABLE  

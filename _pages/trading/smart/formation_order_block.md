@@ -1,4 +1,4 @@
- OB : Mouvement fortement haussier ou baissier
+# OB : Mouvement fortement haussier ou baissier
 
 Avant ce mouvement agressif : identifier la dernière bougie haussière ou baissière
 Avant mouvement descendant -> bougie haussière -> order block bearish
@@ -56,6 +56,15 @@ FINAL
 
 ![ob8](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/ob8_final.png)
 
+---
+
+**memo**
+```
+toujours OB avec imbalance
+toujours être en tendance (trend is your friend)
+toujours être sous 0.5 de fibo (entre bas du marché et haut du marché)
+
+```
 
 sources:
  - [@KasperTrading](https://www.youtube.com/@KasperTrading)

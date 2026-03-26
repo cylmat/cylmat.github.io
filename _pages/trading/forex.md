@@ -1,5 +1,10 @@
 # Strategie & méthode
 
+```
+https://www.ig.com/fr/apprendre-a-trader/ig-academy/cours-en-ligne
+https://savoirtrader.fr/fr/gagner-en-bourse/trading-information/les-bases-du-trading
+```
+
 **Methodes de trading**  
 
 Prédire les mouvements du Forex n’est jamais sûr à 100 %, mais les traders utilisent surtout trois grandes méthodes pour essayer d’anticiper les variations

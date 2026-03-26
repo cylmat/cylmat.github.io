@@ -8,9 +8,14 @@
 
     marché haussier (point haut plus hauts, points bas plus haut) et baissier
     BOS (break of structure) -> cassure / correction dans la tendance
+    
+![sm1](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart01_resistance.png)
+
+![sm2](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart02_resistance.png)
 
     ChoCh (change of structure) -> vient casser le dernier BOS
 
+![sm3](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart03_resistance.png)
  
 ! BOS et ChoCH sont fractal -> fonctionnent sur tous les intervalles de temps !
 
@@ -20,6 +25,7 @@ Si marché haussier
       -> niveau inférieur est "protégé" / haute résistance 
       -> niveau supérieur risque de "casser" 
 
+![sm4](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart04_resistance.png)
 
 Règle de SMC -> Entrer en liquidité interne -> viser le niveau de liquidité externe 
 
@@ -29,7 +35,7 @@ Règle de SMC -> Entrer en liquidité interne -> viser le niveau de liquidité e
         (bougie 2x plus grosse que la précédente)
         ou haute de la mèche précédente ne touche pas la bas de la 3ème mèche
 
-
+![sm5](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart05_resistance.png)
  
 
     order block (dernière bougie imbalance avant fort mouvement)

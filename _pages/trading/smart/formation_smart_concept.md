@@ -43,16 +43,20 @@ Règle de SMC -> Entrer en liquidité interne -> viser le niveau de liquidité e
         le mouvement doit libérer de l'imbalance
         l'OB ne doit jamais être refermé (si touché plusieurs fois, il est fragilisé)
 
-
+![sm6](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart06_resistance.png)
 
 
     FINAL multiple concepts
 
+![sm7](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart07_resistance.png)
 
 *** OTE optimal trade entry
 
     fibonacci 0 - 0.5 - 0.62 < OTE > 0.786 - 1
 
+![sm8](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart08_resistance.png)
+
+![sm9](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart09_resistance.png)
     
 *** liquidité***
 "si tu ne comprend pas la liquidité, tu es la liquidité"
@@ -60,9 +64,13 @@ Règle de SMC -> Entrer en liquidité interne -> viser le niveau de liquidité e
     "aimant" à prix
     les INST vont venir récupérer ces liquidités pour placer leurs ordres
 
-
 Les plus grosses zones : double top/bottom et trend line
+
+![sm10](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart10_resistance.png)
+
 exemple : order block -> chasse à la liquidité -> continue la tendence
+
+![sm11](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/trading/smart/image/smart11_resistance.png)
 
 ---
 

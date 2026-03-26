@@ -1,6 +1,6 @@
  bougies
 ---
-bougies : https://www.youtube.com/watch?v=j9Fg3PaqVmk
+bougies :   
 
 1. 3 soldats blancs / Les 3 corbeaux noirs "tendence" : forte pression acheteuse, début probable d’une tendance haussière solide
    (changement de direction -> hypertendance/continuation)
@@ -246,4 +246,6 @@ Astuce pratique :
 ref:
 [@KasperTrading](https://www.youtube.com/@KasperTrading)
 
-https://www.youtube.com/watch?v=j9Fg3PaqVmk : Candle stick
+[all candles](https://altfins.com/wp-content/uploads/2023/11/three-black-crows-pattern-7-1536x864.png)  
+
+https://www.youtube.com/watch?v=j9Fg3PaqVmk : Candle stick  

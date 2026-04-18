@@ -83,6 +83,7 @@ Account
 - [Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)](https://www.youtube.com/watch?v=-NRw3gdJJcc)
 - [Peter kingsbery - Only the very best](https://www.youtube.com/watch?v=cveoHrMyUDs)
 - [Richard Cocciante - Le Coup de soleil](https://www.youtube.com/watch?v=CIjqKL33TTE)
+- [Robert Palmer - Johnny and Mary](https://www.youtube.com/watch?v=7_SAMrDnXOE)
 - [The Buggles - Video Killed The Radio Star](https://www.youtube.com/watch?v=W8r-tXRLazs)
 
 ## Zen

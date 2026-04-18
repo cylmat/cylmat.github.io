@@ -49,6 +49,11 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=Dc6B14K1SZ8 : Ultimate shuffle dance tutorial. All moves
 - https://www.youtube.com/watch?v=lXHjxJ5kTzs : Footwork Creativity for Shuffling
 
+### Fitness
+
+- https://www.youtube.com/watch?v=gtXXcUBvQbg : 7 MINUTE WORKOUT | Full Body HIIT
+- https://www.youtube.com/watch?v=mmq5zZfmIws : 7 minutes (avec minuteur)
+
 ### Knots
 
 - https://www.youtube.com/watch?v=qZOmMXIGCVY : 10 Knots for Everyday Life

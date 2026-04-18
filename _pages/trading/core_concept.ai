@@ -127,6 +127,7 @@ Momentum / Mean reversion : Core trading logic
 
 💡 Senior tip: order book + spread + slippage + margin + liquidation 
 
+--------------------------------------------------------------------
 # Momentum
 
 Le momentum en trading désigne la force et la vitesse d’un mouvement de prix. Autrement dit, il répond à la question : est-ce que le prix monte (ou descend) rapidement et avec puissance, ou est-ce que le mouvement s’essouffle ?
@@ -156,4 +157,62 @@ Entrer dans une tendance forte
 Éviter les marchés sans direction  
 Repérer les essoufflements de tendance  
 Confirmer un signal d’achat ou de vente  
+
+-----------------------------------------------------------------------
+# Le stochastique (ou oscillateur stochastique) 
+est un indicateur de momentum très utilisé en trading.   
+Il permet de savoir si un actif est suracheté ou survendu, en comparant son prix actuel à sa plage de prix récente.  
+
+
+📊 Idée simple
+
+Le stochastique répond à la question :
+👉 Le prix actuel est-il proche du plus haut ou du plus bas récent ?
+
+Proche du plus haut → marché potentiellement suracheté
+
+Proche du plus bas → marché potentiellement survendu
+
+
+
+⚙️ Comment ça fonctionne
+
+L’indicateur oscille entre 0 et 100 :
+
+Au-dessus de 80 → surachat (risque de baisse)
+
+En dessous de 20 → survente (risque de hausse)
+
+
+
+🔁 Les deux lignes
+
+Le stochastique est composé de deux courbes :
+
+%K → ligne principale (rapide)
+
+%D → moyenne de %K (plus lente)
+
+
+👉 Les signaux importants :
+
+📉 Croisement à la baisse au-dessus de 80 → signal de vente
+
+📈 Croisement à la hausse sous 20 → signal d’achat
+
+
+🧠 Exemple
+
+Le stochastique est à 90 → le prix est très haut par rapport à sa récente plage → possible correction
+
+Il descend vers 10 puis remonte → opportunité d’achat potentielle
+
+
+⚠️ Important
+
+En forte tendance, le stochastique peut rester longtemps en surachat/survente
+
+Il fonctionne mieux dans les marchés sans tendance claire (range)
+
+À combiner avec d’autres outils (support/résistance, tendance)
 

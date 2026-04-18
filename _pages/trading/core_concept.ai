@@ -126,3 +126,34 @@ Momentum / Mean reversion : Core trading logic
     Margin & liquidation calculation engine
 
 💡 Senior tip: order book + spread + slippage + margin + liquidation 
+
+# Momentum
+
+Le momentum en trading désigne la force et la vitesse d’un mouvement de prix. Autrement dit, il répond à la question : est-ce que le prix monte (ou descend) rapidement et avec puissance, ou est-ce que le mouvement s’essouffle ?
+
+ Idée simple  
+Si un actif monte rapidement et régulièrement → momentum positif  
+S’il chute fortement → momentum négatif  
+S’il stagne → momentum faible  
+
+ Les traders utilisent le momentum pour suivre la tendance plutôt que la deviner.  
+
+ Exemple concret  
+Une action passe de 100€ à 120€ en quelques jours → momentum fort haussier  
+Elle monte ensuite lentement de 120€ à 122€ → momentum en perte de vitesse  
+
+ Même si le prix continue de monter, le momentum diminue, ce qui peut signaler un futur retournement.   
+
+ Indicateurs de momentum courants  
+Voici les outils les plus utilisés :  
+RSI (Relative Strength Index)→ mesure si un actif est suracheté (>70) ou survendu (<30)   
+MACD (Moving Average Convergence Divergence)→ montre les changements de momentum via des croisements  
+Stochastique→ compare le prix actuel à sa plage récente  
+
+ À quoi ça sert ?  
+Le momentum aide à :  
+Entrer dans une tendance forte  
+Éviter les marchés sans direction  
+Repérer les essoufflements de tendance  
+Confirmer un signal d’achat ou de vente  
+

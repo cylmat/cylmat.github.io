@@ -54,6 +54,7 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=gtXXcUBvQbg : 7 MINUTE WORKOUT | Full Body HIIT
 - https://www.youtube.com/watch?v=mmq5zZfmIws : 7 minutes (avec minuteur)
 
+- https://www.youtube.com/watch?v=qYmS4tOjVvg : Xing Yi Quan (Hsing I Chuan) Partnaire sparring
 - https://www.youtube.com/watch?v=fhsFRnOjZgk : IP MAN avec MBH et Sifu Didier Beddar
 
 ### Knots

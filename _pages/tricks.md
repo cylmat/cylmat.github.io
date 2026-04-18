@@ -54,6 +54,8 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=gtXXcUBvQbg : 7 MINUTE WORKOUT | Full Body HIIT
 - https://www.youtube.com/watch?v=mmq5zZfmIws : 7 minutes (avec minuteur)
 
+- https://www.youtube.com/watch?v=fhsFRnOjZgk : IP MAN avec MBH et Sifu Didier Beddar
+
 ### Knots
 
 - https://www.youtube.com/watch?v=qZOmMXIGCVY : 10 Knots for Everyday Life

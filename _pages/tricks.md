@@ -55,6 +55,7 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=mmq5zZfmIws : 7 minutes (avec minuteur)
 
 - https://www.youtube.com/watch?v=qYmS4tOjVvg : Xing Yi Quan (Hsing I Chuan) Partnaire sparring
+- https://www.youtube.com/watch?v=LpCe3t8_nDI : Xing Yi Quan: 5 Elements (Wu Xing) Destructive Partner Sequence
 - https://www.youtube.com/watch?v=fhsFRnOjZgk : WingChun avec MBH et Sifu Didier Beddar
 
 ### Knots

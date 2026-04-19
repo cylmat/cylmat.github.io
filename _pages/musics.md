@@ -79,6 +79,7 @@ Account
 - [Daniel Balavoine - S.O.S. d'un terrien en détresse](https://www.youtube.com/watch?v=slCipWPDdHw)
 - [Evanescence - My Immortal](https://www.youtube.com/watch?v=5anLPw0Efmo)
 - [F.R David - Words](https://www.youtube.com/watch?v=PTsSk0r_Tq8)
+- [Kim Wilde - Cambodia](https://www.youtube.com/watch?v=BERFZja9wb0)
 - [Jacques Higelin - Tombé du ciel](https://www.youtube.com/watch?v=TmI9SB4VDl8)
 - [Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)](https://www.youtube.com/watch?v=-NRw3gdJJcc)
 - [Peter kingsbery - Only the very best](https://www.youtube.com/watch?v=cveoHrMyUDs)

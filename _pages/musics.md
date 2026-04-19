@@ -83,6 +83,7 @@ Account
 - [Kim Wilde - Cambodia](https://www.youtube.com/watch?v=BERFZja9wb0)
 - [Jacques Higelin - Tombé du ciel](https://www.youtube.com/watch?v=TmI9SB4VDl8)
 - [Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)](https://www.youtube.com/watch?v=-NRw3gdJJcc)
+- [Joëlle Ursull - White and black blues](https://www.youtube.com/watch?v=s-H_NEdad4M)
 - [Peter kingsbery - Only the very best](https://www.youtube.com/watch?v=cveoHrMyUDs)
 - [Philippe Cataldo / Les divas du dancing](https://www.youtube.com/watch?v=dhu-KDRU2Kc)
 - [Richard Cocciante - Le Coup de soleil](https://www.youtube.com/watch?v=CIjqKL33TTE)

@@ -84,9 +84,11 @@ Account
 - [Jacques Higelin - Tombé du ciel](https://www.youtube.com/watch?v=TmI9SB4VDl8)
 - [Jisas Yu Holem Hand Blong Mi (Hans Zimmer, The Thin Red Line)](https://www.youtube.com/watch?v=-NRw3gdJJcc)
 - [Peter kingsbery - Only the very best](https://www.youtube.com/watch?v=cveoHrMyUDs)
+- [Philippe Cataldo / Les divas du dancing](https://www.youtube.com/watch?v=dhu-KDRU2Kc)
 - [Richard Cocciante - Le Coup de soleil](https://www.youtube.com/watch?v=CIjqKL33TTE)
 - [Robert Palmer - Johnny and Mary](https://www.youtube.com/watch?v=7_SAMrDnXOE)
 - [The Buggles - Video Killed The Radio Star](https://www.youtube.com/watch?v=W8r-tXRLazs)
+- [Thomas Dutronc - Le blues du rose](https://www.youtube.com/watch?v=7thdiE6729M)
 
 ## Zen
 - [Gayatri Mantra 1008 Times](https://www.youtube.com/watch?v=dTaChOdz0y4)

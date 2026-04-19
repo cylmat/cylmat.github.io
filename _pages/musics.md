@@ -75,6 +75,7 @@ Account
 
 ## Oldies
 
+- [4 Non Blondes - What's Up](https://www.youtube.com/watch?v=6NXnxTNIWkc)
 - [A-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
 - [Daniel Balavoine - S.O.S. d'un terrien en détresse](https://www.youtube.com/watch?v=slCipWPDdHw)
 - [Evanescence - My Immortal](https://www.youtube.com/watch?v=5anLPw0Efmo)

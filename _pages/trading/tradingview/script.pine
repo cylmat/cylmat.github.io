@@ -1,0 +1,325 @@
+// This Pine Script® code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+// © cycloprice
+// @version=6
+//
+// TIPS //
+//var x = 0, Initialized once (on the first bar only)
+//Then keeps its value across all bars -> persistent variable
+//x = 0, Re-initialized on every bar -> Value is reset each time
+//
+
+// === Constantes ===
+INDICATOR_NAME="MMA 20/90 Cross with SL/TP"
+BUY_ACTION='BUY'
+SELL_ACTION='SELL'
+TOKEN_API='b7f3c9e1a4d8f62c9e1b7a3d4c5f8e2a'
+ONE_DAY_MS=60*60*24*1000
+
+indicator(INDICATOR_NAME, overlay=true)
+
+// === INPUTS ===
+i_ema_length = 50 //input.int(50, "EMA Trend")
+i_rr         = 2 //input.float(2.0, "Risk Reward", step=0.1)
+i_show_boxes = true //input.bool(true, "Afficher FVG")
+
+
+
+// ======================== //
+// ======================== //
+//       Paramètres         //
+// ======================== //
+// ======================== //
+
+// === MMA ===
+mma20     = ta.sma(close, 20)
+mma90     = ta.sma(close, 90)
+
+// === EMA TREND ===
+ema = ta.ema(close, i_ema_length)
+
+// === other ===
+symbol    = syminfo.ticker
+timeframe = timeframe.main_period
+
+
+
+// ======================== //
+// ======================== //
+//     Business Rules       //
+// ======================== //
+// ======================== //
+
+
+
+bull_trend = close > ema
+bear_trend = close < ema
+
+// === FVG DETECTION ===
+bull_fvg = low[1] > high[2] and bull_trend
+bear_fvg = high[1] < low[2] and bear_trend
+
+
+// === BOUGIE ===
+body = math.abs(close - open)
+upper_wick = high - math.max(open, close)
+lower_wick = math.min(open, close) - low
+
+
+// === Croisement MMA
+mmaCrossOver      = ta.crossover(mma20, mma90) 
+mmaCrossUnder     = ta.crossunder(mma20, mma90)
+mmaOverCondition  = mma20 > mma90
+mmaUnderCondition = mma20 < mma90
+
+buyCondition = close > 1.08
+//if close > ta.sma(close, 20)
+
+
+
+
+// === STOCKAGE ZONES ===
+
+//var float bull_top = na
+//var float bull_bottom = na
+//var int bull_bar = na
+//var float bear_top = na
+//var float bear_bottom = na
+//var int bear_bar = na
+
+// Sauvegarde FVG
+//if bull_fvg
+//    bull_top := low[1]
+//    bull_bottom := high[2]
+//    bull_bar := bar_index
+//if bear_fvg
+//    bear_top := low[2]
+//    bear_bottom := high[1]
+//    bear_bar := bar_index
+
+
+
+
+// ======================== //
+// ======================== //
+//         DISPLAY          //
+// ======================== //
+// ======================== //
+
+
+// === BOX VISUELLES
+box bull_box = na
+box bear_box = na
+
+//test
+bull_bar=2
+bull_top=3
+bull_bottom=1
+bear_top=2
+bear_bar=3
+bear_bottom=1
+
+//boxBullNew = box.new(
+//    top_left=low,
+//    bottom_right=5,
+//    border_color=color.green,
+//    //bar_index,
+//   // bull_bottom, 
+//    bgcolor=color.new(color.green, 85)
+//)
+
+//var b = box.new(time, open, time + ONE_DAY_MS, close, xloc=xloc.bar_time, border_style=line.style_dashed)
+//box.set_lefttop(b, time, 100)
+//box.set_rightbottom(b, time + 60 * 60 * 24, 500)
+//box.set_bgcolor(b, color.green)
+
+var box c = na
+if barstate.islast
+    if na(c) // first call
+        c := box.new(
+            left=time,
+            top=open,
+            right=time + ONE_DAY_MS,
+            bottom=close,
+            xloc=xloc.bar_time
+        )
+    else
+        box.set_lefttop(c, time, open)
+        box.set_rightbottom(c, time + ONE_DAY_MS, close)
+
+//boxBullNew = box.new(
+//    top_left=bull_bar,
+//    bottom_right=bull_top,
+//    border_color=color.green,
+//    bar_index,
+//    bull_bottom, 
+//    bgcolor=color.new(color.green, 85)
+//)
+
+//if true
+    //if true //bull_fvg
+      //  bull_box := boxBullNew
+
+  //  if false //bear_fvg
+  //      bear_box := box.new(bear_bar, bear_top, bar_index, bear_bottom, 
+  //          bgcolor=color.new(color.red, 85), border_color=color.red)
+
+
+//plot(ema, color=color.orange)
+//plot(series=mma20, color=color.orange, title="MMA 20")
+//plot(series=mma90, color=color.blue, title="MMA 90")
+
+// === LABELS
+if false
+    if bar_index == last_bar_index // last bar
+        label.new(x=bar_index, y=high, text="Last")
+
+if bar_index == last_bar_index - 4
+    label.new(x=bar_index, y=high, text="5e")
+
+//label.new(
+//    x=bar_index,
+//    y=high,
+//    text='Y' //mmaOverCondition ? "BUY" : (mmaUnderCondition ? "SELL" : ""),
+    //color=color.yellow
+//)
+
+// === TABLE d'information
+if true
+    table t = table.new(position.middle_right, 2, 2)
+    table.cell(t, 0, 0, str.tostring(mmaUnderCondition))
+    table.cell(t, 1, 0, "B")
+    //table.cell(t, 0, 1, "C")
+    //table.cell(t, 1, 1, "D")
+
+// Global scope ! //
+
+// === CHAQUE PLOTS label
+plotshape(close > open, text="+", location=location.abovebar)
+plotshape(close < open, text="-", location=location.belowbar)
+//plotshape(buyCondition, location=location.belowbar, color=color.green)
+
+// === REMPLISSAGE 
+// Plots invisibles pour le fill
+p_mma_far       = plot(mma90, display=display.none)
+p_mma_near      = plot(mma20, display=display.none)
+color_mma_over  = mmaOverCondition ? color.new(color.orange, 80) : na
+color_mma_under = mmaUnderCondition ? color.new(color.blue, 80) : na
+
+//fill(plot1=p_mma_far, plot2=p_mma_near, color=color_mma_over)
+//fill(plot1=p_mma_far, plot2=p_mma_near, color=color_mma_under)
+
+
+// ======================== //
+// ======================== //
+//          Alert           //
+// ======================== //
+// ======================== //
+
+distance = 500
+
+alertData = '{' +
+  '"id":"' + str.tostring(time) + '",' + 
+  '"epic":"' + str.tostring(symbol) + '",' + 
+  '"direction":"' + BUY_ACTION + '",' + 
+  '"size":0.001,' +
+  '"trailingStop":false,' +
+  '"stopLevel":null,' + //str.tostring(close - distance) + ',' + 
+  '"profitLevel":null,' + //str.tostring(close - 3*distance) + ',' + 
+  '"stopDistance":' + str.tostring(distance) + ',' + 
+  '"profitDistance":' + str.tostring(3*distance) + ',' + 
+  '"stopAmount":null,' + 
+  '"profitAmount":null,' + 
+  '"strategy":"' + INDICATOR_NAME + '",' + 
+  '"exchange":"' + str.tostring(syminfo.prefix) + '",' +
+  '"price":' + str.tostring(close) + ',' +
+  '"timeframe":"' + timeframe + '",' + 
+  '"token":"' + TOKEN_API + '"' + 
+  '}'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// alert(alertData, alert.freq_once_per_bar)
+//
+//alertcondition(buy, title="BUY", message='{"action":"BUY","price":"{{close}}"}')
+
+// Paramètres de trade
+// takeProfit = input.float(1.010, "Take Profit (ex: 1.0100)")
+// stopLoss   = input.float(1.000, "Stop Loss (ex: 1.0000)")
+
+// label.new(
+//     bar_index,
+//     high,
+//     longCondition ? "BUY" : (shortCondition ? "SELL" : ""),
+//     color=color.yellow
+// )
+
+
+// Générer l'alerte
+//if (longCondition)
+   // alert('{"action":"buy","symbol":"'+syminfo.ticker+'","stop_loss":'+str.tostring(stopLoss)+',"take_profit":'+str.tostring(takeProfit)+'}', alert.freq_once_per_bar_close)
+
+//if (shortCondition)
+    //alert('{"action":"sell","symbol":"'+syminfo.ticker+'","stop_loss":'+str.tostring(stopLoss)+',"take_profit":'+str.tostring(takeProfit)+'}', alert.freq_once_per_bar_close)
+
+// plotshape(
+//     longCondition,
+//     title="Buy Signal",
+//     location=location.belowbar,
+//     color=color.green,
+//     style=shape.triangleup,
+//     size=size.small
+// )
+// plotshape(
+//     shortCondition,
+//     title="Sell Signal",
+//     location=location.abovebar,
+//     color=color.red,
+//     style=shape.triangledown,
+//     size=size.small
+// )
+
+//if close < 1.08
+//    alert('{"action":"BUY","price":' + str.tostring(close) + '}', alert.freq_once_per_bar)
+
+
+
+
+///////////////////////////
+////////// SAMPLE /////////
+///////////////////////////
+
+// if false and barstate.islast
+//    label.new(
+//        x=bar_index,
+//        y=high,
+//        text="Hello, world!",
+//        style=label.style_circle
+//    )
+
+// alertcondition
+//buy = close > ta.sma(close, 20)
+//alertcondition(buy, title="BUY", message="BUY SIGNAL")
+
+//@https://www.tradingview.com/pine-script-docs/concepts/alerts
+//@https://www.tradingview.com/pine-script-reference/v6/#fun_alert
+
+// ALERT
+// if close > ta.sma(close, 20)
+//     alert("BUY SIGNAL", alert.freq_once_per_bar)
+
+// ADV
+//if close < 1.08
+//    alert('{"action":"BUY","price":' + str.tostring(close) + '}', alert.freq_once_per_bar)
+

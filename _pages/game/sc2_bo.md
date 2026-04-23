@@ -7,7 +7,7 @@ Objectif : Produire vite des unités pour attaquer vers 4:00-5:00.
 |----|--------|
 | 14 | Pylon |
 | 16 | Gateway |
-| 17 | Assimilator + Cybernetics Core |
+| 17 | Gas + Cybernetics Core |
 | 20 | Pylon |
 | 20 | Gas 2 |
 | 22 | Warp Gate (upgrade) |

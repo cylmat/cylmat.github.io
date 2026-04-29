@@ -55,7 +55,6 @@ Account
 
 ## Cool
 
-
 - [BENASSI BROS FEAT. SANDY - ILLUSION](https://www.youtube.com/watch?v=Hxvl6rVglLA)
 - [Bronski Beat - Smalltown Boy](https://www.youtube.com/watch?v=88sARuFu-tc)
 - [Fun. We Are Young ft. Janelle Monáe](https://www.youtube.com/watch?v=Sv6dMFF_yts)
@@ -95,5 +94,7 @@ Account
 - [Thomas Dutronc - Le blues du rose](https://www.youtube.com/watch?v=7thdiE6729M)
 
 ## Zen
-- [Gayatri Mantra 1008 Times](https://www.youtube.com/watch?v=dTaChOdz0y4)
+
 - [Ensemble vocal l'Alliance](https://www.youtube.com/channel/UCYUIEdwrD4beCiTzXUruE9Q)
+- [Gayatri Mantra 1008 Times](https://www.youtube.com/watch?v=dTaChOdz0y4)
+- [Om Mani Padme Hum | Meditative Sound of Buddhist](https://www.youtube.com/watch?v=mvBLSJWk6HE)

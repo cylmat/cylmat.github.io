@@ -2,6 +2,7 @@
 
 ref:
 - https://learningsc2.com/category/protoss-strategy-and-tactics
+- https://osirissc2guide.com/starcraft-2-4-gate-build-order.html
 
 **mini guides ultra simples** pour chaque build order, adaptés aux débutants (niveau bronze/argent). 
 

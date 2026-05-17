@@ -1,3 +1,8 @@
+SC2
+
+ref:
+- https://learningsc2.com/category/protoss-strategy-and-tactics
+
 **mini guides ultra simples** pour chaque build order, adaptés aux débutants (niveau bronze/argent). 
 
 ## Protoss : 4 Gateway (agressif)

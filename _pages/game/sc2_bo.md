@@ -1,4 +1,4 @@
-SC2
+# SC2
 
 ref:
 - https://learningsc2.com/category/protoss-strategy-and-tactics

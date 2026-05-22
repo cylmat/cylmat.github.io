@@ -17,6 +17,7 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=sWZ5vO4KLYs : Danser la Salsa Cubana : 20 Passes à connaitre absolument (@kostas_markadas)
 - https://www.youtube.com/watch?v=OxKFxBsQZbg : Salsa Moves Every Beginner Should Know (@danielrosas.official)
 - https://www.youtube.com/watch?v=ahPSa7dYofA : Salsa Basics for Beginners (@danielrosas.official)
+- https://www.youtube.com/watch?v=S6GA3rrcCd0 : 10 Salsa Beginner Basic Combos (@danielrosas.official)
 - https://www.youtube.com/watch?v=K9jNJCZ420E : Figuras de salsa cubana - Yant y Polina
 - https://www.youtube.com/watch?v=avmT5A9U9Wo : Passes de Salsa Cubaine Débutant - Chris Paggi
 - https://www.youtube.com/watch?v=7_3QWpEYqms&list=PLGjlHYF7a_WQHOpcAHt5XtLrAxpzmS94Z&index=1 : Niveau 1 - 10 figures (@danseecubaine9130)

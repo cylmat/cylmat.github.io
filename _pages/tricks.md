@@ -13,8 +13,11 @@ permalink: /tricks/
 ### Danse 
 
 **Salsa**
+- https://www.youtube.com/watch?v=wxgxSYZqqiw : The Best Salsa Song for Beginners - With Counting 123 567
+- 
 - https://www.youtube.com/watch?v=Bbtrd9rIi2U : Comment Danser la Salsa Cubana (@kostas_markadas)
 - https://www.youtube.com/watch?v=sWZ5vO4KLYs : Danser la Salsa Cubana : 20 Passes à connaitre absolument (@kostas_markadas)
+- https://www.youtube.com/watch?v=msTvxf1cxuc : 15 Cuban Basic Figures for Beginner (@danielrosas.official)
 - https://www.youtube.com/watch?v=ahPSa7dYofA : Salsa Basics for Beginners (@danielrosas.official)
 - https://www.youtube.com/watch?v=OxKFxBsQZbg : Salsa Moves Every Beginner Should Know (@danielrosas.official)
 - https://www.youtube.com/watch?v=S6GA3rrcCd0 : 10 Salsa Beginner Basic Combos (@danielrosas.official)

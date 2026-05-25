@@ -41,11 +41,14 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=ZAtczv8QQto : Rock en 6 temps : 27 Passes pour enflammer la Dancefloor (@kostas_markadas)
 - https://www.youtube.com/watch?v=jgleJKqBILc : Blues du rose (@philvienne)
 
+- 4
 - https://www.youtube.com/watch?v=jJiS71yrnyk : Découvrez votre 1er Cours de Rock débutant ! - Rock en 4 temps (Anna et Igor)
+- https://www.youtube.com/watch?v=ykGVyIiIBB8 : Passes de Rock 4 Temps - INSA Rennes
 - https://www.youtube.com/watch?v=JV9BmSJzDwk : Apprenez le Rock en 4 Temps Facilement 
 - https://www.youtube.com/watch?v=8NRE-GX5CFY : Apprendre à danser le rock moderne 4 temps - danseuse dans les bras
 - https://www.youtube.com/watch?v=Oj6kJoizxnQ : (SAMPLE) Danse rock 4 temps - Passion 4 temps
 - https://www.youtube.com/watch?v=KEvm3n0ObNI : rock 4 temps avec passes acrobatiques
+- https://www.youtube.com/watch?v=4rkOwRvRY8I : Démo de Rock 4 Temps en impro - Alice & Cédric
 
 - https://www.youtube.com/watch?v=2_TYi4RsdzA : Igor quickstep
 - https://www.youtube.com/watch?v=oZFU3ShLvL0 : Igor Passe de rock visage

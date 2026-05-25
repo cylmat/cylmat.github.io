@@ -26,6 +26,11 @@ permalink: /tricks/
 - https://www.youtube.com/watch?v=7_3QWpEYqms&list=PLGjlHYF7a_WQHOpcAHt5XtLrAxpzmS94Z&index=1 : Niveau 1 - 10 figures (@danseecubaine9130)
 - https://www.youtube.com/watch?v=Buw6rFwQ5i8&list=PLzGRdLHrtfBzxj7lKHxBye-_HB8BI4Qwt&index=1 : Intermediate Salsa Steps (@thedancedojo)
 
+**Bachata**
+- https://www.youtube.com/watch?v=oj-S6T4oZeU : 25 beginner Bachata moves you must know (@RobertoyMagdalena)
+- https://www.youtube.com/watch?v=fSvr8GThrnU : 8 Bachata Turns For The Party (@RobertoyMagdalena)
+- https://www.youtube.com/watch?v=XfWSKuzRVCM : 10 vueltas de BACHATA para las fiestas (ES)
+
 **Rock**   
 - https://www.youtube.com/watch?v=zPLB2QhmXAw : 10 passes de rock en 6 temps (@kostas_markadas)
 - https://www.youtube.com/watch?v=tstpwmd5AFo : 15 Passes de Rock à Maîtriser (@kostas_markadas)

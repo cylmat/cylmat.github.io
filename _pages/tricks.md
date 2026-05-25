@@ -29,6 +29,7 @@ permalink: /tricks/
 
 **Bachata**
 - https://www.youtube.com/watch?v=2T6YMokSM68 : Bachata Mix 2020
+- https://www.youtube.com/watch?v=dsLjyLn859g : Chayanne - Bailando Bachata
 - 
 - https://www.youtube.com/watch?v=oj-S6T4oZeU : 25 beginner Bachata moves you must know (@RobertoyMagdalena)
 - https://www.youtube.com/watch?v=fSvr8GThrnU : 8 Bachata Turns For The Party (@RobertoyMagdalena)

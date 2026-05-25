@@ -13,6 +13,7 @@ permalink: /tricks/
 ### Danse 
 
 **Salsa**
+- https://www.youtube.com/watch?v=ZMkCD-0r1aY : Salsa Mix 2026
 - https://www.youtube.com/watch?v=wxgxSYZqqiw : The Best Salsa Song for Beginners - With Counting 123 567
 - 
 - https://www.youtube.com/watch?v=Bbtrd9rIi2U : Comment Danser la Salsa Cubana (@kostas_markadas)

@@ -34,6 +34,7 @@ General
 - [Octo.com](https://blog.octo.com)
 - [Refactoring.fm](https://refactoring.fm)
 - [Sitepoint.com](https://www.sitepoint.com/blog)
+- [Solutions-numeriques.com](https://www.solutions-numeriques.com)
 - [Thevaluable.dev](https://thevaluable.dev)
 - [Tldr.tech](https://tldr.tech)
 

@@ -6,29 +6,29 @@ Avec trois dés à six faces, il y a 216 combinaisons possibles (6 × 6 × 6).
 ## Les trois dés
 
 Dé 1 : Le Domaine
-1 : Le soi (identité, santé, développement personnel)
-2 : Les relations (amour, famille, amis)
-3 : Le travail et les projets
-4 : Les ressources (argent, biens, sécurité)
-5 : Les défis et les changements
-6 : La voie spirituelle et le sens
+* 1 : Le soi (identité, santé, développement personnel)
+* 2 : Les relations (amour, famille, amis)
+* 3 : Le travail et les projets
+* 4 : Les ressources (argent, biens, sécurité)
+* 5 : Les défis et les changements
+* 6 : La voie spirituelle et le sens
 
 
 Dé 2 : La Force en présence
-1 : Début
-2 : Coopération
-3 : Expansion
-4 : Stabilité
-5 : Conflit ou épreuve
-6 : Accomplissement
+* 1 : Début
+* 2 : Coopération
+* 3 : Expansion
+* 4 : Stabilité
+* 5 : Conflit ou épreuve
+* 6 : Accomplissement
 
 Dé 3 : Le Conseil
-1 : Observer
-2 : Patienter
-3 : Agir
-4 : Communiquer
-5 : Lâcher prise
-6 : Transformer
+* 1 : Observer
+* 2 : Patienter
+* 3 : Agir
+* 4 : Communiquer
+* 5 : Lâcher prise
+* 6 : Transformer
 
 
 ## Chaque combinaison reçoit une interprétation unique.

@@ -34,7 +34,7 @@ Quizz
 ### <center>Tutos</center>
 
 Dev
-* JS [JavaScriptTuto.net](https://www.javascripttutorial.net) - [Javascript.info](https://fr.javascript.info) - [W3School.net JS](https://www.w3schools.com/js)
+* JS [JavaScriptTutorial.net](https://www.javascripttutorial.net) - [Javascript.info](https://fr.javascript.info) - [W3School.net JS](https://www.w3schools.com/js)
   + TS [TypescriptLang.org](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - [TypeScriptTuto.net](https://www.typescripttutorial.net)
   + ES6 [JavaScriptTuto.net ES6](https://www.javascripttutorial.net/es6) - [W3School.net ES6](https://www.w3schools.com/js/js_es6.asp)
 * Python [Learn python](https://www.learnpython.org) - [Realpython.com](https://realpython.com) 

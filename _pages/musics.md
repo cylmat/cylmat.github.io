@@ -73,6 +73,9 @@ Account
 - [Steal My Kisses](https://www.youtube.com/watch?v=NL6dIt0CHe0)
 - [Synapson Djon Maya](https://www.youtube.com/watch?v=883J6orWHYE)
 - [The Strumbellas - Spirits](https://www.youtube.com/watch?v=F9kXstb9FF4)
++
+- [Camel Power Club - Oboe](https://www.youtube.com/watch?v=E7gnzbQSUtY)
+- [Nu - Man O To](https://m.youtube.com/watch?v=jamjF8gxNIo)
 
 
 ## Oldies

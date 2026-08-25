@@ -78,7 +78,7 @@ Other : [expr (gfg.org)](https://www.geeksforgeeks.org/linux-unix/expr-command-i
   
 **Quality & Security**  
 * Quality [Quality wikipedia.org](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle) - [Paradigm wikipedia.org](https://fr.m.wikipedia.org/wiki/Paradigme_(programmation)) 
-* CVE [CVEdetails.com]([cvedetails.com](https://www.cvedetails.com)) - [OWASP.org](https://owasp.org)  
+* CVE [CVEdetails.com](https://www.cvedetails.com) - [OWASP.org](https://owasp.org) - [CVE.org](https://www.cve.org/)
 * Linux [Ubuntu-fr.org - Securite](https://doc.ubuntu-fr.org/securite)  
 * Tools DevSecOps (SCA - IaC - SAST - DAST)  
 

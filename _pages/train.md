@@ -53,6 +53,7 @@ Linux
 + Git [Comprendre-git.com](https://comprendre-git.com)
 
 + Linux [Baeldung.com](https://www.baeldung.com/linux) - [Guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfG.org](https://www.geeksforgeeks.org/linux-tutorial) - [Labex.io (linux journey)](https://labex.io/skilltrees/linux) - [TutorialsPoint.com](https://www.tutorialspoint.com/unix/index.htm)
++ Regex [Regexr.com](https://regexr.com) - [Regex101.com](https://regex101.com/) 
 
 Vim  
 + Vim [LearnByExemple github.com](https://learnbyexample.github.io/vim_reference) - [LearnVim irian.to](https://learnvim.irian.to) - [VimValley.com speed](https://vimvalley.com/vim-movement-speed-challenge) - [Vimcasts.org](http://vimcasts.org) - [Vimtricks.com](https://vimtricks.com)
@@ -88,7 +89,8 @@ Database
 Ops  
 * Docker: [Play-with-docker](https://labs.play-with-docker.com) 
 * K8s: [Minikube](https://minikube.sigs.k8s.io/docs/start) 
-* Linux: [Distrosea](https://distrosea.com) 
+* Linux: [Distrosea](https://distrosea.com)
+* Regex: [Regexlearn.com](https://regexlearn.com/playground) - [iHateRegex.io](https://ihateregex.io/playground)
 
 ---
 ### Videos

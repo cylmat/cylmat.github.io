@@ -51,6 +51,7 @@ Linux
   + Oneliner [github onceupon](https://github.com/onceupon/Bash-Oneliner) - [onceuon gist](https://gist.github.com/onceupon/b225f26c4cbc6eb4c41c3a4f09ba9ed7) - [linuxconfig](https://linuxconfig.org/linux-complex-bash-one-liner-examples) 
 + Catonmat.net [Awk](https://catonmat.net/awk-one-liners-explained-part-one) - [Bash](https://catonmat.net/bash-one-liners-explained-part-one) - [Sed](https://catonmat.net/sed-one-liners-explained-part-one) - [Perl](https://catonmat.net/perl-one-liners-explained-part-one)
 + Git [Comprendre-git.com](https://comprendre-git.com)
++ Sed [guide it-connect.fr](https://www.it-connect.fr/guide-de-survie-pour-lutilisation-de-la-commande-sed/) 
 
 + Linux [Baeldung.com](https://www.baeldung.com/linux) - [Guru99.com](https://www.guru99.com/fr/unix-linux-tutorial.html) - [GfG.org](https://www.geeksforgeeks.org/linux-tutorial) - [Labex.io (linux journey)](https://labex.io/skilltrees/linux) - [TutorialsPoint.com](https://www.tutorialspoint.com/unix/index.htm)
 + Regex [Regexr.com](https://regexr.com) - [Regex101.com](https://regex101.com/) 

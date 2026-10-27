@@ -20,7 +20,10 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 ### <center>DEV</center>
 
 [Humancoders.com](https://news.humancoders.com) ([Php](https://news.humancoders.com/t/php), [Js](https://news.humancoders.com/t/javascript))  
-     
+
+
+AI
+- [ActuIA.com](https://www.actuia.com)     
 
 General
 - [Alsacreations.com](https://www.alsacreations.com)

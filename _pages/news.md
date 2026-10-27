@@ -23,7 +23,8 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 
 
 AI
-- [ActuIA.com](https://www.actuia.com)     
+- [ActuIA.com](https://www.actuia.com)
+- [CodeLynx.dev](https://codelynx.dev)
 
 General
 - [Alsacreations.com](https://www.alsacreations.com)

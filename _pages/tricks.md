@@ -98,7 +98,7 @@ Sword
 - https://www.youtube.com/watch?v=R1W-d4rp78A : Sword Taiji Quan
 - https://www.youtube.com/watch?v=2YhCnusqiFc : YJM drills
 - https://www.youtube.com/watch?v=f4OUjYkrl5s : Learn Cool Sword Spins with World Champion
-- 
+
 Staff
 - https://www.youtube.com/watch?v=p3JSMH4c2c0 : Short staff basics
 - https://www.youtube.com/watch?v=XZn8-lO-em0 : Staff basics drills
@@ -130,6 +130,9 @@ https://www.youtube.com/@lightsaberpath
 - https://www.youtube.com/watch?v=7vXcQCjcDpc : Top 10 Lightsaber Tricks
 - https://www.youtube.com/watch?v=saZpA0K-FwY : TOP 3 LIGHTSABER SPINS | Michelle
 - https://www.youtube.com/watch?v=AmR5LoyZ4jw : Star Wars duel on Fencing World Championships
+
+https://www.youtube.com/@SynMando
+- https://www.youtube.com/watch?v=03-OBSYvGzo : Attaques sabre-laser numérotées 
 
 Mikestarwalker tutorials : https://www.youtube.com/watch?v=abSQou7tC4Y&list=PLucEynx2uBqKLEhOLZRVhF6D7uRCpYF7h
 

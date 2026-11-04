@@ -24,6 +24,7 @@ NEWS - [TRAIN](https://cylmat.github.io/train) - [USEFUL](https://cylmat.github.
 
 AI
 - [ActuIA.com](https://www.actuia.com)
+- [AvenueDelIA](https://avenuedelia.com/fr/)
 - [CodeLynx.dev](https://codelynx.dev)
 
 General

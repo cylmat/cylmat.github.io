@@ -103,7 +103,8 @@ Staff
 - https://www.youtube.com/watch?v=XZn8-lO-em0 : Staff basics drills
 - https://www.youtube.com/watch?v=H3vDQgGIF6A : STAFF SPINNING for Beginner Tutorial
 - https://www.youtube.com/watch?v=ENqMy1BU2-Y : Bo Staff, Top 10 Spins and Strikes (Jack Mace)
-- https://www.youtube.com/watch?v=6RbEbrh2Cjk : Learn Staff Spinning: 3 Staff Tricks  
+- https://www.youtube.com/watch?v=6RbEbrh2Cjk : Learn Staff Spinning: 3 Staff Tricks
+- https://www.youtube.com/watch?v=FzPsPM0Q9-k : Bo Staff ** 17 SPINS **
 
 - https://www.youtube.com/watch?v=Tg1yhTG8X6E : Halberd form
 - https://www.youtube.com/watch?v=V4Yh3Hk2YoE : Spear form Zhi Wu Qiang
